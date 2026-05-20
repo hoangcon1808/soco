@@ -4,12 +4,12 @@
     "streamer": "LOGAN",
     "match": "Ural Yekaterinburg vs Dynamo Makhachkala",
     "category": "RUS D1",
-    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779298025-0-0-9bb6c4471e370a9fb95655726f11e09b",
+    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779324595-0-0-64ad81c8b2c2106d898f4f411e40fd82",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779298025-0-0-937f14796ff6d4721b4f112f3a8c0751",
-      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779298025-0-0-3fe20035aac551e659cd502b637167b6",
-      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779298025-0-0-3b51de20e5f07515581fc90a7ffade2e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779298025-0-0-9bb6c4471e370a9fb95655726f11e09b"
+      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779324595-0-0-329b0eee1c6ea64aeba2b3188e040239",
+      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779324595-0-0-e8f186857f468a638a3b4a61a35b04a0",
+      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779324595-0-0-53a3b962d7f75f5083d6a7dbbcca4478",
+      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779324595-0-0-64ad81c8b2c2106d898f4f411e40fd82"
     }
   },
   {
@@ -43,12 +43,12 @@
     "streamer": "BLV THÓC",
     "match": "Ural Yekaterinburg vs Dynamo Makhachkala",
     "category": "RUS D1",
-    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779319555-0-0-839692bd2dc527da608f1e09f1f96211",
+    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779324595-0-0-0799fef3f6b495399baa03b06e141c31",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779319555-0-0-a1f56850f992dd06b3d45f6f1bc06ec6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779319555-0-0-b84e3f4d1b528a51c52c3ddbb7689da7",
-      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779319555-0-0-94feb77c56be2b5493310753db4dfb50",
-      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779319555-0-0-839692bd2dc527da608f1e09f1f96211"
+      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779324595-0-0-f82453a4efa5c1c9dbe9989227cd6951",
+      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779324595-0-0-d549ef09d2c592b40bc83d2f2482aff1",
+      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779324595-0-0-4f5f8490b73036e8507d949909f29c9f",
+      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779324595-0-0-0799fef3f6b495399baa03b06e141c31"
     }
   },
   {
@@ -95,12 +95,12 @@
     "streamer": "TYPN",
     "match": "Ilves Tampere vs Inter Turku",
     "category": "FIN D1",
-    "best_url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=99e83c8f7d77bcff34bd0917d3cbddaa&txTime=6a0e3c3d",
+    "best_url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=b981c7943e22348a30abf349f89c5289&txTime=6a0e9d03",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=f55377aff7431cfdce5cdc13a4ac88ea&txTime=6a0e3c3d",
-      "hd_flv": "https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=99e83c8f7d77bcff34bd0917d3cbddaa&txTime=6a0e3c3d",
-      "m3u8": "https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=f55377aff7431cfdce5cdc13a4ac88ea&txTime=6a0e3c3d",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=99e83c8f7d77bcff34bd0917d3cbddaa&txTime=6a0e3c3d"
+      "flv": "https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=4c7824b6a1cc5aba26aa5e3a6eca6d7a&txTime=6a0e9d03",
+      "hd_flv": "https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=b981c7943e22348a30abf349f89c5289&txTime=6a0e9d03",
+      "m3u8": "https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=4c7824b6a1cc5aba26aa5e3a6eca6d7a&txTime=6a0e9d03",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=b981c7943e22348a30abf349f89c5289&txTime=6a0e9d03"
     }
   },
   {
@@ -108,12 +108,12 @@
     "streamer": "BLV Củ Cải",
     "match": "Ilves Tampere vs Inter Turku",
     "category": "FIN D1",
-    "best_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779300016-0-0-34f5e63c45bc9d5e4caf2e9a7c71ae0b",
+    "best_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779324595-0-0-46f80cecd835f8d58bcc193a1e6bd2e3",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779300016-0-0-cdae519c1b52ca4020248e78822b609f",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779300016-0-0-bc5b086cf46f9821add6781141e6ccc2",
-      "m3u8": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779300016-0-0-dc4065801b1124773622da423b7a982a",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779300016-0-0-34f5e63c45bc9d5e4caf2e9a7c71ae0b"
+      "flv": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779324595-0-0-c62c192090c5932ccac6d62853d40782",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779324595-0-0-1aeb0f0a642c884a80d1f2ecc590e1f5",
+      "m3u8": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779324595-0-0-4f0770c5427dc2b2623b5f82f6e34ce6",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779324595-0-0-46f80cecd835f8d58bcc193a1e6bd2e3"
     }
   },
   {
@@ -147,12 +147,12 @@
     "streamer": "A PÁO",
     "match": "FC Chernigiv vs Dynamo Kyiv",
     "category": "UKR Cup",
-    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779319555-0-0-2b99ad699a1851d3c7208bcfa94ac826",
+    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779324595-0-0-3842c6ac4fdbb8cad84a0c64c7a53724",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779319555-0-0-e009ac8bd36d59dda2d5b4bf6346e084",
-      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779319555-0-0-36f026d72e7f86e07e40953c9e9ef43a",
-      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779319555-0-0-b0bd63bc04145ca71cff351b35b52de7",
-      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779319555-0-0-2b99ad699a1851d3c7208bcfa94ac826"
+      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779324595-0-0-b8abcecac621517134dc666628ea8a1a",
+      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779324595-0-0-fcb3481a8847403d0f3d4ef52b40e1c5",
+      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779324595-0-0-2799d8c173ab5f6c1201e65c1159e77a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779324595-0-0-3842c6ac4fdbb8cad84a0c64c7a53724"
     }
   },
   {
@@ -160,12 +160,12 @@
     "streamer": "BLV VOI",
     "match": "Tukums-2000 vs Riga FC",
     "category": "LAT D1",
-    "best_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779306814-0-0-91380b472670c6eeaa6ae9e753c91f53",
+    "best_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779320113-0-0-94254ab32467d1e9705d832047f659c3",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779306814-0-0-1dbeac47dc3d81c1d97ea15601f4af99",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779306814-0-0-4fe0d1c5776c4aaefe916dbabb55ea7c",
-      "m3u8": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779306814-0-0-0a91f741fd6293ca726daf223c7fd6d4",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779306814-0-0-91380b472670c6eeaa6ae9e753c91f53"
+      "flv": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779320113-0-0-0300314f8973e54243ad1cd7fb7eb4f1",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779320113-0-0-d98a1b15f5480965177a1723de74de72",
+      "m3u8": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779320113-0-0-e94138e2fb617bfb1ce88da18eb61e6a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779320113-0-0-94254ab32467d1e9705d832047f659c3"
     }
   },
   {
