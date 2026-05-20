@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Socolive Stream Scraper - Private Proxy & Auto Best Quality Edition
-Sử dụng Private Proxy và tự động chọn lọc URL có chất lượng tốt nhất.
+Sử dụng Private Proxy, tự động chọn lọc URL tốt nhất và xuất file JSON/M3U.
 """
 from curl_cffi import requests
 import json
@@ -24,13 +24,9 @@ class StreamInfo:
     @property
     def best_url(self) -> Optional[str]:
         """Thuật toán tự động lấy link chất lượng tốt nhất"""
-        # Ưu tiên 1: HD M3U8 (Chất lượng cao, mượt mà trên web/VLC)
         if self.hd_m3u8: return self.hd_m3u8
-        # Ưu tiên 2: HD FLV (Chất lượng cao, tốt cho VLC/PC)
         if self.hd_flv: return self.hd_flv
-        # Ưu tiên 3: SD M3U8 (Độ nét tiêu chuẩn, tương thích cao)
         if self.m3u8: return self.m3u8
-        # Ưu tiên 4: SD FLV (Dự phòng cuối)
         if self.flv: return self.flv
         return None
 
@@ -43,7 +39,7 @@ class SocoliveScraper:
         self.session = requests.Session(impersonate="chrome120")
         
         # ---------------------------------------------------------
-        # CẤU HÌNH PROXY CÁ NHÂN CỦA BẠN (IP:PORT:USER:PASS)
+        # CẤU HÌNH PROXY CÁ NHÂN CỦA BẠN
         # ---------------------------------------------------------
         proxy_url = "http://ZalMQa:BRQrEd@14.250.212.38:36428"
         
@@ -148,8 +144,9 @@ class SocoliveScraper:
 def main():
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('-d', '--date', type=str)
-    parser.add_argument('-o', '--output', type=str)
+    parser.add_argument('-d', '--date', type=str, help="Ngày cần lấy định dạng YYYYMMDD")
+    parser.add_argument('-o', '--output', type=str, help="Xuất dữ liệu ra file JSON")
+    parser.add_argument('-m', '--m3u', type=str, help="Xuất danh sách phát ra file M3U/TXT IPTV")
     args = parser.parse_args()
 
     scraper = SocoliveScraper()
@@ -163,6 +160,7 @@ def main():
         print(f"Tổng số: {len(streams)} luồng stream đang hoạt động.")
         print("=" * 80)
         
+        # 1. XUẤT FILE JSON (Dành cho web HTML)
         if args.output and streams:
             output_data = []
             for s in streams:
@@ -171,7 +169,7 @@ def main():
                     'streamer': s.streamer,
                     'match': s.match_name,
                     'category': s.category,
-                    'best_url': s.best_url, # Xuất thẳng link ngon nhất ra ngoài JSON
+                    'best_url': s.best_url,
                     'urls': {
                         'flv': s.flv,
                         'hd_flv': s.hd_flv,
@@ -181,7 +179,22 @@ def main():
                 })
             with open(args.output, 'w', encoding='utf-8') as f:
                 json.dump(output_data, f, indent=2, ensure_ascii=False)
-            print(f" -> Đã lưu cấu trúc dữ liệu JSON thành công vào: {args.output}")
+            print(f" -> Đã lưu file JSON thành công vào: {args.output}")
+
+        # 2. XUẤT FILE M3U / TXT (Dành cho phần mềm IPTV / VLC)
+        if args.m3u and streams:
+            count_m3u = 0
+            with open(args.m3u, 'w', encoding='utf-8') as f:
+                f.write("#EXTM3U\n")
+                for s in streams:
+                    if s.best_url:
+                        # Ghi tiêu đề (Extinf) chứa Giải đấu, Trận đấu và tên BLV
+                        f.write(f'#EXTINF:-1 group-title="{s.category}", {s.match_name} ({s.streamer})\n')
+                        # Ghi Link stream ngay bên dưới
+                        f.write(f"{s.best_url}\n")
+                        count_m3u += 1
+            print(f" -> Đã lưu thành công Playlist IPTV gồm {count_m3u} kênh vào: {args.m3u}")
+
     except Exception as e:
         print(f" Critical Error: {e}")
         exit(1)
