@@ -4,6 +4,7 @@
     "streamer": "LOGAN",
     "match": "Ural Yekaterinburg vs Dynamo Makhachkala",
     "category": "RUS D1",
+    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779298025-0-0-9bb6c4471e370a9fb95655726f11e09b",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779298025-0-0-937f14796ff6d4721b4f112f3a8c0751",
       "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779298025-0-0-3fe20035aac551e659cd502b637167b6",
@@ -16,6 +17,7 @@
     "streamer": "BLV XO",
     "match": "Ural Yekaterinburg vs Dynamo Makhachkala",
     "category": "RUS D1",
+    "best_url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779310056-0-0-9504d30c1fc0acfecea163aa4262821d",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1779310056-0-0-ab05a9798cf34ae1bc1b9b7f36d31e80",
       "hd_flv": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1779310056-0-0-b55ea5482a08725c147d32a16cd9b5f9",
@@ -28,6 +30,7 @@
     "streamer": "BLV VITAMIN",
     "match": "Ural Yekaterinburg vs Dynamo Makhachkala",
     "category": "RUS D1",
+    "best_url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779310063-0-0-a8a97e7b64829965b6d8b55741585687",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1779310063-0-0-e0a389e006bdd1e5cc3357f1c9e137dc",
       "hd_flv": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1779310063-0-0-37e3ea67116bb822a9f48e8f75d185ef",
@@ -40,6 +43,7 @@
     "streamer": "BLV THÓC",
     "match": "Ural Yekaterinburg vs Dynamo Makhachkala",
     "category": "RUS D1",
+    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779298005-0-0-b8c23e48d099e253d6fe18b5cb4b822a",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779298005-0-0-5d099edc572fcc2c1539ec12537cfcb5",
       "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779298005-0-0-eaf544c6b6f56428563bc27404ad3c98",
@@ -52,6 +56,7 @@
     "streamer": "BLV TOMMY",
     "match": "Ilves Tampere vs Inter Turku",
     "category": "FIN D1",
+    "best_url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779315308-0-0-67381dbd964129f2b2048f5825024b9b",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779315308-0-0-c7a5f90587997889698870a244dacc4a",
       "hd_flv": "https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1779315308-0-0-618ef2d697c27c7ecd075f62b91cfac1",
@@ -64,6 +69,7 @@
     "streamer": "SAO LA",
     "match": "Ilves Tampere vs Inter Turku",
     "category": "FIN D1",
+    "best_url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1d15fe59c3647c440956d81c9b3a59c8&txTime=6a0e7399",
     "urls": {
       "flv": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=aa6430abdafcfa09ff135d7b27ca4b3a&txTime=6a0e7399",
       "hd_flv": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1d15fe59c3647c440956d81c9b3a59c8&txTime=6a0e7399",
@@ -76,6 +82,7 @@
     "streamer": "BLV PIRLO",
     "match": "Ilves Tampere vs Inter Turku",
     "category": "FIN D1",
+    "best_url": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779299784-0-0-97c20b38c1b7bafbe0777a2d73c1b025",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1779299784-0-0-f6af34122353de99c2ef6f389aa2931a",
       "hd_flv": "https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1779299784-0-0-bc3bec0067e97d1d3b7380cab63ccc4e",
@@ -88,6 +95,7 @@
     "streamer": "TYPN",
     "match": "Ilves Tampere vs Inter Turku",
     "category": "FIN D1",
+    "best_url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=99e83c8f7d77bcff34bd0917d3cbddaa&txTime=6a0e3c3d",
     "urls": {
       "flv": "https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=f55377aff7431cfdce5cdc13a4ac88ea&txTime=6a0e3c3d",
       "hd_flv": "https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=99e83c8f7d77bcff34bd0917d3cbddaa&txTime=6a0e3c3d",
@@ -100,6 +108,7 @@
     "streamer": "BLV Củ Cải",
     "match": "Ilves Tampere vs Inter Turku",
     "category": "FIN D1",
+    "best_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779300016-0-0-34f5e63c45bc9d5e4caf2e9a7c71ae0b",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779300016-0-0-cdae519c1b52ca4020248e78822b609f",
       "hd_flv": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779300016-0-0-bc5b086cf46f9821add6781141e6ccc2",
@@ -112,6 +121,7 @@
     "streamer": "BLV 7UP",
     "match": "Ilves Tampere vs Inter Turku",
     "category": "FIN D1",
+    "best_url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779314088-0-0-ff99ab52115842b78b53dbac06e42edd",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1779314088-0-0-dd1975e3a27d97cdc8ab5b3d6e477c05",
       "hd_flv": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1779314088-0-0-89d94a8b7fc98d1088ea20559d6cde5e",
@@ -124,6 +134,7 @@
     "streamer": "KÉP",
     "match": "FC Chernigiv vs Dynamo Kyiv",
     "category": "UKR Cup",
+    "best_url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779306961-0-0-7ee5a479d5d91cc018a0d26ea09c3254",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1779306961-0-0-7bf1af6f278c0e8ae59ea5fe7bb86e34",
       "hd_flv": "https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1779306961-0-0-0977b7a269deda9bb8ad2418ea811618",
@@ -136,6 +147,7 @@
     "streamer": "A PÁO",
     "match": "FC Chernigiv vs Dynamo Kyiv",
     "category": "UKR Cup",
+    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779300594-0-0-305072ce86a5a060262eb4cffe26c684",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779300594-0-0-10861294244489a842252b19d3c77394",
       "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779300594-0-0-36089587e81ef374b2279122554bb84c",
@@ -148,6 +160,7 @@
     "streamer": "BLV VOI",
     "match": "Tukums-2000 vs Riga FC",
     "category": "LAT D1",
+    "best_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779306814-0-0-91380b472670c6eeaa6ae9e753c91f53",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779306814-0-0-1dbeac47dc3d81c1d97ea15601f4af99",
       "hd_flv": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779306814-0-0-4fe0d1c5776c4aaefe916dbabb55ea7c",
@@ -160,6 +173,7 @@
     "streamer": "CHANH MUỐI",
     "match": "Tukums-2000 vs Riga FC",
     "category": "LAT D1",
+    "best_url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779314202-0-0-a29ae4894b9622f2566c66957e19666c",
     "urls": {
       "flv": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1779314202-0-0-598a0aede63de92f04f1b2e5ed2315eb",
       "hd_flv": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1779314202-0-0-95f210eaf77b4dae6dc6c7ee4565d9e8",
