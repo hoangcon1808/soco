@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 """
-Socolive Stream Scraper - Ultimate Proxy Hunter Edition
-Bypasses aggressive WAFs by cascading through Gateways and dynamically scraping Free Proxies.
+Socolive Stream Scraper - Private Proxy Edition
+Sử dụng Private Proxy có xác thực kết hợp curl_cffi giả lập Chrome để vượt Cloudflare.
 """
-from curl_cffi import requests as cffi_requests
-import requests as std_requests
+from curl_cffi import requests
 import json
-import re
 import urllib.parse
-import random
 from datetime import datetime
 from typing import Dict, List, Optional
 from dataclasses import dataclass
@@ -30,20 +27,32 @@ class SocoliveScraper:
     ROOM_ENDPOINT = "/room/{room_id}/detail.json"
 
     def __init__(self):
-        self.session = cffi_requests.Session(impersonate="chrome120")
+        # Sử dụng thư viện curl_cffi giả mạo vân tay mạng của Chrome 120
+        self.session = requests.Session(impersonate="chrome120")
+        
+        # ---------------------------------------------------------
+        # CẤU HÌNH PROXY CÁ NHÂN CỦA BẠN (IP:PORT:USER:PASS)
+        # ---------------------------------------------------------
+        proxy_url = "http://ZalMQa:BRQrEd@14.250.212.38:36428"
+        
+        self.session.proxies = {
+            "http": proxy_url,
+            "https": proxy_url
+        }
+        
         self.session.headers.update({
             'Accept': '*/*',
-            'Accept-Language': 'vi-VN,vi;q=0.9',
+            'Accept-Language': 'vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7',
             'Origin': 'https://socolive.pro',
             'Referer': 'https://socolive.pro/',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         })
-        self.working_proxy = None  # Biến lưu trữ Proxy nếu tìm thấy cổng vượt tường lửa
 
     def _parse_response(self, text: str) -> dict:
-        """Kiểm tra và bóc tách dữ liệu. Nếu dính HTML Cloudflare, hàm sẽ văng lỗi để đổi Proxy"""
+        """Hàm bóc tách dữ liệu JSONP thành JSON chuẩn"""
         text_clean = text.strip()
         if not text_clean:
-            raise ValueError("Dữ liệu trả về trống rỗng.")
+            raise ValueError("Dữ liệu trả về trống rỗng. Có thể proxy bị timeout.")
             
         if text_clean.startswith('{') or text_clean.startswith('['):
             json_str = text_clean
@@ -58,82 +67,17 @@ class SocoliveScraper:
         data = json.loads(json_str)
         if isinstance(data, dict) and 'code' in data:
             return data
-        raise ValueError("Cấu trúc JSON không hợp lệ (Có thể đang bị chặn ngầm).")
+        raise ValueError("Cấu trúc JSON không hợp lệ. Đã bị tường lửa Cloudflare chặn ngầm.")
 
     def _fetch_jsonp(self, url: str) -> dict:
-        # [CHIẾN LƯỢC 1]: Dùng Proxy đã xác nhận hoạt động hoặc Thử kết nối trực tiếp
-        if self.working_proxy:
-            try:
-                res = self.session.get(url, proxies=self.working_proxy, timeout=10)
-                return self._parse_response(res.text)
-            except:
-                self.working_proxy = None # Proxy chết, xóa để tìm cái khác
-                
+        print(f" [*] Đang cào dữ liệu qua Proxy [14.250.212.38:36428]...")
         try:
-            res = self.session.get(url, timeout=10)
+            # Gửi request thông qua session đã cấu hình proxy sẵn
+            res = self.session.get(url, timeout=15)
+            res.raise_for_status()
             return self._parse_response(res.text)
-        except:
-            pass
-
-        # [CHIẾN LƯỢC 2]: Mượn đường qua các Gateways công cộng (dùng API chuẩn để tránh lỗi 500)
-        encoded_url = urllib.parse.quote(url)
-        gateways = [
-            ("AllOrigins", f"https://api.allorigins.win/get?url={encoded_url}"),
-            ("CodeTabs", f"https://api.codetabs.com/v1/proxy?quest={url}"),
-            ("CorsProxy", f"https://corsproxy.io/?{encoded_url}")
-        ]
-        
-        for name, gw_url in gateways:
-            try:
-                res = std_requests.get(gw_url, timeout=15)
-                if res.status_code == 200:
-                    text = res.text
-                    if name == "AllOrigins":
-                        data = res.json()
-                        if data.get('status', {}).get('http_code') == 200:
-                            text = data.get('contents', '')
-                        else:
-                            continue
-                    if text:
-                        return self._parse_response(text)
-            except:
-                continue
-
-        # [CHIẾN LƯỢC 3]: Radar săn IP Proxy miễn phí
-        print("\n [*] Tường lửa chặn quá gắt. Đang kích hoạt Radar tải danh sách Proxy miễn phí thế giới...")
-        proxy_sources = [
-            "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=3000&country=all&ssl=all&anonymity=all",
-            "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
-        ]
-        
-        proxies = []
-        for src in proxy_sources:
-            try:
-                res = std_requests.get(src, timeout=10)
-                proxies.extend([p.strip() for p in res.text.split('\n') if p.strip()])
-            except:
-                pass
-                
-        # Lọc bỏ khoảng trắng và xáo trộn ngẫu nhiên để không bị trùng lặp
-        proxies = list(set([p for p in proxies if p]))
-        random.shuffle(proxies)
-        
-        print(f" [*] Đã thu thập được {len(proxies)} IP. Bắt đầu dò tìm khe hở tường lửa (Thử max 30 IP)...")
-        
-        for p in proxies[:30]:
-            proxy_dict = {"http": f"http://{p}", "https": f"http://{p}"}
-            try:
-                # Dùng curl_cffi kết hợp Proxy để có xác suất qua ải cao nhất
-                res = self.session.get(url, proxies=proxy_dict, timeout=7)
-                data = self._parse_response(res.text)
-                
-                print(f" [+] BINGOOO! Đã đục thủng tường lửa bằng Proxy: {p}")
-                self.working_proxy = proxy_dict  # Lưu lại để dùng cho các request tiếp theo
-                return data
-            except:
-                continue
-
-        raise Exception("Vô phương cứu chữa. Toàn bộ Trực tiếp, Gateways và Hàng chục Proxy đều thất bại. Hãy thử lại sau.")
+        except Exception as e:
+            raise Exception(f"Kết nối Proxy thất bại hoặc bị từ chối: {e}")
 
     def get_matches(self, date: Optional[datetime] = None) -> List[dict]:
         if date is None:
@@ -193,9 +137,9 @@ class SocoliveScraper:
 
 def main():
     import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-d', '--date', type=str)
-    parser.add_argument('-o', '--output', type=str)
+    parser = argparse.ArgumentParser(description='Socolive Stream Scraper with Private Proxy')
+    parser.add_argument('-d', '--date', type=str, help='Định dạng YYYYMMDD')
+    parser.add_argument('-o', '--output', type=str, help='Xuất file JSON')
     args = parser.parse_args()
 
     scraper = SocoliveScraper()
@@ -226,7 +170,7 @@ def main():
                 })
             with open(args.output, 'w', encoding='utf-8') as f:
                 json.dump(output_data, f, indent=2, ensure_ascii=False)
-            print(f" -> Đã lưu JSON thành công vào: {args.output}")
+            print(f" -> Đã lưu cấu trúc dữ liệu JSON thành công vào: {args.output}")
     except Exception as e:
         print(f" Critical Error: {e}")
         exit(1)
