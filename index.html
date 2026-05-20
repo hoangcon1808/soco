@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kết Quả Livestream</title>
+    <!-- Tích hợp TailwindCSS qua CDN để làm đẹp tự động -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-6 font-sans">
+
+    <div class="max-w-6xl mx-auto">
+        <header class="mb-8 text-center">
+            <h1 class="text-3xl font-extrabold text-blue-700 uppercase tracking-wide">Trực Tiếp Bóng Đá</h1>
+            <p class="text-gray-500 mt-2 text-sm" id="last-update">Đang lấy dữ liệu...</p>
+        </header>
+
+        <div id="loading" class="flex justify-center my-12">
+            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-700"></div>
+        </div>
+
+        <!-- Vùng chứa các thẻ Stream -->
+        <div id="streams-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 hidden">
+            <!-- Data sẽ được render vào đây -->
+        </div>
+
+        <div id="error-message" class="hidden text-center bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative">
+            Không tìm thấy dữ liệu stream nào hoặc lỗi máy chủ.
+        </div>
+    </div>
+
+    <script>
+        async function fetchStreams() {
+            try {
+                // Đọc file streams.json sinh ra từ Github Actions
+                const response = await fetch('streams.json?t=' + new Date().getTime()); // thêm param time để chống cache
+                if (!response.ok) throw new Error("File not found");
+                
+                const streams = await response.json();
+                
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('last-update').innerText = 'Cập nhật lần cuối: ' + new Date().toLocaleString('vi-VN');
+
+                const container = document.getElementById('streams-container');
+                
+                if (streams.length === 0) {
+                    document.getElementById('error-message').classList.remove('hidden');
+                    return;
+                }
+
+                container.classList.remove('hidden');
+
+                // Render HTML
+                streams.forEach(stream => {
+                    const card = document.createElement('div');
+                    card.className = "bg-white shadow-lg rounded-xl p-5 border-l-4 border-blue-600 hover:shadow-xl transition duration-300";
+
+                    // Nút link
+                    let linksHTML = '';
+                    if (stream.urls.hd_m3u8) {
+                        linksHTML += `<a href="${stream.urls.hd_m3u8}" target="_blank" class="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded mb-2 transition">Xem HD (M3U8)</a>`;
+                    }
+                    if (stream.urls.m3u8) {
+                        linksHTML += `<a href="${stream.urls.m3u8}" target="_blank" class="block w-full text-center bg-gray-200 hover:bg-gray-300 text-gray-800 font-semibold py-2 px-4 rounded transition">Xem SD (M3U8)</a>`;
+                    }
+                    if (!linksHTML) {
+                        linksHTML = `<p class="text-sm text-red-500 italic">Hiện tại chưa có link stream</p>`;
+                    }
+
+                    card.innerHTML = `
+                        <div class="flex justify-between items-start mb-3">
+                            <span class="bg-blue-100 text-blue-800 text-xs font-bold px-2 py-1 rounded uppercase tracking-wider">${stream.category}</span>
+                            <span class="text-xs text-gray-400">Phòng: ${stream.room_id}</span>
+                        </div>
+                        <h2 class="text-lg font-bold text-gray-800 leading-tight mb-2">${stream.match}</h2>
+                        <div class="flex items-center text-sm text-gray-600 mb-4">
+                            <span class="mr-2">🎙️ BLV:</span>
+                            <strong class="text-gray-900">${stream.streamer}</strong>
+                        </div>
+                        <div class="mt-auto">
+                            ${linksHTML}
+                        </div>
+                    `;
+                    container.appendChild(card);
+                });
+
+            } catch (error) {
+                console.error("Lỗi:", error);
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('error-message').classList.remove('hidden');
+                document.getElementById('error-message').innerText = 'Chưa có file streams.json. Chờ Github Actions chạy để sinh file!';
+            }
+        }
+
+        // Khởi động
+        fetchStreams();
+    </script>
+</body>
+</html>
