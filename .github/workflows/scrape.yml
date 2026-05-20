@@ -2,34 +2,35 @@ name: Auto Scrape Live Streams
 
 on:
   schedule:
-    - cron: '0,30 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *' # Tự động chạy mỗi 30 phút một lần
+  workflow_dispatch: # Cho phép kích hoạt chạy bằng tay từ giao diện GitHub Web
 
 jobs:
   update-streams:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: Set up Python Environment
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install Dependencies
+      - name: Install Critical Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install curl_cffi
+          pip install requests
 
-      - name: Run Scraper to Generate JSON
+      - name: Run Scraper Engine
         run: python scraper.py -o streams.json
 
-      - name: Commit and Push Changes
+      - name: Commit and Secure Push Data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add streams.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update streams.json" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "System: Auto-update streams.json [skip ci]" && git push)
