@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-Socolive Stream Scraper - Production Ready
-Scrapes live streaming URLs from the Socolive API using Free Proxy Gateways
+Socolive Stream Scraper - Extreme Bypass Edition
+Scrapes live streaming URLs using MacOS/Safari impersonation & Google Servers
 """
-import requests
 import json
 import re
 import urllib.parse
@@ -11,9 +10,12 @@ from datetime import datetime
 from typing import Dict, List, Optional
 from dataclasses import dataclass
 
+# Sử dụng cả 2 thư viện để linh hoạt vượt rào
+from curl_cffi import requests as cffi_requests
+import requests as std_requests
+
 @dataclass
 class StreamInfo:
-    """Stream information container"""
     room_id: str
     streamer: str
     match_name: str
@@ -24,62 +26,77 @@ class StreamInfo:
     hd_m3u8: Optional[str] = None
 
 class SocoliveScraper:
-    """Scraper for Socolive streaming endpoints with automated proxy rotation"""
     BASE_URL = "https://json.vnres.co"
     MATCHES_ENDPOINT = "/match/matches_{date}.json"
     ROOM_ENDPOINT = "/room/{room_id}/detail.json"
 
-    def __init__(self):
-        self.session = requests.Session()
-        self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-            'Accept': '*/*',
-            'Accept-Language': 'vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7',
-        })
+    def _parse_response(self, text: str) -> dict:
+        """Hàm dùng chung để bóc tách dữ liệu JSONP thành JSON chuẩn"""
+        text_clean = text.strip()
+        if not text_clean:
+            raise ValueError("Dữ liệu trả về trống.")
+            
+        if text_clean.startswith('{') or text_clean.startswith('['):
+            json_str = text_clean
+        else:
+            start = text_clean.find('(')
+            end = text_clean.rfind(')')
+            if start != -1 and end != -1:
+                json_str = text_clean[start+1:end]
+            else:
+                json_str = text_clean
+        
+        data = json.loads(json_str)
+        if isinstance(data, dict) and 'code' in data:
+            return data
+        raise ValueError("Cấu trúc JSON không hợp lệ hoặc bị Cloudflare chặn ngầm.")
 
     def _fetch_jsonp(self, url: str) -> dict:
-        """Fetch JSONP/JSON response via rotation of free gateways to bypass GitHub Action IP blocks"""
         encoded_url = urllib.parse.quote(url)
-        
-        # Danh sách các Gateway dự phòng khi IP trực tiếp bị chặn 403
-        gateways = [
-            ("Direct Connection", url),
-            ("Codetabs Gateway", f"https://api.codetabs.com/v1/proxy?quest={url}"),
-            ("Corsproxy Gateway", f"https://corsproxy.io/?{encoded_url}"),
-            ("AllOrigins Gateway", f"https://api.allorigins.win/raw?url={encoded_url}")
-        ]
-        
         last_error = None
-        for name, target_url in gateways:
-            try:
-                response = self.session.get(target_url, timeout=15)
-                response.raise_for_status()
-                
-                text_clean = response.text.strip()
-                if not text_clean:
-                    continue
-                
-                # Giải mã cấu trúc JSONP (bóc tách cặp ngoặc đơn ngoài cùng nếu có)
-                if text_clean.startswith('{') or text_clean.startswith('['):
-                    json_str = text_clean
-                else:
-                    start = text_clean.find('(')
-                    end = text_clean.rfind(')')
-                    if start != -1 and end != -1:
-                        json_str = text_clean[start+1:end]
-                    else:
-                        json_str = text_clean
-                
-                data = json.loads(json_str)
-                if isinstance(data, dict) and 'code' in data:
-                    return data
-                    
-            except Exception as e:
-                print(f" [-] {name} tuyến đường thất bại: {e}")
-                last_error = e
-                continue
-                
-        raise Exception(f"Tất cả các cổng kết nối đều bị chặn hoặc lỗi dữ liệu. Lỗi cuối: {last_error}")
+        
+        # [Chiến lược 1]: Giả lập trình duyệt Safari trên MacOS
+        # Cloudflare rất tin tưởng tín hiệu từ thiết bị Apple
+        try:
+            print(" [*] Đang thử kết nối trực tiếp (Giả lập Mac/Safari)...")
+            session = cffi_requests.Session(impersonate="safari")
+            session.headers.update({
+                'Accept': '*/*',
+                'Accept-Language': 'vi-VN,vi;q=0.9',
+                'Origin': 'https://socolive.pro',
+                'Referer': 'https://socolive.pro/',
+            })
+            res = session.get(url, timeout=15)
+            res.raise_for_status()
+            return self._parse_response(res.text)
+        except Exception as e:
+            print(f" [-] Kết nối trực tiếp thất bại: {e}")
+            last_error = e
+
+        # [Chiến lược 2]: Sử dụng Google OpenSocial Proxy
+        # Trạm trung chuyển của chính Google (Dải IP của Google được Whitelist ở mọi nơi)
+        try:
+            print(" [*] Đang thử kết nối qua trạm trung chuyển Google...")
+            google_url = f"https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=0&url={encoded_url}"
+            res = std_requests.get(google_url, timeout=15)
+            res.raise_for_status()
+            return self._parse_response(res.text)
+        except Exception as e:
+            print(f" [-] Google Proxy thất bại: {e}")
+            last_error = e
+
+        # [Chiến lược 3]: Dự phòng cuối cùng bằng Corsproxy.org
+        try:
+            print(" [*] Đang thử kết nối qua CorsProxy...")
+            cors_url = f"https://corsproxy.org/?{encoded_url}"
+            res = std_requests.get(cors_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}, timeout=15)
+            res.raise_for_status()
+            return self._parse_response(res.text)
+        except Exception as e:
+            print(f" [-] CorsProxy thất bại: {e}")
+            last_error = e
+
+        raise Exception(f"Tất cả các phương pháp đều bị tường lửa chặn. Lỗi cuối cùng: {last_error}")
 
     def get_matches(self, date: Optional[datetime] = None) -> List[dict]:
         if date is None:
@@ -157,9 +174,9 @@ class SocoliveScraper:
 
 def main():
     import argparse
-    parser = argparse.ArgumentParser(description='Socolive Stream Scraper Dynamic IP Bypass')
-    parser.add_argument('-d', '--date', type=str, help='Định dạng YYYYMMDD (Mặc định: hôm nay)')
-    parser.add_argument('-o', '--output', type=str, help='Đường dẫn xuất file dữ liệu JSON')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-d', '--date', type=str)
+    parser.add_argument('-o', '--output', type=str)
     args = parser.parse_args()
 
     scraper = SocoliveScraper()
