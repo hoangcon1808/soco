@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="RUS D1", Ural Yekaterinburg vs Dynamo Makhachkala (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779298025-0-0-9bb6c4471e370a9fb95655726f11e09b
+#EXTINF:-1 group-title="RUS D1", Ural Yekaterinburg vs Dynamo Makhachkala (BLV XO)
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779310056-0-0-9504d30c1fc0acfecea163aa4262821d
+#EXTINF:-1 group-title="RUS D1", Ural Yekaterinburg vs Dynamo Makhachkala (BLV VITAMIN)
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779310063-0-0-a8a97e7b64829965b6d8b55741585687
+#EXTINF:-1 group-title="RUS D1", Ural Yekaterinburg vs Dynamo Makhachkala (BLV THÓC)
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779316555-0-0-c2857a0f50d3353ce7952e72bc664e20
+#EXTINF:-1 group-title="FIN D1", Ilves Tampere vs Inter Turku (BLV TOMMY)
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779315308-0-0-67381dbd964129f2b2048f5825024b9b
+#EXTINF:-1 group-title="FIN D1", Ilves Tampere vs Inter Turku (SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1d15fe59c3647c440956d81c9b3a59c8&txTime=6a0e7399
+#EXTINF:-1 group-title="FIN D1", Ilves Tampere vs Inter Turku (BLV PIRLO)
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779299784-0-0-97c20b38c1b7bafbe0777a2d73c1b025
+#EXTINF:-1 group-title="FIN D1", Ilves Tampere vs Inter Turku (TYPN)
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=99e83c8f7d77bcff34bd0917d3cbddaa&txTime=6a0e3c3d
+#EXTINF:-1 group-title="FIN D1", Ilves Tampere vs Inter Turku (BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779300016-0-0-34f5e63c45bc9d5e4caf2e9a7c71ae0b
+#EXTINF:-1 group-title="FIN D1", Ilves Tampere vs Inter Turku (BLV 7UP)
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779314088-0-0-ff99ab52115842b78b53dbac06e42edd
+#EXTINF:-1 group-title="UKR Cup", FC Chernigiv vs Dynamo Kyiv (KÉP)
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779306961-0-0-7ee5a479d5d91cc018a0d26ea09c3254
+#EXTINF:-1 group-title="UKR Cup", FC Chernigiv vs Dynamo Kyiv (A PÁO)
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779316555-0-0-9c294fc717c572e3f76ae15130fefb81
+#EXTINF:-1 group-title="LAT D1", Tukums-2000 vs Riga FC (BLV VOI)
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779306814-0-0-91380b472670c6eeaa6ae9e753c91f53
+#EXTINF:-1 group-title="LAT D1", Tukums-2000 vs Riga FC (CHANH MUỐI)
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779314202-0-0-a29ae4894b9622f2566c66957e19666c
