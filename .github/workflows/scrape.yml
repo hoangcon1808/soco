@@ -2,14 +2,14 @@ name: Auto Scrape Live Streams
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *' # Tự động chạy mỗi 30 phút một lần
+  workflow_dispatch: # Cho phép kích hoạt chạy bằng tay từ nút "Run workflow"
 
 jobs:
   update-streams:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Cấp quyền cho Action ghi đè dữ liệu lên Repo
       
     steps:
       - name: Checkout Repository
@@ -25,12 +25,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install curl_cffi requests
 
-      - name: Run Scraper Engine
-        run: python scraper.py -o streams.json
+      - name: Run Scraper Engine (JSON + M3U)
+        # Sinh ra cả file streams.json (cho Web) và playlist.m3u (cho VLC/IPTV)
+        run: python scraper.py -o streams.json -m playlist.m3u
 
       - name: Commit and Secure Push Data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # Add cả 2 file dữ liệu mới vào Git
           git add streams.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "System: Auto-update streams.json [skip ci]" && git push)
+          git add playlist.m3u
+          
+          # Kiểm tra nếu dữ liệu có sự thay đổi (có trận mới, có link mới) thì mới Commit & Push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "System: Auto-update streams and IPTV playlist [skip ci]" && git push)
