@@ -43,12 +43,12 @@
     "streamer": "BLV THÓC",
     "match": "Ural Yekaterinburg vs Dynamo Makhachkala",
     "category": "RUS D1",
-    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779298005-0-0-b8c23e48d099e253d6fe18b5cb4b822a",
+    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779316435-0-0-7eb442b0d3938f4d3e8d93afd65bfcde",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779298005-0-0-5d099edc572fcc2c1539ec12537cfcb5",
-      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779298005-0-0-eaf544c6b6f56428563bc27404ad3c98",
-      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779298005-0-0-14e40be59a1eff6f21e1fcd3624407cc",
-      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779298005-0-0-b8c23e48d099e253d6fe18b5cb4b822a"
+      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779316435-0-0-96d7f415a95fb1e7d03c23a18d8ff793",
+      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779316435-0-0-1c2b6f882b62848fcc5a12c266bff067",
+      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779316435-0-0-8b31111e792e6f20f45da945590e355a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779316435-0-0-7eb442b0d3938f4d3e8d93afd65bfcde"
     }
   },
   {
