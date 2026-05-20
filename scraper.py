@@ -3,7 +3,8 @@
 Socolive Stream Scraper
 Scrapes live streaming URLs from the Socolive API
 """
-import requests
+# Đổi từ requests sang curl_cffi để vượt tường lửa 403
+from curl_cffi import requests
 import json
 import re
 from datetime import datetime
@@ -29,11 +30,22 @@ class SocoliveScraper:
     ROOM_ENDPOINT = "/room/{room_id}/detail.json"
 
     def __init__(self):
-        self.session = requests.Session()
+        # Kích hoạt tính năng giả lập trình duyệt Chrome
+        self.session = requests.Session(impersonate="chrome")
+        
+        # Bổ sung các Header giống hệt người dùng thật
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': '*/*',
-            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Language': 'vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7',
+            'Origin': 'https://socolive.pro',
+            'Referer': 'https://socolive.pro/',
+            'Sec-Ch-Ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+            'Sec-Ch-Ua-Mobile': '?0',
+            'Sec-Ch-Ua-Platform': '"Windows"',
+            'Sec-Fetch-Dest': 'empty',
+            'Sec-Fetch-Mode': 'cors',
+            'Sec-Fetch-Site': 'cross-site'
         })
 
     def _fetch_jsonp(self, url: str) -> dict:
@@ -41,7 +53,6 @@ class SocoliveScraper:
         response = self.session.get(url, timeout=10)
         response.raise_for_status()
         
-        # Remove JSONP callback wrapper: callback_name({...})
         text = response.text
         match = re.match(r'^\w+\((.*)\)$', text, re.DOTALL)
         if match:
@@ -52,7 +63,6 @@ class SocoliveScraper:
         return json.loads(json_str)
 
     def get_matches(self, date: Optional[datetime] = None) -> List[dict]:
-        """ Get list of matches for a specific date """
         if date is None:
             date = datetime.now()
             
@@ -66,7 +76,6 @@ class SocoliveScraper:
         return data.get('data', [])
 
     def get_room_detail(self, room_id: str) -> dict:
-        """ Get stream details for a specific room """
         url = f"{self.BASE_URL}{self.ROOM_ENDPOINT.format(room_id=room_id)}"
         data = self._fetch_jsonp(url)
         
@@ -76,7 +85,6 @@ class SocoliveScraper:
         return data.get('data', {})
 
     def get_all_streams(self, date: Optional[datetime] = None) -> List[StreamInfo]:
-        """ Get all available streams for a date """
         matches = self.get_matches(date)
         streams = []
         seen_rooms = set()
@@ -120,7 +128,6 @@ class SocoliveScraper:
         return streams
 
     def print_streams(self, streams: List[StreamInfo], format: str = 'table'):
-        """ Print streams in specified format """
         if format == 'json':
             output = []
             for s in streams:
@@ -191,7 +198,6 @@ def main():
         streams = scraper.get_all_streams(date)
         scraper.print_streams(streams, args.format)
 
-    # Save format JSON if output path is provided
     if args.output and streams:
         output_data = []
         for s in streams:
