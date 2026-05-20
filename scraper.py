@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 """
-Socolive Stream Scraper - Extreme Bypass Edition
-Scrapes live streaming URLs using MacOS/Safari impersonation & Google Servers
+Socolive Stream Scraper - Ultimate Proxy Hunter Edition
+Bypasses aggressive WAFs by cascading through Gateways and dynamically scraping Free Proxies.
 """
+from curl_cffi import requests as cffi_requests
+import requests as std_requests
 import json
 import re
 import urllib.parse
+import random
 from datetime import datetime
 from typing import Dict, List, Optional
 from dataclasses import dataclass
-
-# Sử dụng cả 2 thư viện để linh hoạt vượt rào
-from curl_cffi import requests as cffi_requests
-import requests as std_requests
 
 @dataclass
 class StreamInfo:
@@ -30,11 +29,21 @@ class SocoliveScraper:
     MATCHES_ENDPOINT = "/match/matches_{date}.json"
     ROOM_ENDPOINT = "/room/{room_id}/detail.json"
 
+    def __init__(self):
+        self.session = cffi_requests.Session(impersonate="chrome120")
+        self.session.headers.update({
+            'Accept': '*/*',
+            'Accept-Language': 'vi-VN,vi;q=0.9',
+            'Origin': 'https://socolive.pro',
+            'Referer': 'https://socolive.pro/',
+        })
+        self.working_proxy = None  # Biến lưu trữ Proxy nếu tìm thấy cổng vượt tường lửa
+
     def _parse_response(self, text: str) -> dict:
-        """Hàm dùng chung để bóc tách dữ liệu JSONP thành JSON chuẩn"""
+        """Kiểm tra và bóc tách dữ liệu. Nếu dính HTML Cloudflare, hàm sẽ văng lỗi để đổi Proxy"""
         text_clean = text.strip()
         if not text_clean:
-            raise ValueError("Dữ liệu trả về trống.")
+            raise ValueError("Dữ liệu trả về trống rỗng.")
             
         if text_clean.startswith('{') or text_clean.startswith('['):
             json_str = text_clean
@@ -49,54 +58,82 @@ class SocoliveScraper:
         data = json.loads(json_str)
         if isinstance(data, dict) and 'code' in data:
             return data
-        raise ValueError("Cấu trúc JSON không hợp lệ hoặc bị Cloudflare chặn ngầm.")
+        raise ValueError("Cấu trúc JSON không hợp lệ (Có thể đang bị chặn ngầm).")
 
     def _fetch_jsonp(self, url: str) -> dict:
+        # [CHIẾN LƯỢC 1]: Dùng Proxy đã xác nhận hoạt động hoặc Thử kết nối trực tiếp
+        if self.working_proxy:
+            try:
+                res = self.session.get(url, proxies=self.working_proxy, timeout=10)
+                return self._parse_response(res.text)
+            except:
+                self.working_proxy = None # Proxy chết, xóa để tìm cái khác
+                
+        try:
+            res = self.session.get(url, timeout=10)
+            return self._parse_response(res.text)
+        except:
+            pass
+
+        # [CHIẾN LƯỢC 2]: Mượn đường qua các Gateways công cộng (dùng API chuẩn để tránh lỗi 500)
         encoded_url = urllib.parse.quote(url)
-        last_error = None
+        gateways = [
+            ("AllOrigins", f"https://api.allorigins.win/get?url={encoded_url}"),
+            ("CodeTabs", f"https://api.codetabs.com/v1/proxy?quest={url}"),
+            ("CorsProxy", f"https://corsproxy.io/?{encoded_url}")
+        ]
         
-        # [Chiến lược 1]: Giả lập trình duyệt Safari trên MacOS
-        # Cloudflare rất tin tưởng tín hiệu từ thiết bị Apple
-        try:
-            print(" [*] Đang thử kết nối trực tiếp (Giả lập Mac/Safari)...")
-            session = cffi_requests.Session(impersonate="safari")
-            session.headers.update({
-                'Accept': '*/*',
-                'Accept-Language': 'vi-VN,vi;q=0.9',
-                'Origin': 'https://socolive.pro',
-                'Referer': 'https://socolive.pro/',
-            })
-            res = session.get(url, timeout=15)
-            res.raise_for_status()
-            return self._parse_response(res.text)
-        except Exception as e:
-            print(f" [-] Kết nối trực tiếp thất bại: {e}")
-            last_error = e
+        for name, gw_url in gateways:
+            try:
+                res = std_requests.get(gw_url, timeout=15)
+                if res.status_code == 200:
+                    text = res.text
+                    if name == "AllOrigins":
+                        data = res.json()
+                        if data.get('status', {}).get('http_code') == 200:
+                            text = data.get('contents', '')
+                        else:
+                            continue
+                    if text:
+                        return self._parse_response(text)
+            except:
+                continue
 
-        # [Chiến lược 2]: Sử dụng Google OpenSocial Proxy
-        # Trạm trung chuyển của chính Google (Dải IP của Google được Whitelist ở mọi nơi)
-        try:
-            print(" [*] Đang thử kết nối qua trạm trung chuyển Google...")
-            google_url = f"https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=0&url={encoded_url}"
-            res = std_requests.get(google_url, timeout=15)
-            res.raise_for_status()
-            return self._parse_response(res.text)
-        except Exception as e:
-            print(f" [-] Google Proxy thất bại: {e}")
-            last_error = e
+        # [CHIẾN LƯỢC 3]: Radar săn IP Proxy miễn phí
+        print("\n [*] Tường lửa chặn quá gắt. Đang kích hoạt Radar tải danh sách Proxy miễn phí thế giới...")
+        proxy_sources = [
+            "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=3000&country=all&ssl=all&anonymity=all",
+            "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
+        ]
+        
+        proxies = []
+        for src in proxy_sources:
+            try:
+                res = std_requests.get(src, timeout=10)
+                proxies.extend([p.strip() for p in res.text.split('\n') if p.strip()])
+            except:
+                pass
+                
+        # Lọc bỏ khoảng trắng và xáo trộn ngẫu nhiên để không bị trùng lặp
+        proxies = list(set([p for p in proxies if p]))
+        random.shuffle(proxies)
+        
+        print(f" [*] Đã thu thập được {len(proxies)} IP. Bắt đầu dò tìm khe hở tường lửa (Thử max 30 IP)...")
+        
+        for p in proxies[:30]:
+            proxy_dict = {"http": f"http://{p}", "https": f"http://{p}"}
+            try:
+                # Dùng curl_cffi kết hợp Proxy để có xác suất qua ải cao nhất
+                res = self.session.get(url, proxies=proxy_dict, timeout=7)
+                data = self._parse_response(res.text)
+                
+                print(f" [+] BINGOOO! Đã đục thủng tường lửa bằng Proxy: {p}")
+                self.working_proxy = proxy_dict  # Lưu lại để dùng cho các request tiếp theo
+                return data
+            except:
+                continue
 
-        # [Chiến lược 3]: Dự phòng cuối cùng bằng Corsproxy.org
-        try:
-            print(" [*] Đang thử kết nối qua CorsProxy...")
-            cors_url = f"https://corsproxy.org/?{encoded_url}"
-            res = std_requests.get(cors_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}, timeout=15)
-            res.raise_for_status()
-            return self._parse_response(res.text)
-        except Exception as e:
-            print(f" [-] CorsProxy thất bại: {e}")
-            last_error = e
-
-        raise Exception(f"Tất cả các phương pháp đều bị tường lửa chặn. Lỗi cuối cùng: {last_error}")
+        raise Exception("Vô phương cứu chữa. Toàn bộ Trực tiếp, Gateways và Hàng chục Proxy đều thất bại. Hãy thử lại sau.")
 
     def get_matches(self, date: Optional[datetime] = None) -> List[dict]:
         if date is None:
@@ -105,19 +142,11 @@ class SocoliveScraper:
         date_str = date.strftime("%Y%m%d")
         url = f"{self.BASE_URL}{self.MATCHES_ENDPOINT.format(date=date_str)}"
         data = self._fetch_jsonp(url)
-        
-        if data.get('code') != 200:
-            raise Exception(f"API socolive báo lỗi: {data.get('msg', 'Unknown error')}")
-            
         return data.get('data', [])
 
     def get_room_detail(self, room_id: str) -> dict:
         url = f"{self.BASE_URL}{self.ROOM_ENDPOINT.format(room_id=room_id)}"
         data = self._fetch_jsonp(url)
-        
-        if data.get('code') != 200:
-            raise Exception(f"API socolive báo lỗi: {data.get('msg', 'Unknown error')}")
-            
         return data.get('data', {})
 
     def get_all_streams(self, date: Optional[datetime] = None) -> List[StreamInfo]:
@@ -142,8 +171,7 @@ class SocoliveScraper:
                     stream_data = detail.get('stream', {})
                     
                     def clean_url(url_str):
-                        if url_str:
-                            return url_str.replace('\\u003d', '=').replace('\\u0026', '&').replace('\\/', '/')
+                        if url_str: return url_str.replace('\\u003d', '=').replace('\\u0026', '&').replace('\\/', '/')
                         return url_str
                         
                     stream_info = StreamInfo(
@@ -157,20 +185,11 @@ class SocoliveScraper:
                         hd_m3u8=clean_url(stream_data.get('hdM3u8'))
                     )
                     streams.append(stream_info)
-                    print(f" [+] Room {room_id}: {streamer} - {match_name}")
+                    print(f"  -> Lấy thành công link phòng {room_id}: {streamer}")
                 except Exception as e:
-                    print(f" [-] Lỗi tải dữ liệu phòng {room_id}: {e}")
+                    print(f"  -> Lỗi lấy link phòng {room_id}: {e}")
                     
         return streams
-
-    def print_table(self, streams: List[StreamInfo]):
-        print("\n" + "=" * 80)
-        print(f"{'Phòng':<10} {'Bình Luận Viên':<20} {'Trận Đấu':<35} {'Giải Đấu':<15}")
-        print("=" * 80)
-        for s in streams:
-            print(f"{s.room_id:<10} {s.streamer:<20} {s.match_name[:35]:<35} {s.category[:15]:<15}")
-        print("=" * 80)
-        print(f"Tổng số: {len(streams)} luồng stream đang hoạt động.\n")
 
 def main():
     import argparse
@@ -185,7 +204,10 @@ def main():
     print(f"Bắt đầu thu thập dữ liệu luồng stream...")
     try:
         streams = scraper.get_all_streams(date)
-        scraper.print_table(streams)
+        
+        print("\n" + "=" * 80)
+        print(f"Tổng số: {len(streams)} luồng stream đang hoạt động.")
+        print("=" * 80)
         
         if args.output and streams:
             output_data = []
@@ -204,7 +226,7 @@ def main():
                 })
             with open(args.output, 'w', encoding='utf-8') as f:
                 json.dump(output_data, f, indent=2, ensure_ascii=False)
-            print(f" -> Đã lưu cấu trúc dữ liệu JSON thành công vào: {args.output}")
+            print(f" -> Đã lưu JSON thành công vào: {args.output}")
     except Exception as e:
         print(f" Critical Error: {e}")
         exit(1)
