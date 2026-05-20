@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Socolive Stream Scraper - Private Proxy Edition
-Sử dụng Private Proxy có xác thực kết hợp curl_cffi giả lập Chrome để vượt Cloudflare.
+Socolive Stream Scraper - Private Proxy & Auto Best Quality Edition
+Sử dụng Private Proxy và tự động chọn lọc URL có chất lượng tốt nhất.
 """
 from curl_cffi import requests
 import json
@@ -21,13 +21,25 @@ class StreamInfo:
     m3u8: Optional[str] = None
     hd_m3u8: Optional[str] = None
 
+    @property
+    def best_url(self) -> Optional[str]:
+        """Thuật toán tự động lấy link chất lượng tốt nhất"""
+        # Ưu tiên 1: HD M3U8 (Chất lượng cao, mượt mà trên web/VLC)
+        if self.hd_m3u8: return self.hd_m3u8
+        # Ưu tiên 2: HD FLV (Chất lượng cao, tốt cho VLC/PC)
+        if self.hd_flv: return self.hd_flv
+        # Ưu tiên 3: SD M3U8 (Độ nét tiêu chuẩn, tương thích cao)
+        if self.m3u8: return self.m3u8
+        # Ưu tiên 4: SD FLV (Dự phòng cuối)
+        if self.flv: return self.flv
+        return None
+
 class SocoliveScraper:
     BASE_URL = "https://json.vnres.co"
     MATCHES_ENDPOINT = "/match/matches_{date}.json"
     ROOM_ENDPOINT = "/room/{room_id}/detail.json"
 
     def __init__(self):
-        # Sử dụng thư viện curl_cffi giả mạo vân tay mạng của Chrome 120
         self.session = requests.Session(impersonate="chrome120")
         
         # ---------------------------------------------------------
@@ -49,7 +61,6 @@ class SocoliveScraper:
         })
 
     def _parse_response(self, text: str) -> dict:
-        """Hàm bóc tách dữ liệu JSONP thành JSON chuẩn"""
         text_clean = text.strip()
         if not text_clean:
             raise ValueError("Dữ liệu trả về trống rỗng. Có thể proxy bị timeout.")
@@ -72,7 +83,6 @@ class SocoliveScraper:
     def _fetch_jsonp(self, url: str) -> dict:
         print(f" [*] Đang cào dữ liệu qua Proxy [14.250.212.38:36428]...")
         try:
-            # Gửi request thông qua session đã cấu hình proxy sẵn
             res = self.session.get(url, timeout=15)
             res.raise_for_status()
             return self._parse_response(res.text)
@@ -137,9 +147,9 @@ class SocoliveScraper:
 
 def main():
     import argparse
-    parser = argparse.ArgumentParser(description='Socolive Stream Scraper with Private Proxy')
-    parser.add_argument('-d', '--date', type=str, help='Định dạng YYYYMMDD')
-    parser.add_argument('-o', '--output', type=str, help='Xuất file JSON')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-d', '--date', type=str)
+    parser.add_argument('-o', '--output', type=str)
     args = parser.parse_args()
 
     scraper = SocoliveScraper()
@@ -161,6 +171,7 @@ def main():
                     'streamer': s.streamer,
                     'match': s.match_name,
                     'category': s.category,
+                    'best_url': s.best_url, # Xuất thẳng link ngon nhất ra ngoài JSON
                     'urls': {
                         'flv': s.flv,
                         'hd_flv': s.hd_flv,
