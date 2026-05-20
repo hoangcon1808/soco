@@ -43,12 +43,12 @@
     "streamer": "BLV THÓC",
     "match": "Ural Yekaterinburg vs Dynamo Makhachkala",
     "category": "RUS D1",
-    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779316555-0-0-c2857a0f50d3353ce7952e72bc664e20",
+    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779319555-0-0-839692bd2dc527da608f1e09f1f96211",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779316555-0-0-c85967bc4160f37e2c07cb13cedf9d8c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779316555-0-0-37fe3da8e83d6c7c97c3907a3b095765",
-      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779316555-0-0-e1335371d4a01caf120b76e8d8932842",
-      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779316555-0-0-c2857a0f50d3353ce7952e72bc664e20"
+      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779319555-0-0-a1f56850f992dd06b3d45f6f1bc06ec6",
+      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779319555-0-0-b84e3f4d1b528a51c52c3ddbb7689da7",
+      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779319555-0-0-94feb77c56be2b5493310753db4dfb50",
+      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779319555-0-0-839692bd2dc527da608f1e09f1f96211"
     }
   },
   {
@@ -147,12 +147,12 @@
     "streamer": "A PÁO",
     "match": "FC Chernigiv vs Dynamo Kyiv",
     "category": "UKR Cup",
-    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779316555-0-0-9c294fc717c572e3f76ae15130fefb81",
+    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779319555-0-0-2b99ad699a1851d3c7208bcfa94ac826",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779316555-0-0-c0553e458b176cd7667f6e2cb71b5788",
-      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779316555-0-0-619c61781b899f444e72fb20c0c26cc9",
-      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779316555-0-0-5bb3279e2210ff832346edaf822d516b",
-      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779316555-0-0-9c294fc717c572e3f76ae15130fefb81"
+      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779319555-0-0-e009ac8bd36d59dda2d5b4bf6346e084",
+      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779319555-0-0-36f026d72e7f86e07e40953c9e9ef43a",
+      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779319555-0-0-b0bd63bc04145ca71cff351b35b52de7",
+      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779319555-0-0-2b99ad699a1851d3c7208bcfa94ac826"
     }
   },
   {
