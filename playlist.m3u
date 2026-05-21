@@ -1,50 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="MGL D1", Khangarid FC vs Central Stallions (BLV COCA)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779354535-0-0-623fdc53fd9b96776306e0b1c41d8be9
-#EXTINF:-1 group-title="MGL D1", Khangarid FC vs Central Stallions (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779354535-0-0-3d5b6b019a74eb8e79a213edd839dbd4
-#EXTINF:-1 group-title="MGL D1", Khangarid FC vs Central Stallions (BLV RÔSI)
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1779354535-0-0-ee9f122f18154081443eecf446d880e4
-#EXTINF:-1 group-title="MGL D1", Khangarid FC vs Central Stallions (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=fba5692640511f598d631913333b7fcf&txTime=6a0f11f7
-#EXTINF:-1 group-title="MGL D1", Khangarid FC vs Central Stallions (DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779354535-0-0-14b3a958c2f37742ce8076f566860ec9
-#EXTINF:-1 group-title="MGL D1", Khangarid FC vs Central Stallions (MONEY MAN)
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779354535-0-0-2ca496e86b7dc2ed21826582c0938d5e
-#EXTINF:-1 group-title="NZBL", Southland Sharks vs Wellington Saints (KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779354535-0-0-d1fdd87c4b3f1eca50ca2a56e68d4434
-#EXTINF:-1 group-title="NZBL", Southland Sharks vs Wellington Saints (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779354535-0-0-45345650e94d0fae0745c1b756039a83
-#EXTINF:-1 group-title="NZBL", Southland Sharks vs Wellington Saints (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779354535-0-0-db376b361df46cc61abe3f8aad287856
-#EXTINF:-1 group-title="NZBL", Southland Sharks vs Wellington Saints (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779354535-0-0-3636476ada233025439221950df8185f
-#EXTINF:-1 group-title="NZBL", Southland Sharks vs Wellington Saints (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779354535-0-0-5d9893886b0d536b9c2f3693a102d084
 #EXTINF:-1 group-title="KAZ D1", Ekibastuzets vs Akademiya Ontustik (THẠCH TÚ)
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=c6a491bfe1e22f6d46bb6b064ce1f44c&txTime=6a0e73a7
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=61eb8d3799734d309d73f5c2274be0ce&txTime=6a0f4587
 #EXTINF:-1 group-title="KAZ D1", Ekibastuzets vs Akademiya Ontustik (BLV 7UP)
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779340405-0-0-1831139fc321d96230944f67640455f4
-#EXTINF:-1 group-title="MGL D1", Ulaangom City vs Khovd Broncos (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779339472-0-0-a83ffed91f71b7a82f0268e708357195
-#EXTINF:-1 group-title="MGL D1", Ulaangom City vs Khovd Broncos (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779340208-0-0-ae0127ff1b9d95ce90b566727f508a85
-#EXTINF:-1 group-title="BTN PL", Ugyen Academy vs Tsirang FC (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779311085-0-0-8f20eb3fc53d3c60302144151d9d4f1a
-#EXTINF:-1 group-title="BTN PL", Ugyen Academy vs Tsirang FC (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779305318-0-0-14843b1e33cbfd48904585da3cbf2eb4
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779367735-0-0-95cfa9bece14f1f1c8434a49b2d0e134
 #EXTINF:-1 group-title="MPBL", Bacolod Masskara vs Paranaque Patriots (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779336390-0-0-cec123a634f992e0d17991fb12e760e2
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779367735-0-0-e80d680882e9ec8158a00704455aee13
+#EXTINF:-1 group-title="MPBL", Bacolod Masskara vs Paranaque Patriots (BLV HENRY)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779367735-0-0-317405d0c39328df108b30cf9f9cee94
 #EXTINF:-1 group-title="KAZ D1", FK Aktobe II vs FK Yelimay Semey B (XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5bcea5b51b3b4e82ad645bc8f9193012&txTime=6a0ebcda
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b234aeb8b85e19d3b8cbe964438400e0&txTime=6a0f4587
 #EXTINF:-1 group-title="KAZ D1", FK Aktobe II vs FK Yelimay Semey B (CHANH MUỐI)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779314202-0-0-a29ae4894b9622f2566c66957e19666c
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779367735-0-0-741cf2f736fa4abac815414b170e1852
 #EXTINF:-1 group-title="KAZ D1", Kairat Almaty II vs Turan (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779303378-0-0-594d2ca05fb81ac33e54124e1c64e9ba
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779367735-0-0-70b9ef09a68dd44f22c77d6786bea29a
 #EXTINF:-1 group-title="KAZ D1", Kairat Almaty II vs Turan (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0fcab796b8143c645f12c1c280716192&txTime=6a0e6796
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=141529a3ef60fccd8ed977677dc8a754&txTime=6a0f4587
 #EXTINF:-1 group-title="KAZ D1", Kairat Almaty II vs Turan (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779320113-0-0-94254ab32467d1e9705d832047f659c3
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779367735-0-0-a736148c92353d150dc14952b890cf27
 #EXTINF:-1 group-title="UKR D1", FC Shakhtar Donetsk vs Kolos Kovalivka (VƯƠNG ANH)
 https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=e55072db7b2a7e57b3688be45c64336d&txTime=6a0e12b9
 #EXTINF:-1 group-title="UKR D1", FC Shakhtar Donetsk vs Kolos Kovalivka (BLV TAP)
@@ -53,6 +25,8 @@ https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=ebe3d474aff63c910aa
 https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779341282-0-0-e0cb3b37ca70d6328d384dab5addd860
 #EXTINF:-1 group-title="UKR D1", FC Shakhtar Donetsk vs Kolos Kovalivka (A BỆU)
 https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779288921-0-0-a4b8cc974ef5b3143ceb90db0d3c9234
+#EXTINF:-1 group-title="UKR D1", FC Shakhtar Donetsk vs Kolos Kovalivka (BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779367735-0-0-b2a7a5e1fc7927249d15a10924583385
 #EXTINF:-1 group-title="AZE D1", Cebrayil vs Simal FK (NGƯỜI CÁ)
 https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779310860-0-0-5409741c74e6841427b8017a19691adb
 #EXTINF:-1 group-title="AZE D1", Cebrayil vs Simal FK (ĐỖ TÚ TÀI)
@@ -69,12 +43,20 @@ https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779340422-0-0-60c6
 https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=e919f660df8d15b3f5e627454294b3b3&txTime=6a0e51c4
 #EXTINF:-1 group-title="IND SL", Jamshedpur FC vs Odisha FC (BLV PEWPEW)
 https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779334827-0-0-76d73ec7b94dccb044ac369142488917
+#EXTINF:-1 group-title="IND SL", Jamshedpur FC vs Odisha FC (BLV FIREMAN)
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779339749-0-0-38e8acb014e049541cf31c27967ab795
+#EXTINF:-1 group-title="IND SL", Punjab vs Mumbai City FC (TẠ BIÊN GIỚI)
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779358130-0-0-72bed2277754a4caeb82fd1bba4cca46
 #EXTINF:-1 group-title="IND SL", Punjab vs Mumbai City FC (BLV TOMMY)
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779315308-0-0-67381dbd964129f2b2048f5825024b9b
+#EXTINF:-1 group-title="IND SL", Punjab vs Mumbai City FC (SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9fb7c69f5193bb8e23eabed077fa1672&txTime=6a0f1f50
 #EXTINF:-1 group-title="IND SL", Punjab vs Mumbai City FC (BLV ROBBEN)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779310855-0-0-56cb3aee0e91d2f1c3aaf4d6d054ca9b
 #EXTINF:-1 group-title="IND SL", Punjab vs Mumbai City FC (BLV ĐỐM)
 https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779314090-0-0-27ec32726a5692fd588dcecc4e38a4ef
+#EXTINF:-1 group-title="IND SL", Punjab vs Mumbai City FC (BLV BÉO)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d2468f16a1a1810c7004da323df78b5b&txTime=6a0ec30a
 #EXTINF:-1 group-title="IND SL", Inter Kashi vs East Bengal FC (BLV CUỘI)
 https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779341278-0-0-f5d1b2594d991da475130550a03a3d4b
 #EXTINF:-1 group-title="IND SL", Inter Kashi vs East Bengal FC (LOGAN)
@@ -85,10 +67,16 @@ https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=9d53d10540f8797472e
 https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=f8b1b33b9474d26ff763db9660a1e824&txTime=6a0e67f7
 #EXTINF:-1 group-title="IND SL", Mohun Bagan Super Giant vs SC Delhi (CR Bưởi)
 https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=b220627712574d96945a16d440781f37&txTime=6a0e64fc
+#EXTINF:-1 group-title="IND SL", Mohun Bagan Super Giant vs SC Delhi (DECO)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779357862-0-0-72d8992d3854f91afd509a02acda7dbf
 #EXTINF:-1 group-title="IND SL", Mohun Bagan Super Giant vs SC Delhi (BLV Củ Cải)
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779334691-0-0-81aec876aba9fea338a003b4df6f6b60
 #EXTINF:-1 group-title="IND SL", Mohun Bagan Super Giant vs SC Delhi (BLV ENZO)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779334457-0-0-1db42de781b0454417b83b4e67853d7f
+#EXTINF:-1 group-title="IND SL", Mohun Bagan Super Giant vs SC Delhi (BLV RÔSI)
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1779358532-0-0-36dcdb6b1651c5a1181692b8418c1222
+#EXTINF:-1 group-title="IND SL", Mohun Bagan Super Giant vs SC Delhi (BLV ALEX)
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779310870-0-0-467876873ac8c1be6d56d10479eb9bd0
 #EXTINF:-1 group-title="KAZ D1", Astana B vs FC Shakhtyor Karagandy (BLV ANH TÀI)
 https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779307115-0-0-d20bc2e904c02b24d75a75ca33c93b36
 #EXTINF:-1 group-title="AZE PR", FK Gilan Gabala vs Shamakhi FK (BLV RAMBO)
@@ -97,9 +85,13 @@ https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=7b9de8fda30775956300
 https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1779310461-0-0-4674f92fd88ab12504b50f76e882c1d3
 #EXTINF:-1 group-title="AZE PR", FK Gilan Gabala vs Shamakhi FK (BLV KEM)
 https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779314951-0-0-e0f35f6b660369980855518608ede121
+#EXTINF:-1 group-title="LAT D1", BFC Daugavpils vs Ogre United (BLV RYO)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779364893-0-0-786fbb97c855926ad9a41b89a4364bbf
 #EXTINF:-1 group-title="LAT D1", BFC Daugavpils vs Ogre United (KÉP)
 https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779306961-0-0-7ee5a479d5d91cc018a0d26ea09c3254
 #EXTINF:-1 group-title="GEO D1", Spaeri FC vs Dinamo Batumi (BLV MIXI)
 https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779310118-0-0-d6889150df4ff06ab2a679627ed02330
+#EXTINF:-1 group-title="GEO D1", Spaeri FC vs Dinamo Batumi (LOKA)
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779365032-0-0-6e62728eee2233402facbfbdab491840
 #EXTINF:-1 group-title="GRE D1", Atromitos Athens vs Panserraikos (BLV CÁO)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779310468-0-0-f917933af39717977a09dbe3bc746d99
