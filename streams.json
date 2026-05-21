@@ -277,12 +277,12 @@
     "streamer": "XUÂN SON",
     "match": "Astana B vs FC Shakhtyor Karagandy",
     "category": "KAZ D1",
-    "best_url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9107ba484d647f3d8d5ed404d332e29c&txTime=6a0fd4bb",
+    "best_url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c666d333d67ae39d134c1a3121f6999a&txTime=6a0fe613",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=f19875477ddd8dc825ec71b23e34b97a&txTime=6a0fd4bb",
-      "hd_flv": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=9107ba484d647f3d8d5ed404d332e29c&txTime=6a0fd4bb",
-      "m3u8": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=f19875477ddd8dc825ec71b23e34b97a&txTime=6a0fd4bb",
-      "hd_m3u8": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9107ba484d647f3d8d5ed404d332e29c&txTime=6a0fd4bb"
+      "flv": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=c30b560e35c9a346c51f684c2afb9024&txTime=6a0fe613",
+      "hd_flv": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=c666d333d67ae39d134c1a3121f6999a&txTime=6a0fe613",
+      "m3u8": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=c30b560e35c9a346c51f684c2afb9024&txTime=6a0fe613",
+      "hd_m3u8": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c666d333d67ae39d134c1a3121f6999a&txTime=6a0fe613"
     }
   },
   {
@@ -290,12 +290,12 @@
     "streamer": "BLV RAMBO",
     "match": "FK Gilan Gabala vs Shamakhi FK",
     "category": "AZE PR",
-    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=aad8522680f89cd62cd0367c9388a3de&txTime=6a0fd4bb",
+    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b0db975ddfdbf7ccc32c948f3a11b21b&txTime=6a0fe613",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=c73d954af750e28bb474a43085b1089a&txTime=6a0fd4bb",
-      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=aad8522680f89cd62cd0367c9388a3de&txTime=6a0fd4bb",
-      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c73d954af750e28bb474a43085b1089a&txTime=6a0fd4bb",
-      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=aad8522680f89cd62cd0367c9388a3de&txTime=6a0fd4bb"
+      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=2faa3a9b8867d3622750684723a1add0&txTime=6a0fe613",
+      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=b0db975ddfdbf7ccc32c948f3a11b21b&txTime=6a0fe613",
+      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=2faa3a9b8867d3622750684723a1add0&txTime=6a0fe613",
+      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b0db975ddfdbf7ccc32c948f3a11b21b&txTime=6a0fe613"
     }
   },
   {
