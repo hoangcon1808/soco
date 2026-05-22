@@ -212,12 +212,12 @@
     "streamer": "BLV MIXI",
     "match": "Al-Jazira(UAE) vs Al-Ain FC",
     "category": "UAE PC",
-    "best_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779489835-0-0-3bb3913855d9aace646a5b67e77aacb2",
+    "best_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779494815-0-0-f9f18da6f8c80ac4ecbec13e16d9d00f",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1779489835-0-0-9b3d3cb45c633520545554d802a2606d",
-      "hd_flv": "https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1779489835-0-0-89f39bc0bd300460deb49ee83da50e55",
-      "m3u8": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1779489835-0-0-b01399bd75bc907e9202e622b5107fe7",
-      "hd_m3u8": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779489835-0-0-3bb3913855d9aace646a5b67e77aacb2"
+      "flv": "https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1779494815-0-0-6487fb406e4742eee5b9c0bbfc120c57",
+      "hd_flv": "https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1779494815-0-0-49ade454ee68e94b4af0ba91a0ca87ab",
+      "m3u8": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1779494815-0-0-f845ac4926f867b615d4970cf1026b46",
+      "hd_m3u8": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779494815-0-0-f9f18da6f8c80ac4ecbec13e16d9d00f"
     }
   },
   {
