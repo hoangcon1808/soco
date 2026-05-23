@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="FIN D1", Ilves Tampere vs Gnistan Helsinki (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779571555-0-0-244dec8c01b212ae5d214239a75fc787
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779573691-0-0-3dca1711ced50c1bd90372914e835b68
 #EXTINF:-1 group-title="FIN D1", Jaro vs IFK Mariehamn (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779571555-0-0-3230308232c26d53d95e9c41146704c7
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779572262-0-0-86413380540c2cef42b7cc71cd7fd12b
 #EXTINF:-1 group-title="FIN D1", Jaro vs IFK Mariehamn (BLV ROBBEN)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779555683-0-0-e6fc177dc24efaf088d838369b74fd3e
 #EXTINF:-1 group-title="FIN D1", KuPs vs Lahti (BLV CÁO)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779555472-0-0-ae1691d737ae468c5a43acaffc5f20fa
 #EXTINF:-1 group-title="FIN D1", KuPs vs Lahti (CHANH MUỐI)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779571555-0-0-76f474bad785362ab4889573883d57c1
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779573399-0-0-a057d22ba9f21b17f9e45bfc782d4a39
 #EXTINF:-1 group-title="FIN D1", SJK Seinajoen vs AC Oulu (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=3a0d20ae7e44127145f33eb9dd20e5a3&txTime=6a1261b3
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=e3d908cd1cce5f54f426dd7a73859dae&txTime=6a126b19
 #EXTINF:-1 group-title="FIN D1", SJK Seinajoen vs AC Oulu (TYPN)
 https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=b234a09c045fd03bc8c48a1d8b944c63&txTime=6a122714
 #EXTINF:-1 group-title="SCO FAC", Celtic FC vs Dunfermline Athletic (BLV ENZO)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779556010-0-0-ac386a618f5f5e0268f19d433889a495
 #EXTINF:-1 group-title="SCO FAC", Celtic FC vs Dunfermline Athletic (PINKMAN)
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=8f40926cd105161e090965f303e89d46&txTime=6a1261b3
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=0758117b3cbd9913b8b817f5fc63c0ca&txTime=6a1269fd
 #EXTINF:-1 group-title="SCO FAC", Celtic FC vs Dunfermline Athletic (BLV KEM)
 https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779567378-0-0-3b645a34d2f5a0469e2363398c0c2178
 #EXTINF:-1 group-title="VTBUL", CSKA Moscow vs Lokomotiv Kuban (A CHÈ)
@@ -36,22 +36,22 @@ https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779558629-0-0-e3e8
 #EXTINF:-1 group-title="GBBL", Ulm vs Bamberg (KING)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779557978-0-0-30e7a1e3aa62b7638e5de10fce012327
 #EXTINF:-1 group-title="RUS D1", Akron Togliatti vs Rotor Volgograd (KÉP)
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779571555-0-0-18474d60884e838c80d8de7b119575d5
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779573535-0-0-c8937c36945d39bf7da67827f8c4ffa7
 #EXTINF:-1 group-title="RUS D1", Akron Togliatti vs Rotor Volgograd (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ee2ff4fa79a0258467025d521192111c&txTime=6a1261b3
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=31a7aa60752da0d97ef0a58d905f29e6&txTime=6a126b04
 #EXTINF:-1 group-title="RUS D1", Akron Togliatti vs Rotor Volgograd (LOGAN)
 https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779561073-0-0-ed14ad0169e9c946b1bce8e77ec9016c
 #EXTINF:-1 group-title="RUS D1", Akron Togliatti vs Rotor Volgograd (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779571555-0-0-ce13dac8016ad65a2add124a88b59d62
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779573863-0-0-b852d2bae90df65dbb1e8c99946c4705
 #EXTINF:-1 group-title="POL D1", Gornik Zabrze vs Radomiak Radom (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779571555-0-0-6dd0252258d54884287302ed9b57714a
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779573713-0-0-fc84974cd3f35da37c1095c5d8db3c2a
 #EXTINF:-1 group-title="POL D1", Gornik Zabrze vs Radomiak Radom (BLV SATIVA)
 https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779560593-0-0-73f80608d2366cbb645f86b778b261fc
 #EXTINF:-1 group-title="POL D1", Jagiellonia Bialystok vs Zaglebie Lubin (BLV THÓC)
 https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779560786-0-0-3cbf45ebfbc84b79de93cb2c67075240
 #EXTINF:-1 group-title="POL D1", Jagiellonia Bialystok vs Zaglebie Lubin (ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779571555-0-0-64752e38bb55db32ce30774e3c676aa7
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779573508-0-0-2adb8d1fb43264326c86e1e409ec793b
 #EXTINF:-1 group-title="POL D1", Rakow Czestochowa vs Arka Gdynia (BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779571555-0-0-0869296efaac8224c1af699dc15f8aeb
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779574802-0-0-12b2c1fc9894ad4b7f63e62dd4196d03
 #EXTINF:-1 group-title="POL D1", Rakow Czestochowa vs Arka Gdynia (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=69b03304cdc9243e597205619cd6d825&txTime=6a1261b3
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b523a31339a11f4a8e514b0e5205ae85&txTime=6a126a97
