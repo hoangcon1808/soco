@@ -303,12 +303,12 @@
     "streamer": "BLV SATIVA",
     "match": "Gornik Zabrze vs Radomiak Radom",
     "category": "POL D1",
-    "best_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779560593-0-0-73f80608d2366cbb645f86b778b261fc",
+    "best_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779578995-0-0-e09ee3c4cbbfcac8ec3739068d320a7a",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1779560593-0-0-7365cd7beabf58a6f447de11d278a57d",
-      "hd_flv": "https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1779560593-0-0-1a2b19f18a29b54a3c58a7a5beed3cd2",
-      "m3u8": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1779560593-0-0-c13096988bb298263236418d1169632c",
-      "hd_m3u8": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779560593-0-0-73f80608d2366cbb645f86b778b261fc"
+      "flv": "https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1779578995-0-0-c12135064ffb758e8b19ac9311788ac5",
+      "hd_flv": "https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1779578995-0-0-30b9f2ad0ece3bb579f1a2cf185f00d3",
+      "m3u8": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1779578995-0-0-9f8cf8524e27f259d63ceabcc28f72ff",
+      "hd_m3u8": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779578995-0-0-e09ee3c4cbbfcac8ec3739068d320a7a"
     }
   },
   {
@@ -316,12 +316,12 @@
     "streamer": "BLV THÓC",
     "match": "Jagiellonia Bialystok vs Zaglebie Lubin",
     "category": "POL D1",
-    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779560786-0-0-3cbf45ebfbc84b79de93cb2c67075240",
+    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779578995-0-0-328e8422333aef4ebeb22b1cda31c7da",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779560786-0-0-ea5575399516f7318d634f74dcc46c92",
-      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779560786-0-0-aceb59150473f8e459cd00f93db22f02",
-      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779560786-0-0-fe245cec1abf28e77b2b66e00958d9e4",
-      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779560786-0-0-3cbf45ebfbc84b79de93cb2c67075240"
+      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779578995-0-0-7cad5c8edfe97488e9341634da469d2b",
+      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779578995-0-0-75791600130b6ba18fafd53a4b6c95f8",
+      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779578995-0-0-7b9a95e7e583d01e5ca5137430ee97fb",
+      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779578995-0-0-328e8422333aef4ebeb22b1cda31c7da"
     }
   },
   {
