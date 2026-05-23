@@ -1,41 +1,147 @@
 #EXTM3U
-#EXTINF:-1 group-title="CRO D1", NK Osijek vs Slaven Belupo (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779485933-0-0-73b21aea3a2fbf2fe915560e73d7657d
-#EXTINF:-1 group-title="EGY D1", El Gouna vs El Gaish (THẠCH TÚ)
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=23dcb0901f079cfa361daa7e7b9c0a57&txTime=6a10d2f1
-#EXTINF:-1 group-title="EGY D1", El Gouna vs El Gaish (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779486010-0-0-1c8a501b759a4b529a7ccce1e506e88e
-#EXTINF:-1 group-title="EGY D1", El Gouna vs El Gaish (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779487642-0-0-b9c4d2376e03733bc55066c29b846fc3
-#EXTINF:-1 group-title="CYP D1", Aris Limassol vs AEK Larnaca (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779481752-0-0-f14b3118285f6754d716420ecfa36cbc
-#EXTINF:-1 group-title="CYP D1", Aris Limassol vs AEK Larnaca (KÉP)
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779483407-0-0-a14cc5746ab537339153d96a32f3529b
-#EXTINF:-1 group-title="CYP D1", Omonia Nicosia FC vs Apollon Limassol FC (BLV FIREMAN)
+#EXTINF:-1 group-title="USA MLSRv", Sporting Kansas City Reserves vs Austin FC II (HÀ DUY KIÊN)
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779503035-0-0-614ec358f1fdb18b051caa6e2e444468
+#EXTINF:-1 group-title="USA MLSRv", Sporting Kansas City Reserves vs Austin FC II (BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779503035-0-0-4da16fa0a89d556dfe9cce8d6becc9fa
+#EXTINF:-1 group-title="USA MLSRv", Sporting Kansas City Reserves vs Austin FC II (BLV ENZO)
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779503035-0-0-4cbab66d28d5188c6bb420beb3facfbf
+#EXTINF:-1 group-title="USLC", FC Tulsa vs Hartford Athletic (XUÂN SON)
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e9803cd1ffc7f9c8f06752c3e22ae0d5&txTime=6a11560b
+#EXTINF:-1 group-title="USLC", FC Tulsa vs Hartford Athletic (HẢI THANH)
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779503035-0-0-7df4d64426aa1bd7f1783b903a631856
+#EXTINF:-1 group-title="USLC", FC Tulsa vs Hartford Athletic (BLV YONE)
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779503035-0-0-47f9743bf1192bc1497863f0cb973859
+#EXTINF:-1 group-title="USLC", FC Tulsa vs Hartford Athletic (BLV A TÚ)
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779503035-0-0-99f523d156d03002870d04ab7d3daa1d
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (CHAN SENA)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779503035-0-0-d1b3bcd1c1fcb2d056619af4e8509e29
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (KING)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779503035-0-0-14ac819c35d0e6a089ad11180816e0fc
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (HUNTER)
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779503035-0-0-20743c1eaf78ace36bae4d41ad976afb
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (BLV HENRY)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779503035-0-0-a40dac0b44c964423b48c368884425c0
+#EXTINF:-1 group-title="USA MLSRv", Tacoma Defiance vs Ventura County FC (BLV COCA)
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779449424-0-0-6e251ba7627c0ae8a97f210918b10239
+#EXTINF:-1 group-title="USA MLSRv", Tacoma Defiance vs Ventura County FC (BLV NẤM)
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779499089-0-0-670ca72cbe98e687ebe8a609c3c644c9
+#EXTINF:-1 group-title="USA MLSRv", Tacoma Defiance vs Ventura County FC (BLV FIREMAN)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779486146-0-0-6c90a5d228467e05c05b88372172f45c
-#EXTINF:-1 group-title="CYP D1", Omonia Nicosia FC vs Apollon Limassol FC (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779486147-0-0-adbc898a518b0284b06dc38693dbc530
-#EXTINF:-1 group-title="BUL D1", Botev Vratsa vs Beroe Stara Zagora (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779482912-0-0-9a818c20219417012ca3e96f929c4fb9
-#EXTINF:-1 group-title="BUL D1", Botev Vratsa vs Beroe Stara Zagora (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779484998-0-0-57cbf1281260105323490622d6901a9d
-#EXTINF:-1 group-title="BUL D1", Septemvri Sofia vs FC Dobrudzha Dobrich (BLV A WIN)
+#EXTINF:-1 group-title="USA MLSRv", Tacoma Defiance vs Ventura County FC (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779476335-0-0-478fe909c8bcea91d508efcb5c32b5f4
+#EXTINF:-1 group-title="USA MLSRv", Tacoma Defiance vs Ventura County FC (LÃO LÂM)
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779463306-0-0-a6e35b4e872754ffca444ec6cfefa064
+#EXTINF:-1 group-title="USA MLSRv", Tacoma Defiance vs Ventura County FC (MONEY MAN)
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779499940-0-0-629ea12a54a3b9f595e0029cb6ca170d
+#EXTINF:-1 group-title="INTERF", Mexico vs Ghana (TẠ BIÊN GIỚI)
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779456665-0-0-619e5b3f55d1ceb717068341d31d9e7e
+#EXTINF:-1 group-title="INTERF", Mexico vs Ghana (BLV TOMMY)
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779456794-0-0-6752ade0113c94efe5c6d6144ef864a4
+#EXTINF:-1 group-title="INTERF", Mexico vs Ghana (BLV TAP)
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3bd70eb77d9ff1314d762363af275334&txTime=6a0f6bbe
+#EXTINF:-1 group-title="INTERF", Mexico vs Ghana (DECO)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779476290-0-0-1985547acae02a74ab53189ed2cc5ce3
+#EXTINF:-1 group-title="INTERF", Mexico vs Ghana (BLV ĐỐM)
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779462045-0-0-8d69f8d0ed2fc33de92c78ff366d480b
+#EXTINF:-1 group-title="INTERF", Mexico vs Ghana (BLV Củ Cải)
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=bfba2f56065aee84589772e5f404afa6&txTime=6a10eebc
+#EXTINF:-1 group-title="WNBA", Seattle Storm W vs Connecticut Sun W (BRIAN)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779455082-0-0-0816875e6683a89a32cff78602afbbe8
+#EXTINF:-1 group-title="AUS NNSW", Newcastle Olympic vs Charleston City Blues (BLV THÓC)
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779457062-0-0-2bf501a29a1dc1d04e5b652f90bac95c
+#EXTINF:-1 group-title="AUS NNSW", Newcastle Olympic vs Charleston City Blues (BLV PEWPEW)
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779479745-0-0-7843a2686623d6d93b7b2a3ae38405a5
+#EXTINF:-1 group-title="AUS NNSW", Weston Workers FC vs Maitland (BLV A WIN)
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779480204-0-0-65800e159943a46355f46e0fca5fb784
-#EXTINF:-1 group-title="BUL D1", Septemvri Sofia vs FC Dobrudzha Dobrich (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779479751-0-0-b9fba701628621d0689964743ba8bc0d
-#EXTINF:-1 group-title="BUL D1", Spartak Varna vs Lokomotiv Sofia (ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779482921-0-0-7cd520907db4bfb6a1bed07965d64931
-#EXTINF:-1 group-title="SER SL", FK Zeleznicar Pancevo vs FK Čukarički (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779485110-0-0-4958dc3fdd5ca1056b569818680bfc09
-#EXTINF:-1 group-title="SER SL", FK Zeleznicar Pancevo vs FK Čukarički (BLV CÒ)
+#EXTINF:-1 group-title="AUS NNSW", Weston Workers FC vs Maitland (BLV LUCAS)
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779501572-0-0-72e8672e42461c9bef40c6099936b9b8
+#EXTINF:-1 group-title="AUS NSW", University NSW vs Sydney United 58 FC (BLV CHIVAS)
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a1161f5b337caa84ac40291c1a34230e&txTime=6a114a82
+#EXTINF:-1 group-title="AUS NSW", University NSW vs Sydney United 58 FC (BLV CÒ)
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779472409-0-0-b2d2c9d239c88fd5645cdd09ac7e375a
-#EXTINF:-1 group-title="EURO", Olympiacos vs Fenerbahce (KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779472409-0-0-ff59e1a30f9494ac2abdc89e871fe6fc
-#EXTINF:-1 group-title="UAE PC", Al-Jazira(UAE) vs Al-Ain FC (BLV MIXI)
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779494815-0-0-f9f18da6f8c80ac4ecbec13e16d9d00f
-#EXTINF:-1 group-title="UAE PC", Al-Jazira(UAE) vs Al-Ain FC (LOKA)
+#EXTINF:-1 group-title="JPN D1", Avispa Fukuoka vs Vissel Kobe (TYPN)
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=56e1491ecb1d67a8d887445ba8a61f5c&txTime=6a10bab3
+#EXTINF:-1 group-title="JPN D1", Avispa Fukuoka vs Vissel Kobe (BLV 7UP)
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779476376-0-0-3c64e658a50c197dfbef439e8f496c75
+#EXTINF:-1 group-title="JPN D1", Sanfrecce Hiroshima vs Nagoya Grampus (SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=4651d9591ba06420e81bcc48700decb4&txTime=6a10a039
+#EXTINF:-1 group-title="JPN D1", Sanfrecce Hiroshima vs Nagoya Grampus (BLV MESSI)
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779456706-0-0-9e6f53f6d23c8c87a1cdf83620b1e786
+#EXTINF:-1 group-title="JPN D1", Sanfrecce Hiroshima vs Nagoya Grampus (RICKHANTER)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4b4d1251505763c138bed3ba96c96996&txTime=6a10a05c
+#EXTINF:-1 group-title="JPN D1", Sanfrecce Hiroshima vs Nagoya Grampus (THẠCH TÚ)
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=23dcb0901f079cfa361daa7e7b9c0a57&txTime=6a10d2f1
+#EXTINF:-1 group-title="JPN D2", Vegalta Sendai vs Yokohama FC (BLV KAN)
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=42948cad1206354ee8e6340e69e989eb&txTime=6a115089
+#EXTINF:-1 group-title="JPN D2", Hokkaido Consadole Sapporo vs Jubilo Iwata (BLV ANH TÀI)
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779477144-0-0-052e1d564ec26eb06a836609ca01f93f
+#EXTINF:-1 group-title="JPN D2", Sagan Tosu vs FC Ryukyu Okinawa (BLV SATIVA)
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779463557-0-0-e68719eb8b0a7a5856068339f3eb0524
+#EXTINF:-1 group-title="AUS NSW", Sutherland Sharks vs Spirit FC (BLV RÔSI)
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1779476887-0-0-78c7e0fc89dba2420a0e3c332909db7e
+#EXTINF:-1 group-title="AUS NSW", Sutherland Sharks vs Spirit FC (LOKA)
 https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779488064-0-0-c2b118ac0abc5245cdea79eba4e4953f
-#EXTINF:-1 group-title="UAE PC", Al-Jazira(UAE) vs Al-Ain FC (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779488012-0-0-a2b27c6412ddea958f46967c6d07a9f0
-#EXTINF:-1 group-title="UAE PC", Al-Jazira(UAE) vs Al-Ain FC (BLV COZY)
+#EXTINF:-1 group-title="AUS NNSW", Edgeworth Eagles FC vs Lambton Jarvis (BLV RYO)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779452800-0-0-f887152fe8e979e0fe2e647366136f65
+#EXTINF:-1 group-title="AUS NNSW", Edgeworth Eagles FC vs Lambton Jarvis (BLV COZY)
 https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779485944-0-0-6dd6b7b4d1c3f5a3d16353f9c8b1cc84
+#EXTINF:-1 group-title="AUS NNSW", Valentine vs Broadmeadow Magic (QUỐC KHÁNH)
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=1bec7f266ecd7c6987fb081a85ecf550&txTime=6a10de2f
+#EXTINF:-1 group-title="JPN D2", AC Nagano Parceiro vs Ventforet Kofu (VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=031a8bcb3b9b0cee1f446f4dfae0a0c8&txTime=6a10fafe
+#EXTINF:-1 group-title="JPN D2", AC Nagano Parceiro vs Ventforet Kofu (BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779479906-0-0-09b07ddd06d70643798cb344faf1c1eb
+#EXTINF:-1 group-title="AUS NSW", SD Raiders FC vs Sydney FC Youth (BLV RAMBO)
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d2be92054d4701f679dfb38f0c9084a6&txTime=6a1029f1
+#EXTINF:-1 group-title="AUS NSW", SD Raiders FC vs Sydney FC Youth (BLV GÔN)
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1779465244-0-0-adf60125db8f45bf6947976f3a1513df
+#EXTINF:-1 group-title="AUS NPLQ", Peninsula Power vs Magic United TFA (BLV ROBBEN)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779486010-0-0-1c8a501b759a4b529a7ccce1e506e88e
+#EXTINF:-1 group-title="AUS NPLQ", Peninsula Power vs Magic United TFA (A BỆU)
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779487892-0-0-5d478218cd69752a22e15fea5129ca8a
+#EXTINF:-1 group-title="KOR D2", Gyeongnam FC vs Suwon FC (BLV VIP)
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=72a3e3fbaa231fe58d7f874513168fe1&txTime=6a10aec2
+#EXTINF:-1 group-title="KOR D2", Jeonnam Dragons vs Gimhae City (BLV CÁO)
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779482912-0-0-9a818c20219417012ca3e96f929c4fb9
+#EXTINF:-1 group-title="JPN D1", Kashima Antlers vs FC Tokyo (BLV WUKONG)
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779480175-0-0-975eedcfb316b68b9e104fe3f7178d81
+#EXTINF:-1 group-title="JPN D1", Kashima Antlers vs FC Tokyo (CÔNG CHẤT)
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779488012-0-0-a2b27c6412ddea958f46967c6d07a9f0
+#EXTINF:-1 group-title="JPN D1", Kashima Antlers vs FC Tokyo (BLV XO)
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779485933-0-0-73b21aea3a2fbf2fe915560e73d7657d
+#EXTINF:-1 group-title="JPN D1", Kashima Antlers vs FC Tokyo (BLV VITAMIN)
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779486078-0-0-1daf9e649a0838d4272b47b9ec728ddb
+#EXTINF:-1 group-title="JPN D1", Kashiwa Reysol vs JEF United Ichihara Chiba (A PÁO)
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779501675-0-0-00f744cdf3537a94fc53d63ac8c11a4c
+#EXTINF:-1 group-title="JPN D1", Kashiwa Reysol vs JEF United Ichihara Chiba (BLV ALEX)
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779479751-0-0-b9fba701628621d0689964743ba8bc0d
+#EXTINF:-1 group-title="JPN D1", Kashiwa Reysol vs JEF United Ichihara Chiba (BLV KEM)
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779487642-0-0-b9c4d2376e03733bc55066c29b846fc3
+#EXTINF:-1 group-title="JPN D1", Kashiwa Reysol vs JEF United Ichihara Chiba (BLV A TINH)
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=7bac913a56654127b9d90216e6c39159&txTime=6a10940b
+#EXTINF:-1 group-title="IDN D1", Madura United vs Persatuan Sepakbola Makassar (NGƯỜI CÁ)
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779482949-0-0-9f3e98dc5f87148d5e957516641937e5
+#EXTINF:-1 group-title="IDN D1", Persib Bandung vs Persijap Jepara (TRÀ ĐÁ)
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779458223-0-0-6747e0b44fd6bd958e67ecb3a8a467e4
+#EXTINF:-1 group-title="IDN D1", Persib Bandung vs Persijap Jepara (PINKMAN)
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=583bfd9f387846d0e99321b65cf8e4a9&txTime=6a11037d
+#EXTINF:-1 group-title="IDN D1", Persib Bandung vs Persijap Jepara (CR Bưởi)
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779486147-0-0-adbc898a518b0284b06dc38693dbc530
+#EXTINF:-1 group-title="TPL", Fubon Braves vs Tainan TSG GhostHawks (A CHÈ)
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779427407-0-0-67dc7e36e8a4eecceedd9b5c1f430d4a
+#EXTINF:-1 group-title="JPN D1", Kyoto Sanga vs V-Varen Nagasaki (BLV BÉO)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a04f5ae29d6e669b03929f56af945dd5&txTime=6a10fb77
+#EXTINF:-1 group-title="JPN D1", Kyoto Sanga vs V-Varen Nagasaki (BLV LONG)
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=5325ebfd10612c04a7ba7858f36d03ac&txTime=6a1119c2
+#EXTINF:-1 group-title="CHA SL", Shanghai Port vs Tianjin Jinmen Tiger (BLV PIRLO)
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779479858-0-0-3e29d4e6bced4e97d3e7f6178c2c0db4
+#EXTINF:-1 group-title="VIE D1", Thanh Hoa vs Hoang Anh Gia Lai (BLV LION)
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779481752-0-0-f14b3118285f6754d716420ecfa36cbc
+#EXTINF:-1 group-title="MAS Cup", Johor Darul Ta'zim FC vs Kuching City FC (ĐỖ TÚ TÀI)
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779482921-0-0-7cd520907db4bfb6a1bed07965d64931
+#EXTINF:-1 group-title="RUS D1", Dynamo Makhachkala vs Ural Yekaterinburg (KÉP)
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779483407-0-0-a14cc5746ab537339153d96a32f3529b
+#EXTINF:-1 group-title="RUS D1", Dynamo Makhachkala vs Ural Yekaterinburg (BLV VOI)
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779485110-0-0-4958dc3fdd5ca1056b569818680bfc09
+#EXTINF:-1 group-title="FIN D1", KuPs vs Lahti (CHANH MUỐI)
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779482887-0-0-fa6a74d9eb27fbfb0f563ab6d5ba1d96
