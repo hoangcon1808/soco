@@ -1,114 +1,100 @@
 #EXTM3U
-#EXTINF:-1 group-title="JPN D1", Shimizu S-Pulse vs Gamba Osaka (TƯ MÃ Ý)
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779620395-0-0-8db96d4f2b69e5c89c970e00f5bcb54e
-#EXTINF:-1 group-title="JPN D1", Shimizu S-Pulse vs Gamba Osaka (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=4e0531f040018a7f7aee7e19a1163564&txTime=6a13207b
-#EXTINF:-1 group-title="JPN D1", Shimizu S-Pulse vs Gamba Osaka (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779620395-0-0-0d7cc8c7e07b0fca4ec3f05e7153fb4e
-#EXTINF:-1 group-title="JPN D1", Shimizu S-Pulse vs Gamba Osaka (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779620395-0-0-48cb3dbfa517d318338401e2bb5cc85c
-#EXTINF:-1 group-title="JPN D1", Shimizu S-Pulse vs Gamba Osaka (DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779620395-0-0-17bca65f682676aaf7cfb59f4df3b3ca
-#EXTINF:-1 group-title="CHA SL", Qingdao Hainiu vs Chongqing Tonglianglong (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779620395-0-0-bd63cfff797d39351b4c509391371ddb
-#EXTINF:-1 group-title="CHA SL", Qingdao Hainiu vs Chongqing Tonglianglong (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779620395-0-0-64811a5d5f94273cf4df6fcb34231212
-#EXTINF:-1 group-title="CHA SL", Qingdao Hainiu vs Chongqing Tonglianglong (THẠCH TÚ)
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=2d3ce937f736b80a9d892af15a65a3d6&txTime=6a13207b
-#EXTINF:-1 group-title="CHA SL", Qingdao Hainiu vs Chongqing Tonglianglong (BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=79337741c6284a6e77a2fed97c16bb72&txTime=6a13207b
-#EXTINF:-1 group-title="CHA SL", Qingdao Hainiu vs Chongqing Tonglianglong (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779620395-0-0-0b629482b57de98dbf356e3d54305017
-#EXTINF:-1 group-title="CHA SL", Qingdao Hainiu vs Chongqing Tonglianglong (BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779620395-0-0-33171d2cb34edacfef02c820c5485d5b
-#EXTINF:-1 group-title="VIE D2", Bac Ninh vs Thanh Niên TP. Hồ Chí Minh (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779620395-0-0-43f59b910418a87db982afaca1c6f1b8
-#EXTINF:-1 group-title="VIE D2", Bac Ninh vs Thanh Niên TP. Hồ Chí Minh (BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=975400748250fe3b8dc297c3f5640bca&txTime=6a13207b
-#EXTINF:-1 group-title="VIE D2", Van Hien University vs Quy Nhon United (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779620395-0-0-078a63e0b65ee3137964778e79805e08
-#EXTINF:-1 group-title="VIE D2", Van Hien University vs Quy Nhon United (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779620395-0-0-6f2e607ac46593ac967264062cd8afa6
-#EXTINF:-1 group-title="TPBL", Formosa Dreamers vs New Taipei Kings (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779620395-0-0-100795c7551aac9b49fabe19ae56a465
-#EXTINF:-1 group-title="PBC", Meralco Bolts vs TNT Tropang 5G (KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779620395-0-0-3e1de50aac3ff97ab1a24e7cdeab27ec
 #EXTINF:-1 group-title="KOR D2", Daegu FC vs Ansan Greeners FC (QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=d285eeeb77ce2cd1dc49d73968e9421d&txTime=6a13207b
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=847ae4b8f96d2ef09c40b6739f4e16e9&txTime=6a133a07
 #EXTINF:-1 group-title="KOR D2", Seoul E-Land FC vs Seongnam FC (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=fcffaed9617d728763986bd7e936ed20&txTime=6a13207b
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b9e66b4981319c3a16d5d4543f0aef76&txTime=6a133a07
 #EXTINF:-1 group-title="ACB", Bilbao vs Basquet Girona (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779620395-0-0-e69b625e20b328fd7544a1ab1b4e4f53
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779626935-0-0-52369e1fb63b8f6b0b3884baaac308e4
 #EXTINF:-1 group-title="HOL D1", AFC Ajax vs FC Utrecht (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779620395-0-0-b6948a06f2fc3280a988574c6eae650d
-#EXTINF:-1 group-title="HOL D1", AFC Ajax vs FC Utrecht (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779530960-0-0-f4ceb70e812a38ccd8de8614c347958a
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779626935-0-0-8818647256286df555f12dde3b05e884
 #EXTINF:-1 group-title="HOL D1", AFC Ajax vs FC Utrecht (BLV LUCAS)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779620395-0-0-029242142291c897fd4d32587e48e8f0
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779626935-0-0-115b7404c25e3f766e9a133d6c023ba2
 #EXTINF:-1 group-title="HOL D1", AFC Ajax vs FC Utrecht (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779620395-0-0-22a73f49db359a868ee2e5b19520c6ab
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779626935-0-0-79c3a49de079be2ff4216f8c7681be52
 #EXTINF:-1 group-title="HOL D1", AFC Ajax vs FC Utrecht (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779620395-0-0-6adf431d9904bc85f23f71b0656f6a5d
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779626935-0-0-eefcba6506c01f4282fc9b676fee5098
+#EXTINF:-1 group-title="HOL D1", AFC Ajax vs FC Utrecht (CR Bưởi)
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779626935-0-0-847f5d6b199f6309c089d001078baa5d
 #EXTINF:-1 group-title="CHA SL", Yunnan Yukun vs Qingdao West Coast (BLV LONG)
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=735ad03db2f6bf0688b343a237f5d92d&txTime=6a1268db
+https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1779626935-0-0-e0c6c11fef5b861392a6f2ade08051fe
 #EXTINF:-1 group-title="CHA SL", Yunnan Yukun vs Qingdao West Coast (BLV PIRLO)
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779570149-0-0-32b3c8f2db5fb2083d748fce1001f306
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779626935-0-0-394ba92287680e62fd049b0a2303f879
 #EXTINF:-1 group-title="CHA SL", Yunnan Yukun vs Qingdao West Coast (BLV HÚP)
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779590943-0-0-7c1651ca24f3a039672534908723670d
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779626935-0-0-f81e1949d7874ceb65f05ba58adecb9a
 #EXTINF:-1 group-title="CHA SL", Yunnan Yukun vs Qingdao West Coast (BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6e5ffd51cb6d2ecc309ccd455ebba041&txTime=6a13190f
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=788ac3a74560fd46c7ba23734cf43061&txTime=6a133a07
 #EXTINF:-1 group-title="VIE D1", Becamex Ho Chi Minh City vs Song Lam Nghe An (BLV RÔSI)
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1779619057-0-0-91e2273ce97c664a56e1454107d34a00
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1779626935-0-0-64cf0fe5cd948600ddc9cfb4995b55cc
+#EXTINF:-1 group-title="VIE D1", Becamex Ho Chi Minh City vs Song Lam Nghe An (BLV KAN)
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=4eba345f903d5e57ebdd44f77ea61746&txTime=6a133a07
 #EXTINF:-1 group-title="VIE D1", Becamex Ho Chi Minh City vs Song Lam Nghe An (BLV YONE)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779589335-0-0-8c9e7eaf78a5ff93942517e1b132ffd5
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779626935-0-0-715107cf219140ceaa436ae9cfcc982d
 #EXTINF:-1 group-title="VIE D1", Hong Linh Ha Tinh vs Cong An Ha Noi FC (BLV WUKONG)
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779573640-0-0-c3d4d334c732735225da8f298b50c876
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779626995-0-0-661eb9cfdb39697edecf7bebda535218
 #EXTINF:-1 group-title="VIE D1", Hong Linh Ha Tinh vs Cong An Ha Noi FC (XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=dd237d811b2a4f9e340d6459a04d8f32&txTime=6a12b9d9
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=7c2ebfcec8f41982706e06b38e5a4002&txTime=6a133a43
 #EXTINF:-1 group-title="VIE D1", Hong Linh Ha Tinh vs Cong An Ha Noi FC (BLV SATIVA)
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779593913-0-0-4745a90da8e9018c50e97047fc2bcf83
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779626995-0-0-cd2bd8eb97f259ffcf7f64dabbf0f6e4
 #EXTINF:-1 group-title="VIE D1", Hong Linh Ha Tinh vs Cong An Ha Noi FC (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779605865-0-0-39b7ff814fd54accfb06e6067f006c93
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779626995-0-0-1554a2c85cd162df570e7587474f6ccb
 #EXTINF:-1 group-title="PBC", Barangay Ginebra San Miguel vs Rain or Shine Elasto Painters (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779613174-0-0-539c68c64a17062104df5ba275557013
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779626995-0-0-f5da991c3ca62c79409ba0188f651d67
 #EXTINF:-1 group-title="CHA SL", Shandong Taishan vs Wuhan Three Towns (BLV 7UP)
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779609403-0-0-7409c5348de75f5951181918a098d317
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779626995-0-0-f5c785a29e94b3a856129ffb2774fd77
+#EXTINF:-1 group-title="CHA SL", Shandong Taishan vs Wuhan Three Towns (THẠCH TÚ)
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=6dd20a72c531a4f050f432ebbe7b097f&txTime=6a133a43
+#EXTINF:-1 group-title="CHA SL", Shandong Taishan vs Wuhan Three Towns (BLV TAP)
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e329f490c7e4f3a7af79c7088cf3e9ad&txTime=6a133a43
 #EXTINF:-1 group-title="CHA SL", Shandong Taishan vs Wuhan Three Towns (BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779605991-0-0-bfc37ce309bd2da2ca43a6c50f95c27f
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779626995-0-0-321cd1ff826f19d63f5066af0c1eaf04
 #EXTINF:-1 group-title="CHA SL", Shandong Taishan vs Wuhan Three Towns (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=bbb3c7b0e1d9eee9c6a7e9472ed186ba&txTime=6a12e95e
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2e5383e543ed521fd4e73992c6057810&txTime=6a133a43
 #EXTINF:-1 group-title="CHA SL", Shandong Taishan vs Wuhan Three Towns (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779605866-0-0-2eb57f785f8f4804b599273cad0e9d58
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779626995-0-0-9b778ebd5caf8ab14659080f29bb9b13
 #EXTINF:-1 group-title="CHA SL", Zhejiang Professional FC vs Liaoning Tieren (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779618203-0-0-d30fa9b12db4cf803c8f76410729330c
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779626995-0-0-7559c565490e5777e3b4e422e8361fbc
 #EXTINF:-1 group-title="CHA SL", Zhejiang Professional FC vs Liaoning Tieren (KÉP)
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779573535-0-0-c8937c36945d39bf7da67827f8c4ffa7
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779626995-0-0-33820106cb5fffd1343c768609c9f818
 #EXTINF:-1 group-title="CHA SL", Zhejiang Professional FC vs Liaoning Tieren (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779573713-0-0-fc84974cd3f35da37c1095c5d8db3c2a
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779626995-0-0-e258824ab65448b6e6c795e6c434a431
 #EXTINF:-1 group-title="CHA SL", Zhejiang Professional FC vs Liaoning Tieren (BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779610061-0-0-945721052ba6b205fd58e18d7360fdf9
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779626995-0-0-96c04bc924e8a0d5fa05ac907fa243b7
 #EXTINF:-1 group-title="SWE D1", Hammarby vs AIK (ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779573508-0-0-2adb8d1fb43264326c86e1e409ec793b
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779626995-0-0-f02e794835f0bdbe0fc56b917fa1f37c
 #EXTINF:-1 group-title="SWE D1", Hammarby vs AIK (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779618516-0-0-6c532c4b662e4aa8fc8c21ad9d3afd61
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779626995-0-0-88fd1ef80048a9074aa6150f759eb3e3
 #EXTINF:-1 group-title="SWE D1", IK Sirius FK vs GAIS (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779606467-0-0-3a250a705be87debfbe3be77f4e9fe68
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779626995-0-0-437f5655bad6a492b7f7544a2c8bf041
 #EXTINF:-1 group-title="SWE D1", IK Sirius FK vs GAIS (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b523a31339a11f4a8e514b0e5205ae85&txTime=6a126a97
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ebd552a1862b04733764f1540c8faca6&txTime=6a133a43
+#EXTINF:-1 group-title="CHA SL", Shanghai Shenhua vs Shenzhen Peng City (BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779626995-0-0-b7f0f9e11ae541b104c1f4c58b408dc9
 #EXTINF:-1 group-title="CHA SL", Shanghai Shenhua vs Shenzhen Peng City (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d29bae6339ec5a12709002a46ef2ab1e&txTime=6a12f655
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9ddb2e4c07d7efde6982f3dccccd4753&txTime=6a133a43
 #EXTINF:-1 group-title="CHA SL", Shanghai Shenhua vs Shenzhen Peng City (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779591711-0-0-2cbc072822bdff01053ec9df46c6a0f5
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779626995-0-0-374e11ec060f1b03fd7f5d622114468d
+#EXTINF:-1 group-title="CHA SL", Shanghai Shenhua vs Shenzhen Peng City (BLV ĐỐM)
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779626995-0-0-fdff02c8d7ae1641aeab4cfe1a07606a
+#EXTINF:-1 group-title="CHA SL", Shanghai Shenhua vs Shenzhen Peng City (BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779626995-0-0-a09fe24a81c746d1c310526796bfe373
 #EXTINF:-1 group-title="CHA SL", Shanghai Shenhua vs Shenzhen Peng City (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779597874-0-0-21b59c00dd9c51ddb6fa9b9fabe2350e
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779626995-0-0-4fd7ac26f93be20fc8707c0494735700
+#EXTINF:-1 group-title="ENG D1", Bolton Wanderers vs Stockport County (TƯ MÃ Ý)
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779626995-0-0-06ffed04490c618555abdcbc9912ef90
 #EXTINF:-1 group-title="ENG D1", Bolton Wanderers vs Stockport County (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=7e3697b04678ae66aecf6e336c9b0b45&txTime=6a12698d
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=97e17406059f7170d2d9d30725cd066c&txTime=6a133a43
+#EXTINF:-1 group-title="VIE D1", Hanoi FC vs Thep Xanh Nam Dinh FC (BLV PEWPEW)
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779530960-0-0-f4ceb70e812a38ccd8de8614c347958a
+#EXTINF:-1 group-title="VIE D1", Hanoi FC vs Thep Xanh Nam Dinh FC (DECO)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779626995-0-0-07da101526e50be559798e3039afac95
 #EXTINF:-1 group-title="VIE D1", Hanoi FC vs Thep Xanh Nam Dinh FC (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779597584-0-0-a77fb86cf2d71396aef127e7b4dd1d23
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779626995-0-0-505b2978e54e6c5ddab0dbf40b9f84c6
 #EXTINF:-1 group-title="VIE D1", Hanoi FC vs Thep Xanh Nam Dinh FC (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779567378-0-0-3b645a34d2f5a0469e2363398c0c2178
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779626995-0-0-10879e76ebea38bdb469c785cb4e034f
+#EXTINF:-1 group-title="VIE D1", Hanoi FC vs Thep Xanh Nam Dinh FC (TẠ BIÊN GIỚI)
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779623713-0-0-ecddf160c03dffcd53066cc52baec30f
 #EXTINF:-1 group-title="VIE D1", Hanoi FC vs Thep Xanh Nam Dinh FC (BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779609626-0-0-1a7b30c83aedafed693c83ef2899b8fa
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779626995-0-0-f35f2c99a8f13a47b399d37ac133ad52
 #EXTINF:-1 group-title="ITA D1", Parma vs Sassuolo (A BỆU)
 https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779570309-0-0-0af9216e93f0f6c62b950ecfe74bdcea
 #EXTINF:-1 group-title="ITA D1", Parma vs Sassuolo (BLV COCA)
@@ -119,8 +105,16 @@ https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779573928-0-0-5f89
 https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779609492-0-0-d881b42a9b9e9fca3577e084dd9344ed
 #EXTINF:-1 group-title="ITA D1", Parma vs Sassuolo (LOKA)
 https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779618570-0-0-26cdd580a7e848b15496d55918c4ce83
+#EXTINF:-1 group-title="NOR D1", Bodo Glimt vs Brann (NGƯỜI CÁ)
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779623577-0-0-0959dc21b95155803bd389e3c034df74
+#EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a8b02430cdd44d9d7fab6df276d084c5&txTime=6a13210c
 #EXTINF:-1 group-title="ENG PR", Burnley vs Wolverhampton Wanderers (A PÁO)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779594147-0-0-1fa46bab1fc0f8c65c0115fa326db13e
+#EXTINF:-1 group-title="ENG PR", Burnley vs Wolverhampton Wanderers (BLV ALEX)
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779623503-0-0-98affeb98fb266a08735195e552f4ec1
+#EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (CÔNG CHẤT)
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779624014-0-0-17cda56e116b7f4a18945f889b3e8714
 #EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (MONEY MAN)
 https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779618310-0-0-3d3879adba697f0851db7a3aee625914
 #EXTINF:-1 group-title="ENG PR", Fulham vs Newcastle United (BLV CÁO)
