@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="NOR D1", Bodo Glimt vs Brann (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779660175-0-0-aeee935474bb7fe187194f9622b6bbe0
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779663009-0-0-7cda8bc820cb8ffe0046b971eef68496
 #EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (BLV ĐỐM)
 https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779646004-0-0-5fa1015eaac7e697db2dd0001cbb5b2c
 #EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (BLV COCA)
@@ -16,7 +16,7 @@ https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779646700-0-0-21b
 #EXTINF:-1 group-title="ENG PR", Burnley vs Wolverhampton Wanderers (A PÁO)
 https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=5b0625cf4f985a2df9578ccc359cfdd2&txTime=6a1384eb
 #EXTINF:-1 group-title="ENG PR", Burnley vs Wolverhampton Wanderers (BLV ALEX)
-https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=9d15a2f87f7ad423e15763a5fc82ddf6&txTime=6a138487
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779665455-0-0-c7fb4bb3803ba3287d3232dee95fb1fc
 #EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (BLV XO)
 https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779659609-0-0-be37cb35709876788c21a54605bd5978
 #EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (TẠ BIÊN GIỚI)
@@ -24,7 +24,7 @@ https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779651297-0-0-f50
 #EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (BLV FIREMAN)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779659685-0-0-79718165a89f9b9ae6402e4d67f70b3e
 #EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779660044-0-0-34eeca99a77ed7bdfc3a073086d0841b
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779665455-0-0-4eca76603a64c4afeb07d8204d9f8752
 #EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (CÔNG CHẤT)
 https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779659840-0-0-3bce4ceb9153cbb1c5fda50d213c00be
 #EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (MONEY MAN)
@@ -48,7 +48,7 @@ https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779646189-0-0-293
 #EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (BLV RÔSI)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=8f3d5be424094d6063cf37c3ecd52069&txTime=6a13878d
 #EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779660175-0-0-1341b4e20a4e2301245d9e0bfcc91891
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779665455-0-0-6ece29c1759837ac2f3029694ced1b26
 #EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (LÃO LÂM)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779659698-0-0-fd084cf25ee4a8b3dbe6551469eb94b3
 #EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (BLV COZY)
@@ -58,7 +58,7 @@ https://pull.niur.live/live/stream-380460_lhd.m3u8?txSecret=e1b1ad84310d8419f2ba
 #EXTINF:-1 group-title="ENG PR", Nottingham Forest vs Bournemouth AFC (BLV KAN)
 https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1779645919-0-0-987eda0b4ec3844cf35c8f36478c452e
 #EXTINF:-1 group-title="ENG PR", Nottingham Forest vs Bournemouth AFC (BLV THÓC)
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779659675-0-0-237340d2af4ae0da7b963863a22df7d7
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779665455-0-0-e858122dab5f6ce051ba63474b2208f7
 #EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (CR Bưởi)
 https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=89177f2e3c17f75dbd17f5f26cab31c8&txTime=6a138838
 #EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (BLV PIRLO)
@@ -66,7 +66,7 @@ https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=c58064d99da79c58a4f8
 #EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (RICKHANTER)
 https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4a9d4a34a6e5f99fbf8cb7977c67fd0b&txTime=6a1384ca
 #EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779645802-0-0-d0d3622ce6bae6dd858d6c3ed77017b1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779665455-0-0-e8440efebc72a1d62f957dd52d947e16
 #EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (BLV LONG)
 https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=10f954646c3997d0b2eae5c08bc2bf0b&txTime=6a13b9af
 #EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (BLV CUỘI)
@@ -74,7 +74,7 @@ https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=5a51114a8868e4970088
 #EXTINF:-1 group-title="ENG PR", Tottenham Hotspur vs Everton (LOKA)
 https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779659728-0-0-65a2ac41275c52e04c32c0408e74a300
 #EXTINF:-1 group-title="ENG PR", Tottenham Hotspur vs Everton (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779660175-0-0-5da9a4180cfd1860deb7f0d30363408c
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779663093-0-0-0c252680a31b53e882fdcde9e673ebc3
 #EXTINF:-1 group-title="ENG PR", Tottenham Hotspur vs Everton (TYPN)
 https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=39d35c607772442d81fae926ff7a7dc7&txTime=6a138676
 #EXTINF:-1 group-title="ENG PR", Tottenham Hotspur vs Everton (BLV MIXI)
@@ -82,4 +82,4 @@ https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779659682-0-0-54f8
 #EXTINF:-1 group-title="ENG PR", West Ham United vs Leeds United (BLV KEM)
 https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779659798-0-0-ed4298368ddfb58cab114eb55e8575bc
 #EXTINF:-1 group-title="ENG PR", West Ham United vs Leeds United (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779660175-0-0-6680e407de12eb696224da1b54bbf9ca
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779662968-0-0-1d451ca5dcdedf0524cee424e82d996d

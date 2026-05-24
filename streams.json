@@ -4,12 +4,12 @@
     "streamer": "NGƯỜI CÁ",
     "match": "Bodo Glimt vs Brann",
     "category": "NOR D1",
-    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779660175-0-0-aeee935474bb7fe187194f9622b6bbe0",
+    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779663009-0-0-7cda8bc820cb8ffe0046b971eef68496",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1779660175-0-0-6e48c30ff04ddc8ee4f3e658415a246f",
-      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1779660175-0-0-d7ce33eab2e19d14b2bdfed1646bdcf1",
-      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779660175-0-0-058f3b5f0d13aad00e8883b2885daf0e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779660175-0-0-aeee935474bb7fe187194f9622b6bbe0"
+      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1779663009-0-0-89323d6bd8b233bfb755e0ab25719165",
+      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1779663009-0-0-ab4c917cb11d2ab3bbf87311a49b2ce1",
+      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779663009-0-0-f86be6e93cc0bba6a932124df0d0b054",
+      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779663009-0-0-7cda8bc820cb8ffe0046b971eef68496"
     }
   },
   {
@@ -108,12 +108,12 @@
     "streamer": "BLV ALEX",
     "match": "Burnley vs Wolverhampton Wanderers",
     "category": "ENG PR",
-    "best_url": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=9d15a2f87f7ad423e15763a5fc82ddf6&txTime=6a138487",
+    "best_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779665455-0-0-c7fb4bb3803ba3287d3232dee95fb1fc",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-532081_lsd.flv?txSecret=b168ed526293666fd3eec31a013f71f3&txTime=6a138487",
-      "hd_flv": "https://pull.niur.live/live/stream-532081_lhd.flv?txSecret=9d15a2f87f7ad423e15763a5fc82ddf6&txTime=6a138487",
-      "m3u8": "https://pull.niur.live/live/stream-532081_lsd.m3u8?txSecret=b168ed526293666fd3eec31a013f71f3&txTime=6a138487",
-      "hd_m3u8": "https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=9d15a2f87f7ad423e15763a5fc82ddf6&txTime=6a138487"
+      "flv": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1779665455-0-0-b4b960a1254c471082606a20588a561d",
+      "hd_flv": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1779665455-0-0-8ec3bf21e57df4f5e362fa26f933eb5d",
+      "m3u8": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779665455-0-0-e0c3061b4034ca12d1fa2e1a8eb200f3",
+      "hd_m3u8": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779665455-0-0-c7fb4bb3803ba3287d3232dee95fb1fc"
     }
   },
   {
@@ -160,12 +160,12 @@
     "streamer": "BLV PEWPEW",
     "match": "Crystal Palace vs Arsenal",
     "category": "ENG PR",
-    "best_url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779660044-0-0-34eeca99a77ed7bdfc3a073086d0841b",
+    "best_url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779665455-0-0-4eca76603a64c4afeb07d8204d9f8752",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1779660044-0-0-4e61872225196d1508e24c4a02079f05",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1779660044-0-0-dc13083ffd65274eef8c740d629cd50d",
-      "m3u8": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779660044-0-0-a11d6552a6ae913f786a41a5a6a2e422",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779660044-0-0-34eeca99a77ed7bdfc3a073086d0841b"
+      "flv": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1779665455-0-0-3ed91cd30bf86c153ba88f6b0a29418f",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1779665455-0-0-db25e47cadb85285bf1bbb806dfcdfec",
+      "m3u8": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779665455-0-0-c02cb02d34d3a3b01501280ab30b1d64",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779665455-0-0-4eca76603a64c4afeb07d8204d9f8752"
     }
   },
   {
@@ -316,12 +316,12 @@
     "streamer": "LOGAN",
     "match": "Manchester City vs Aston Villa",
     "category": "ENG PR",
-    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779660175-0-0-1341b4e20a4e2301245d9e0bfcc91891",
+    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779665455-0-0-6ece29c1759837ac2f3029694ced1b26",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779660175-0-0-571038783dbd9b73c99b9f0a05ee4278",
-      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779660175-0-0-60f5d23386a537dea99d24f469a3b573",
-      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779660175-0-0-18d358ad45eb1cfdaae6703b68d9e2a9",
-      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779660175-0-0-1341b4e20a4e2301245d9e0bfcc91891"
+      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779665455-0-0-eb36f80caaace1d3a112a3647f07bef4",
+      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779665455-0-0-a3ad15db5c422204bf3c48c81b81ead5",
+      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779665455-0-0-254397d98aaf9ca16b72b9f8e606827a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779665455-0-0-6ece29c1759837ac2f3029694ced1b26"
     }
   },
   {
@@ -381,12 +381,12 @@
     "streamer": "BLV THÓC",
     "match": "Nottingham Forest vs Bournemouth AFC",
     "category": "ENG PR",
-    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779659675-0-0-237340d2af4ae0da7b963863a22df7d7",
+    "best_url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779665455-0-0-e858122dab5f6ce051ba63474b2208f7",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779659675-0-0-b9d1a3e46f884df50fabb510575503f7",
-      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779659675-0-0-50bfbe00e0babd23561cf2422820d496",
-      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779659675-0-0-3832ebf7cd7e4f5bf2f25dc885bf84a9",
-      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779659675-0-0-237340d2af4ae0da7b963863a22df7d7"
+      "flv": "https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779665455-0-0-77e0aa2e29d668bd9b2a5c056e61d515",
+      "hd_flv": "https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779665455-0-0-f7e5e650f98599ee76d7ea4aacf47f4b",
+      "m3u8": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779665455-0-0-b4cafb27553ca51cc277facd0fd824dd",
+      "hd_m3u8": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779665455-0-0-e858122dab5f6ce051ba63474b2208f7"
     }
   },
   {
@@ -433,12 +433,12 @@
     "streamer": "BLV TOMIA",
     "match": "Sunderland vs Chelsea",
     "category": "ENG PR",
-    "best_url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779645802-0-0-d0d3622ce6bae6dd858d6c3ed77017b1",
+    "best_url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779665455-0-0-e8440efebc72a1d62f957dd52d947e16",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1779645802-0-0-d391682cb3aabeaf58d993daacb9625a",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1779645802-0-0-75a9ae073e4753ca079e5ab7515e0858",
-      "m3u8": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1779645802-0-0-43bc9ee44c772498a8eaa270c7fd9b92",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779645802-0-0-d0d3622ce6bae6dd858d6c3ed77017b1"
+      "flv": "https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1779665455-0-0-5f609c4d9e3fa2f4cfe4b3d1871538b1",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1779665455-0-0-626165c1dd3f2badb45f197c925ffa17",
+      "m3u8": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1779665455-0-0-0df1edab5be4ad50ca771777a1c3667c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779665455-0-0-e8440efebc72a1d62f957dd52d947e16"
     }
   },
   {
@@ -485,12 +485,12 @@
     "streamer": "BLV ROBBEN",
     "match": "Tottenham Hotspur vs Everton",
     "category": "ENG PR",
-    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779660175-0-0-5da9a4180cfd1860deb7f0d30363408c",
+    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779663093-0-0-0c252680a31b53e882fdcde9e673ebc3",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779660175-0-0-98d59ffcedd45cb88957d1848c6add09",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779660175-0-0-c9a89a25705633901149d9d076353b1f",
-      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779660175-0-0-262cb8aeda942f7ba3dd1648f0a42ffb",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779660175-0-0-5da9a4180cfd1860deb7f0d30363408c"
+      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779663093-0-0-9fee4356f4978ac9e6948b118c901b69",
+      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779663093-0-0-0530aae6ea6527270b411a13460ed5cf",
+      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779663093-0-0-0966aa74b58931da388b4f6aff678b06",
+      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779663093-0-0-0c252680a31b53e882fdcde9e673ebc3"
     }
   },
   {
@@ -537,12 +537,12 @@
     "streamer": "BLV VITAMIN",
     "match": "West Ham United vs Leeds United",
     "category": "ENG PR",
-    "best_url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779660175-0-0-6680e407de12eb696224da1b54bbf9ca",
+    "best_url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779662968-0-0-1d451ca5dcdedf0524cee424e82d996d",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1779660175-0-0-bf1416ffedd085933f20e1283d2591ca",
-      "hd_flv": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1779660175-0-0-55c9322aa87b40a36f723086705f90d7",
-      "m3u8": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779660175-0-0-1416ee459be8077b96c5b140975b6246",
-      "hd_m3u8": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779660175-0-0-6680e407de12eb696224da1b54bbf9ca"
+      "flv": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1779662968-0-0-8335b381189d3fd35ea04bee76809cd9",
+      "hd_flv": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1779662968-0-0-a8b0f324e69413583aaa2a01aa84b30c",
+      "m3u8": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779662968-0-0-fe7e51be4fdf8432e2d7fb914cdde19f",
+      "hd_m3u8": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779662968-0-0-1d451ca5dcdedf0524cee424e82d996d"
     }
   }
 ]
