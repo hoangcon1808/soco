@@ -1,85 +1,141 @@
 #EXTM3U
-#EXTINF:-1 group-title="NOR D1", Bodo Glimt vs Brann (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779663009-0-0-7cda8bc820cb8ffe0046b971eef68496
-#EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779646004-0-0-5fa1015eaac7e697db2dd0001cbb5b2c
-#EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (BLV COCA)
+#EXTINF:-1 group-title="USA MLS", Inter Miami CF vs Philadelphia Union (BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779671095-0-0-4af9bc6c173dfc2d14a9f7e537e06982
+#EXTINF:-1 group-title="USA MLS", Inter Miami CF vs Philadelphia Union (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779671095-0-0-2766fc84782f141441333f0cbb274546
+#EXTINF:-1 group-title="USA MLS", Inter Miami CF vs Philadelphia Union (BLV MESSI)
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779671095-0-0-df2c5d0a034ca96ea2951fd5f510e88b
+#EXTINF:-1 group-title="USA MLS", Inter Miami CF vs Philadelphia Union (MONEY MAN)
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779671095-0-0-d9d9a5f058ff3f248c3ed78cbaff145a
+#EXTINF:-1 group-title="USA MLS", Inter Miami CF vs Philadelphia Union (BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779671095-0-0-5e7eebe22cdb21f4a837cfb3c3720b7b
+#EXTINF:-1 group-title="USA MLS", Inter Miami CF vs Philadelphia Union (BLV ENZO)
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779671095-0-0-352061c26071415e141520c4eb622dad
+#EXTINF:-1 group-title="BRA D1", Vasco da Gama Saf - RJ vs Red Bull Bragantino (BLV YONE)
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779671095-0-0-c6f10ee5ddbefe8c15726cd33b82afdc
+#EXTINF:-1 group-title="BRA D1", Vasco da Gama Saf - RJ vs Red Bull Bragantino (BLV A TÚ)
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779671095-0-0-1697fe20f118cbc83447b6dbc4295516
+#EXTINF:-1 group-title="BRA D1", Vasco da Gama Saf - RJ vs Red Bull Bragantino (BLV CHIVAS)
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6772d0b2a0aa8fda251d9e9dfbcb3b42&txTime=6a13e687
+#EXTINF:-1 group-title="BRA D1", Vasco da Gama Saf - RJ vs Red Bull Bragantino (BLV NẤM)
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779671095-0-0-d3b8c36db1f4d80a98ec95866a9821a5
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (KING)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779671095-0-0-d99d0b864c7836b147dd38228883fb60
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (CHAN SENA)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779671095-0-0-e7a97227e698bf5e34fac9afc525fdbe
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (HUNTER)
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779671095-0-0-5d295e57cef119772cfb615941939cc5
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (BRIAN)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779671095-0-0-89ed7affdfca580e59dc59f5bebf531f
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (BLV HENRY)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779671095-0-0-03f66d786e8e79570d5e3db212059a93
+#EXTINF:-1 group-title="NBA", San Antonio Spurs vs Oklahoma City Thunder (A CHÈ)
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779671095-0-0-2e1f32badb01de1af7aa24e1518a7317
+#EXTINF:-1 group-title="MEX D1", Pumas U.N.A.M. vs Cruz Azul (BLV COCA)
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779646255-0-0-63e9ef669b7d7d091d3bf9a11175bf5d
-#EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=2479f2932ac9f601cd37eeeaeacf085d&txTime=6a13b9ac
-#EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779645701-0-0-817b41127ffed7be28ceea4146ca577d
-#EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f175528ffbc839f85492508c3c1f9660&txTime=6a1382ff
-#EXTINF:-1 group-title="ENG PR", Brighton Hove Albion vs Manchester United (DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779646700-0-0-21bbe31b33daf6ae86f2a0fae3449597
-#EXTINF:-1 group-title="ENG PR", Burnley vs Wolverhampton Wanderers (A PÁO)
-https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=5b0625cf4f985a2df9578ccc359cfdd2&txTime=6a1384eb
-#EXTINF:-1 group-title="ENG PR", Burnley vs Wolverhampton Wanderers (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779665455-0-0-c7fb4bb3803ba3287d3232dee95fb1fc
-#EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779659609-0-0-be37cb35709876788c21a54605bd5978
-#EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (TẠ BIÊN GIỚI)
+#EXTINF:-1 group-title="MEX D1", Pumas U.N.A.M. vs Cruz Azul (TẠ BIÊN GIỚI)
 https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779651297-0-0-f507604dcc0c5cb9777c97808f9e2cc6
-#EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779659685-0-0-79718165a89f9b9ae6402e4d67f70b3e
-#EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779665455-0-0-4eca76603a64c4afeb07d8204d9f8752
-#EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779659840-0-0-3bce4ceb9153cbb1c5fda50d213c00be
-#EXTINF:-1 group-title="ENG PR", Crystal Palace vs Arsenal (MONEY MAN)
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779646366-0-0-ac5ada03b93a4f057891db068b015947
-#EXTINF:-1 group-title="ENG PR", Fulham vs Newcastle United (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779659287-0-0-6b6242e40b1f4ec90e64d4dc5e3d9383
-#EXTINF:-1 group-title="ENG PR", Fulham vs Newcastle United (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=5df28d300caf920d6448b6ef9ffe3030&txTime=6a13b88e
-#EXTINF:-1 group-title="ENG PR", Liverpool vs Brentford (BLV 7UP)
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779646188-0-0-068c211a568fa2d2a03c914878d485af
-#EXTINF:-1 group-title="ENG PR", Liverpool vs Brentford (THẠCH TÚ)
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1779646001-0-0-532578732cdaf506184ba935850967ba
-#EXTINF:-1 group-title="ENG PR", Liverpool vs Brentford (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9fbf2bdf7124bf55817297eb6d210142&txTime=6a1383e3
-#EXTINF:-1 group-title="ENG PR", Liverpool vs Brentford (BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779645958-0-0-682ae4705634602a161bc0f1ed92a825
-#EXTINF:-1 group-title="ENG PR", Liverpool vs Brentford (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779659527-0-0-f802cc4d82eb8f6645030738bc0d625c
-#EXTINF:-1 group-title="ENG PR", Liverpool vs Brentford (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779646189-0-0-293233db79c0ed571bfc9846693fbe8e
-#EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (BLV RÔSI)
+#EXTINF:-1 group-title="MEX D1", Pumas U.N.A.M. vs Cruz Azul (BLV RÔSI)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=8f3d5be424094d6063cf37c3ecd52069&txTime=6a13878d
-#EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779665455-0-0-6ece29c1759837ac2f3029694ced1b26
-#EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779659698-0-0-fd084cf25ee4a8b3dbe6551469eb94b3
-#EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779659510-0-0-391072b07cb41a385faaf19d89fc1084
-#EXTINF:-1 group-title="ENG PR", Manchester City vs Aston Villa (BLV ENZO)
-https://pull.niur.live/live/stream-380460_lhd.m3u8?txSecret=e1b1ad84310d8419f2ba94d1b0f7ea3e&txTime=6a13851b
-#EXTINF:-1 group-title="ENG PR", Nottingham Forest vs Bournemouth AFC (BLV KAN)
-https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1779645919-0-0-987eda0b4ec3844cf35c8f36478c452e
-#EXTINF:-1 group-title="ENG PR", Nottingham Forest vs Bournemouth AFC (BLV THÓC)
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779665455-0-0-e858122dab5f6ce051ba63474b2208f7
-#EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=89177f2e3c17f75dbd17f5f26cab31c8&txTime=6a138838
-#EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (BLV PIRLO)
-https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=c58064d99da79c58a4f8a5e06e709485&txTime=6a1385cf
-#EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4a9d4a34a6e5f99fbf8cb7977c67fd0b&txTime=6a1384ca
-#EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779665455-0-0-e8440efebc72a1d62f957dd52d947e16
-#EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (BLV LONG)
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=10f954646c3997d0b2eae5c08bc2bf0b&txTime=6a13b9af
-#EXTINF:-1 group-title="ENG PR", Sunderland vs Chelsea (BLV CUỘI)
-https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=5a51114a8868e49700881774c2f1da3a&txTime=6a138f07
-#EXTINF:-1 group-title="ENG PR", Tottenham Hotspur vs Everton (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779659728-0-0-65a2ac41275c52e04c32c0408e74a300
-#EXTINF:-1 group-title="ENG PR", Tottenham Hotspur vs Everton (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779663093-0-0-0c252680a31b53e882fdcde9e673ebc3
-#EXTINF:-1 group-title="ENG PR", Tottenham Hotspur vs Everton (TYPN)
+#EXTINF:-1 group-title="MEX D1", Pumas U.N.A.M. vs Cruz Azul (BLV TAP)
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f175528ffbc839f85492508c3c1f9660&txTime=6a1382ff
+#EXTINF:-1 group-title="MEX D1", Pumas U.N.A.M. vs Cruz Azul (TYPN)
 https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=39d35c607772442d81fae926ff7a7dc7&txTime=6a138676
-#EXTINF:-1 group-title="ENG PR", Tottenham Hotspur vs Everton (BLV MIXI)
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779659682-0-0-54f8c8a0368427aef59513f6e3dd2438
-#EXTINF:-1 group-title="ENG PR", West Ham United vs Leeds United (BLV KEM)
+#EXTINF:-1 group-title="USA MLS", Los Angeles FC vs Seattle Sounders (SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9fbf2bdf7124bf55817297eb6d210142&txTime=6a1383e3
+#EXTINF:-1 group-title="USA MLS", Los Angeles FC vs Seattle Sounders (BLV PIRLO)
+https://pull.niur.live/live/stream-351530_lhd.m3u8?txSecret=c58064d99da79c58a4f8a5e06e709485&txTime=6a1385cf
+#EXTINF:-1 group-title="USA MLS", Los Angeles FC vs Seattle Sounders (RICKHANTER)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4a9d4a34a6e5f99fbf8cb7977c67fd0b&txTime=6a1384ca
+#EXTINF:-1 group-title="USA MLS", Los Angeles FC vs Seattle Sounders (BLV BÉO)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d92e50d29ae1dd075db1a4452307f54a&txTime=6a138430
+#EXTINF:-1 group-title="USA MLS", Los Angeles FC vs Seattle Sounders (BLV 7UP)
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779646188-0-0-068c211a568fa2d2a03c914878d485af
+#EXTINF:-1 group-title="USA MLS", Los Angeles FC vs Seattle Sounders (BLV TOMMY)
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779645701-0-0-817b41127ffed7be28ceea4146ca577d
+#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (BLV LUCAS)
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779631880-0-0-06a71ef65eeb0f78dd6a3827d848d5af
+#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (XUÂN SON)
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9fc2bd9cab3351e47e247a4859a824a6&txTime=6a134d5d
+#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (CHANH MUỐI)
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779659601-0-0-efc16af361632ade28c8c58bdc446a52
+#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (A PÁO)
+https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=5b0625cf4f985a2df9578ccc359cfdd2&txTime=6a1384eb
+#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779646189-0-0-293233db79c0ed571bfc9846693fbe8e
+#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (DECO)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779646700-0-0-21bbe31b33daf6ae86f2a0fae3449597
+#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (BLV ĐỐM)
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779646004-0-0-5fa1015eaac7e697db2dd0001cbb5b2c
+#EXTINF:-1 group-title="Aus VPL", South Melbourne vs Avondale FC (VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=2479f2932ac9f601cd37eeeaeacf085d&txTime=6a13b9ac
+#EXTINF:-1 group-title="Aus VPL", South Melbourne vs Avondale FC (A BỆU)
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779659527-0-0-f802cc4d82eb8f6645030738bc0d625c
+#EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV PEWPEW)
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779671061-0-0-8904dbb08d7f8e6656c61dfdc7238e69
+#EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV KEM)
 https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779659798-0-0-ed4298368ddfb58cab114eb55e8575bc
-#EXTINF:-1 group-title="ENG PR", West Ham United vs Leeds United (BLV VITAMIN)
+#EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV CÒ)
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779633523-0-0-5229c965ebe138f4b960a75475c9b4e6
+#EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV RAMBO)
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9dbb63e0e0795ef1b0bb76e618915066&txTime=6a13b02d
+#EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV LION)
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779633500-0-0-78cb29a051cf23443c26784efb28d138
+#EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV VIP)
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=9a07254d63b94bb0969ebe8881ceaec8&txTime=6a13bbcd
+#EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV FIREMAN)
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779659685-0-0-79718165a89f9b9ae6402e4d67f70b3e
+#EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV ROBBEN)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779663093-0-0-0c252680a31b53e882fdcde9e673ebc3
+#EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV XO)
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779659609-0-0-be37cb35709876788c21a54605bd5978
+#EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV VITAMIN)
 https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779662968-0-0-1d451ca5dcdedf0524cee424e82d996d
+#EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV KAN)
+https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1779645919-0-0-987eda0b4ec3844cf35c8f36478c452e
+#EXTINF:-1 group-title="BTN PL", Drukpa FC vs Tsirang FC (BLV SATIVA)
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779631571-0-0-59bd4669d31992a2ed4a985e25709251
+#EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (CR Bưởi)
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=89177f2e3c17f75dbd17f5f26cab31c8&txTime=6a138838
+#EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (CÔNG CHẤT)
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779659840-0-0-3bce4ceb9153cbb1c5fda50d213c00be
+#EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (THẠCH TÚ)
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1779646001-0-0-532578732cdaf506184ba935850967ba
+#EXTINF:-1 group-title="DEN D1", Hvidovre IF vs Esbjerg (BLV COZY)
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779659510-0-0-391072b07cb41a385faaf19d89fc1084
+#EXTINF:-1 group-title="DEN D1", Hvidovre IF vs Esbjerg (BLV THÓC)
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779670915-0-0-ec4f807ef58930b7c9781b98987a0e2b
+#EXTINF:-1 group-title="DEN D1", Hvidovre IF vs Esbjerg (HÀ DUY KIÊN)
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779659297-0-0-99f13702638f015214f8fc2f42dfe84a
+#EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV CÁO)
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779659287-0-0-6b6242e40b1f4ec90e64d4dc5e3d9383
+#EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV ANH TÀI)
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779667668-0-0-904915c8a8eace491b2d617ff3ae0268
+#EXTINF:-1 group-title="EGY LC", Enppi vs Wadi Degla SC (LOKA)
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779659728-0-0-65a2ac41275c52e04c32c0408e74a300
+#EXTINF:-1 group-title="BUL D1", Cherno More Varna vs Arda (TƯ MÃ Ý)
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779659313-0-0-6bbe5bdad055f3cb8099bcf0d0827d9e
+#EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV LONG)
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=10f954646c3997d0b2eae5c08bc2bf0b&txTime=6a13b9af
+#EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV MIXI)
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779659682-0-0-54f8c8a0368427aef59513f6e3dd2438
+#EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV GÔN)
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=74840580a47bcb04270e38cced9233bd&txTime=6a13c6be
+#EXTINF:-1 group-title="NOR D1", KFUM Oslo vs Rosenborg (LÃO LÂM)
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779659698-0-0-fd084cf25ee4a8b3dbe6551469eb94b3
+#EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (BLV A WIN)
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779659496-0-0-3a78b472ee45b2e6f937c0b1e6b1dbe9
+#EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (BLV HÚP)
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779662956-0-0-3c51d159e56c760a4778fd83602600d4
+#EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (QUỐC KHÁNH)
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=97acc2f65dbc8bd7ae8bbefeec5ec9c2&txTime=6a13c6ff
+#EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (HẢI THANH)
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779659292-0-0-403c704de7ca29e760b2b677de38706a
+#EXTINF:-1 group-title="AUT D1", Rapid Wien vs SV Ried (NGƯỜI CÁ)
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779663009-0-0-7cda8bc820cb8ffe0046b971eef68496
+#EXTINF:-1 group-title="AUT D1", Rapid Wien vs SV Ried (ĐỖ TÚ TÀI)
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779659638-0-0-02c7b1cd26f80daba399565d546271cf
+#EXTINF:-1 group-title="AUT D1", Rapid Wien vs SV Ried (BLV VOI)
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779659723-0-0-215d9bf1c2cbfa17710504cbabb38c9c
+#EXTINF:-1 group-title="AUT D1", Rapid Wien vs SV Ried (BLV A TINH)
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=5df28d300caf920d6448b6ef9ffe3030&txTime=6a13b88e
