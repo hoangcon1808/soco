@@ -30,12 +30,12 @@
     "streamer": "BLV ANH TÀI",
     "match": "Notts County vs Salford City",
     "category": "ENG D2",
-    "best_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779747295-0-0-63d1c90055cab69950e360a2790208dd",
+    "best_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779747628-0-0-766e0fdca34772021e0613f48fe50bc6",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1779747295-0-0-7f00766b647c7ec95c5b04619d1298cd",
-      "hd_flv": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1779747295-0-0-e951d314408f3b9482844f61908c73eb",
-      "m3u8": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1779747295-0-0-acac565abf425eec84a4e8af59312146",
-      "hd_m3u8": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779747295-0-0-63d1c90055cab69950e360a2790208dd"
+      "flv": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1779747628-0-0-842d0478c8f3427efac7cb3c2d2de1b3",
+      "hd_flv": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1779747628-0-0-0404369a2544e23d912e8c2d15fa5008",
+      "m3u8": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1779747628-0-0-7b2caa8f6ef00508eb5affae7b0aa789",
+      "hd_m3u8": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779747628-0-0-766e0fdca34772021e0613f48fe50bc6"
     }
   },
   {
@@ -56,12 +56,12 @@
     "streamer": "BLV RÔSI",
     "match": "Enppi vs Wadi Degla SC",
     "category": "EGY LC",
-    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=2e2d5251f349d5f5f1ca67791da35476&txTime=6a150f23",
+    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=806d94582c785f8bd9f957b6a1ecec82&txTime=6a1522ef",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=e2d9bb6fc961d8e19d3bf64f8befe70c&txTime=6a150f23",
-      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=2e2d5251f349d5f5f1ca67791da35476&txTime=6a150f23",
-      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=e2d9bb6fc961d8e19d3bf64f8befe70c&txTime=6a150f23",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=2e2d5251f349d5f5f1ca67791da35476&txTime=6a150f23"
+      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=9a3d323499160604a43ad3bb3c475ebb&txTime=6a1522ef",
+      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=806d94582c785f8bd9f957b6a1ecec82&txTime=6a1522ef",
+      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=9a3d323499160604a43ad3bb3c475ebb&txTime=6a1522ef",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=806d94582c785f8bd9f957b6a1ecec82&txTime=6a1522ef"
     }
   },
   {
@@ -212,12 +212,12 @@
     "streamer": "RICKHANTER",
     "match": "Sarpsborg 08 vs Molde",
     "category": "NOR D1",
-    "best_url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=1edad39408ef7e30dc48fb0752fb6cda&txTime=6a14d4ea",
+    "best_url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=05d5e4cad65a087c69162e47cde3e5cd&txTime=6a1522ef",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=9aada2555f5f9dd5cc92983062bc0e83&txTime=6a14d4ea",
-      "hd_flv": "https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=1edad39408ef7e30dc48fb0752fb6cda&txTime=6a14d4ea",
-      "m3u8": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=9aada2555f5f9dd5cc92983062bc0e83&txTime=6a14d4ea",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=1edad39408ef7e30dc48fb0752fb6cda&txTime=6a14d4ea"
+      "flv": "https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=71c84d97fc91ff00954d4c4daab2827d&txTime=6a1522ef",
+      "hd_flv": "https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=05d5e4cad65a087c69162e47cde3e5cd&txTime=6a1522ef",
+      "m3u8": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=71c84d97fc91ff00954d4c4daab2827d&txTime=6a1522ef",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=05d5e4cad65a087c69162e47cde3e5cd&txTime=6a1522ef"
     }
   },
   {
@@ -329,12 +329,12 @@
     "streamer": "ĐỖ TÚ TÀI",
     "match": "Rapid Wien vs SV Ried",
     "category": "AUT D1",
-    "best_url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779747295-0-0-1752f14f0f16d631c5d364db2c898068",
+    "best_url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779751505-0-0-25f8d1190f41bc7645d56435636d7ab3",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1779747295-0-0-a9e07ae00170032482d6aa859e0424f1",
-      "hd_flv": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1779747295-0-0-7a9209ffead8d58b57881f1587d44de2",
-      "m3u8": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779747295-0-0-4e35746668c4fa64fff25940e6a73aca",
-      "hd_m3u8": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779747295-0-0-1752f14f0f16d631c5d364db2c898068"
+      "flv": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1779751505-0-0-04838bd5facbdafd0aec28d14f7bd7db",
+      "hd_flv": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1779751505-0-0-9797d367b8f399ba949f6d6763bb4692",
+      "m3u8": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779751505-0-0-96a1997669c3515437fb49d693c81ec2",
+      "hd_m3u8": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779751505-0-0-25f8d1190f41bc7645d56435636d7ab3"
     }
   },
   {
