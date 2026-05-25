@@ -1,102 +1,64 @@
 #EXTM3U
-#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (BLV LUCAS)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779703975-0-0-699d398735cd06178e631761af8ce883
-#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=483bf3dafa578c06bfbb13b2bba3f6f2&txTime=6a1466f7
-#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (CHANH MUỐI)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779703975-0-0-de5e939d7d55308e785025a7817c5620
-#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4dd9e5434f052ccd758ef0ef4538ac97&txTime=6a1466f7
-#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779703975-0-0-a4e6c6019ab06da306d79663557c02df
-#EXTINF:-1 group-title="KOR D2", Paju Frontier FC vs Gimpo FC (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779703975-0-0-a13119e34f135e80112b706a4245ab4a
-#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779703975-0-0-c8e2634e6b4d069bbd8ada3cf1bd9a96
-#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779703975-0-0-260d5ad3c8e623afbdbce585d1a9469c
-#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779703975-0-0-2ac3b38262f237ec81aa1b44bcf024be
-#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9e4f4e9adc65722acc8c31cb447fafbc&txTime=6a1466f7
-#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779703975-0-0-aa53e5f283101846ef09154af86bba18
-#EXTINF:-1 group-title="KOR D2", Suwon Samsung Bluewings vs Cheonan City (BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779703975-0-0-14fb54d79d89e887ce3e2b9db2ccd3ff
-#EXTINF:-1 group-title="Aus VPL", South Melbourne vs Avondale FC (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c789bd437078c7148e3d4c504a9810b8&txTime=6a1466f7
-#EXTINF:-1 group-title="Aus VPL", South Melbourne vs Avondale FC (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779703975-0-0-f0fa5a2d13137869c5545b39238d90a6
-#EXTINF:-1 group-title="Aus VPL", South Melbourne vs Avondale FC (BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=5d3725669d381365c98d80e5f3cbe5f7&txTime=6a1466f7
-#EXTINF:-1 group-title="Aus VPL", South Melbourne vs Avondale FC (BLV PIRLO)
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1779703975-0-0-3837757d092ceffe9eda5480a06f1195
-#EXTINF:-1 group-title="Aus VPL", South Melbourne vs Avondale FC (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779703975-0-0-8092605f11895c76a03fda2cdc8209ff
-#EXTINF:-1 group-title="Aus VPL", South Melbourne vs Avondale FC (BLV COCA)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779703975-0-0-2e6163fd35a0cc34b7d6e3aabe054791
-#EXTINF:-1 group-title="MPBL", GenSan Warriors vs Pasay Voyagers (KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779702651-0-0-fb6d6d8ace2c814b166bd3c9097e9adb
-#EXTINF:-1 group-title="MPBL", GenSan Warriors vs Pasay Voyagers (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779702655-0-0-2464d4db7214df9a83763469e25c74b9
 #EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779671061-0-0-8904dbb08d7f8e6656c61dfdc7238e69
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779716995-0-0-50463653478f68011df4b6fd83d0e6ce
 #EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779659798-0-0-ed4298368ddfb58cab114eb55e8575bc
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779716995-0-0-bb56cc1ed4e9517e18d02d1c0dccc9f1
 #EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779633523-0-0-5229c965ebe138f4b960a75475c9b4e6
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779716995-0-0-6d1055b82165a99bde357644e574166b
 #EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9dbb63e0e0795ef1b0bb76e618915066&txTime=6a13b02d
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e29404d16488c3cd72f671564c1030d2&txTime=6a1499d3
 #EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779633500-0-0-78cb29a051cf23443c26784efb28d138
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779716995-0-0-757af86f6ac0daf84eff2c96bb8cdec9
 #EXTINF:-1 group-title="DEN D1", Kolding FC vs Hillerod Fodbold (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=9a07254d63b94bb0969ebe8881ceaec8&txTime=6a13bbcd
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ed0b0659d04004a78045a25a96493efe&txTime=6a1499d3
 #EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779659685-0-0-79718165a89f9b9ae6402e4d67f70b3e
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779716995-0-0-44db29278abb36c61d521ff7576df9ef
 #EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779663093-0-0-0c252680a31b53e882fdcde9e673ebc3
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779716995-0-0-b196e4e3628d1fe72c9cf0e26097cdaf
 #EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (MONEY MAN)
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779675985-0-0-14b65894b506c6b75564882ad6209f65
-#EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779659609-0-0-be37cb35709876788c21a54605bd5978
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779716995-0-0-16a88fa368dfa472df57435131e7c61f
 #EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779662968-0-0-1d451ca5dcdedf0524cee424e82d996d
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779716995-0-0-a34fc6762ca56ccdc89fa5369eb5239c
 #EXTINF:-1 group-title="UEFA U17", Croatia U17 vs Belgium U17 (BLV KAN)
-https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1779645919-0-0-987eda0b4ec3844cf35c8f36478c452e
-#EXTINF:-1 group-title="BTN PL", Drukpa FC vs Tsirang FC (BLV SATIVA)
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779631571-0-0-59bd4669d31992a2ed4a985e25709251
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0aba6b1b5b51e9daffc183fe8cca78bc&txTime=6a1499d3
 #EXTINF:-1 group-title="MPBL", Quezon City vs Bulacan Kuyas (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779702640-0-0-577e1b8499273e436ec8ea4d33afcc0c
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779716995-0-0-865b5d8e56e4820a0127dd088eaf31d9
 #EXTINF:-1 group-title="MPBL", Quezon City vs Bulacan Kuyas (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779702492-0-0-76d2ec7d3c708bcc436a787621aabb01
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779716995-0-0-d19b7dad86e2ac93761ee513dd3c6c5e
 #EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=89177f2e3c17f75dbd17f5f26cab31c8&txTime=6a138838
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779716995-0-0-6345e6197ef148e0fbfe7ea68f7b7886
 #EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779659840-0-0-3bce4ceb9153cbb1c5fda50d213c00be
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779716995-0-0-70ab75b332d1e967840c21b696aa1d4a
 #EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (TYPN)
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=265f04649c8b0d87a108ba9718e139c9&txTime=6a1413d9
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=bc59095a6ebf09d62bbbb293c070db3e&txTime=6a1499d3
 #EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779675707-0-0-b9b4fc0f42ee6313dcde84205f75382d
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779716995-0-0-9e5a7bc8857f0dd56dbbc52d1df8584b
 #EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779675940-0-0-2022a1582d18cbe2f25252f857b321be
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779716995-0-0-db489364b196a55cd079ce4a9e1d3d24
 #EXTINF:-1 group-title="NOR D1", Start Kristiansand vs Vålerenga Fotball Elite (THẠCH TÚ)
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1779646001-0-0-532578732cdaf506184ba935850967ba
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=c27bf9de69db4ce4f8a0fb6b59d2a6be&txTime=6a1499d3
+#EXTINF:-1 group-title="DEN D1", Hvidovre IF vs Esbjerg (BLV COZY)
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779716995-0-0-8fd2d2a1cbca1728479f04eaa72d0166
 #EXTINF:-1 group-title="DEN D1", Hvidovre IF vs Esbjerg (BLV THÓC)
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779670915-0-0-ec4f807ef58930b7c9781b98987a0e2b
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779716995-0-0-d760ddbb08f1e85b9a27a452357f647d
 #EXTINF:-1 group-title="DEN D1", Hvidovre IF vs Esbjerg (HÀ DUY KIÊN)
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779659297-0-0-99f13702638f015214f8fc2f42dfe84a
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779716995-0-0-d75cab4a4cc48bc37d746c1f6e60f19d
 #EXTINF:-1 group-title="DEN D1", Hvidovre IF vs Esbjerg (BLV YONE)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779675998-0-0-6287053c88ec59fd4c7e72fc151f44ff
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779716995-0-0-0a761a268df40a50bfcc9c4768848928
 #EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV CÁO)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779659287-0-0-6b6242e40b1f4ec90e64d4dc5e3d9383
 #EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV ANH TÀI)
 https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779667668-0-0-904915c8a8eace491b2d617ff3ae0268
 #EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV A TÚ)
 https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779676019-0-0-417121184d22f63e64522e4d91498605
+#EXTINF:-1 group-title="EGY LC", Enppi vs Wadi Degla SC (BLV RÔSI)
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=253b45aded2166cde924d6b2e243fd43&txTime=6a149997
 #EXTINF:-1 group-title="EGY LC", Enppi vs Wadi Degla SC (LOKA)
 https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779659728-0-0-65a2ac41275c52e04c32c0408e74a300
 #EXTINF:-1 group-title="BUL D1", Cherno More Varna vs Arda (TƯ MÃ Ý)
 https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779659313-0-0-6bbe5bdad055f3cb8099bcf0d0827d9e
+#EXTINF:-1 group-title="BUL D1", Cherno More Varna vs Arda (BLV SATIVA)
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779716922-0-0-92d527145571716d030cb2c045077e4c
 #EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV LONG)
 https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=10f954646c3997d0b2eae5c08bc2bf0b&txTime=6a13b9af
 #EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV MIXI)
@@ -105,12 +67,18 @@ https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779659682-0-0-54f8
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=091212f232e9530560829b31c4807a4e&txTime=6a141630
 #EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV GÔN)
 https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=74840580a47bcb04270e38cced9233bd&txTime=6a13c6be
-#EXTINF:-1 group-title="NOR D1", KFUM Oslo vs Rosenborg (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779659698-0-0-fd084cf25ee4a8b3dbe6551469eb94b3
+#EXTINF:-1 group-title="NOR D1", KFUM Oslo vs Rosenborg (A PÁO)
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779705105-0-0-3f344691317c234fb06c84e2fb8c49db
+#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (DECO)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779705294-0-0-1e9ecacfee17b677054561cf4db2bd15
 #EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (RICKHANTER)
 https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=028fdb7d25355c7eaa7aa55464103a42&txTime=6a1413c2
+#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779705235-0-0-bcb58bc73bcec3035e15f69e66850a27
 #EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (BLV 7UP)
 https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779682988-0-0-b7a2a2ece4d4ce26e86d92cdab355f34
+#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779717022-0-0-1031edea0214145839680e5ed682240d
 #EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (BLV A WIN)
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779659496-0-0-3a78b472ee45b2e6f937c0b1e6b1dbe9
 #EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (BLV HÚP)
