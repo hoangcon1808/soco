@@ -1,57 +1,131 @@
 #EXTM3U
-#EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779740766-0-0-2472729922f84f32cf7e8a44d3e8655b
-#EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779738887-0-0-37eba3cdc4295e2d38d9c6533e607faa
-#EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779747628-0-0-766e0fdca34772021e0613f48fe50bc6
-#EXTINF:-1 group-title="ENG D2", Notts County vs Salford City (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779727803-0-0-8733038bae0ef42bb7709316012b48eb
-#EXTINF:-1 group-title="EGY LC", Enppi vs Wadi Degla SC (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=806d94582c785f8bd9f957b6a1ecec82&txTime=6a1522ef
-#EXTINF:-1 group-title="EGY LC", Enppi vs Wadi Degla SC (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779746966-0-0-02a1731ada6ae854eca00a9ea291161f
-#EXTINF:-1 group-title="BUL D1", Cherno More Varna vs Arda (TƯ MÃ Ý)
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779745109-0-0-54db0a935af36296ae8f7ea2774ec236
-#EXTINF:-1 group-title="BUL D1", Cherno More Varna vs Arda (BLV SATIVA)
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779740909-0-0-087580c05236531e8527c4be1560a9f0
-#EXTINF:-1 group-title="BUL D1", Lokomotiv Plovdiv vs Botev Plovdiv (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779746798-0-0-2f80f020cb4df1ca5c966697e3445602
-#EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV MIXI)
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779738910-0-0-eb73bee37b195e2ee936c862a10bf16a
-#EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f6003247925f12664ef0f8c876ed0072&txTime=6a14f02a
-#EXTINF:-1 group-title="NOR D1", Ham-Kam vs Lillestrom (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=1c42a7c79dc555719eacc8e8b583dd76&txTime=6a14efbe
-#EXTINF:-1 group-title="NOR D1", KFUM Oslo vs Rosenborg (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779739353-0-0-32051e7787a7dc3fcad38c7958631838
-#EXTINF:-1 group-title="NOR D1", KFUM Oslo vs Rosenborg (TYPN)
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=9b8c8dc7877a4075e3bb59b8962b3e74&txTime=6a14d374
-#EXTINF:-1 group-title="NOR D1", KFUM Oslo vs Rosenborg (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779732042-0-0-1a602633fda50170047f9ab78e2bbac6
-#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779732222-0-0-d57e153d6fcab518f5a9a51a66203eaf
-#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=05d5e4cad65a087c69162e47cde3e5cd&txTime=6a1522ef
-#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779740246-0-0-d15e63e6eb5b91a8c4ed2cc47244d331
-#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (BLV 7UP)
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779739999-0-0-9940864c0ea9773cd056119d467276d1
-#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779732148-0-0-423dda565fe60dac22c83f97db94a7e6
-#EXTINF:-1 group-title="NOR D1", Sarpsborg 08 vs Molde (CR Bưởi)
+#EXTINF:-1 group-title="BRA D1", Coritiba SAF - PR vs Bahia - BA (BLV COCA)
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779757855-0-0-23fdf8417ea73fa3ffe4a109d667f07d
+#EXTINF:-1 group-title="BRA D1", Coritiba SAF - PR vs Bahia - BA (VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a46bde877d160c83f8710207cb3d3528&txTime=6a15396f
+#EXTINF:-1 group-title="BRA D1", Coritiba SAF - PR vs Bahia - BA (BLV TOMMY)
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779757855-0-0-32acdc48b345ae880b15f03bfa6ed76a
+#EXTINF:-1 group-title="BRA D1", Coritiba SAF - PR vs Bahia - BA (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779757855-0-0-ca1119ebc9ba50ce17e23e2c7d9defb0
+#EXTINF:-1 group-title="BRA D1", Coritiba SAF - PR vs Bahia - BA (BLV ROBBEN)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779757855-0-0-b0fd82308dcd0189f16ca2a4cd7f050d
+#EXTINF:-1 group-title="BRA D1", Coritiba SAF - PR vs Bahia - BA (RICKHANTER)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=84f752396f586f9d214dd62bd134cf14&txTime=6a15396f
+#EXTINF:-1 group-title="CHI D2", CD Copiapo S.A. vs Union Espanola (BLV ENZO)
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779757855-0-0-d0da0f77c4d9bbc6546c06fa943bcf4f
+#EXTINF:-1 group-title="CHI D2", CD Copiapo S.A. vs Union Espanola (BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779757855-0-0-fba00dbf775bd0cca3a4689b59040061
+#EXTINF:-1 group-title="CHI D2", CD Copiapo S.A. vs Union Espanola (HÀ DUY KIÊN)
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779757855-0-0-cd09fb60234f5aa7c6606640489eef38
+#EXTINF:-1 group-title="CHI D2", CD Copiapo S.A. vs Union Espanola (BLV MESSI)
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779757855-0-0-0ddebc363a144de8fa22c759e2d51b88
+#EXTINF:-1 group-title="CHI D2", CD Copiapo S.A. vs Union Espanola (MONEY MAN)
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779757855-0-0-b8cc54e7e62fcade8d11506a50e4ba09
+#EXTINF:-1 group-title="CHI D2", CD Copiapo S.A. vs Union Espanola (BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779757855-0-0-81c8146a82406a1ad0ce1f028dbaeaa4
+#EXTINF:-1 group-title="NBA", Cleveland Cavaliers vs New York Knicks (KING)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779757855-0-0-db3c43e2d10e4015437eb2fbf72e3065
+#EXTINF:-1 group-title="NBA", Cleveland Cavaliers vs New York Knicks (BRIAN)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779757855-0-0-9fddb012bedd66da904babcc34eb007d
+#EXTINF:-1 group-title="NBA", Cleveland Cavaliers vs New York Knicks (BLV HENRY)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779757855-0-0-d0d56f6325985efba1ed95f3ccd10f2b
+#EXTINF:-1 group-title="NBA", Cleveland Cavaliers vs New York Knicks (HUNTER)
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779757855-0-0-a6851b40c7c75c57515d58a8f06ff05c
+#EXTINF:-1 group-title="WNBA", New York Liberty W vs Portland Fire W (A CHÈ)
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779757855-0-0-21d44ba7628fa76dfd65324b722ad847
+#EXTINF:-1 group-title="WNBA", New York Liberty W vs Portland Fire W (CHAN SENA)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779757855-0-0-3c220de4d983beeb206c78a3af8fb0c0
+#EXTINF:-1 group-title="CHA D2", Tai'an Tiankuang vs Dalian Kewei (SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=ed0b1ebac1025c8884205a0479d234d9&txTime=6a146b1d
+#EXTINF:-1 group-title="CHA D2", Tai'an Tiankuang vs Dalian Kewei (TẠ BIÊN GIỚI)
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779705197-0-0-e1c67c2b70c8316e244c64973c09d26c
+#EXTINF:-1 group-title="CHA D2", Shanghai Port B vs Lanzhou Longyuan Athletic (BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779723093-0-0-52c82e021069faef35008b253e925ac3
+#EXTINF:-1 group-title="CHA D2", Shanghai Port B vs Lanzhou Longyuan Athletic (BLV NẤM)
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779757649-0-0-a098bdb50bcdaa6178764b261fe08bc1
+#EXTINF:-1 group-title="CHA D2", Shenzhen 2028 vs Wenzhou Professional (CR Bưởi)
 https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779740438-0-0-7fead74d4b5eac6b12369bf4687eed75
-#EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (BLV HÚP)
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779740738-0-0-ad019aeaa07253968ab45dfe2415a785
-#EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=b275b9eea7f9ad7990463c351988c771&txTime=6a14d322
-#EXTINF:-1 group-title="NOR D1", Tromso IL vs Aalesund FK (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779746742-0-0-8f0d92591b899ba6f791d06283b84ed6
-#EXTINF:-1 group-title="AUT D1", Rapid Wien vs SV Ried (NGƯỜI CÁ)
+#EXTINF:-1 group-title="CHA D2", Shenzhen 2028 vs Wenzhou Professional (BLV YONE)
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1779757483-0-0-5ea0eb28c44a6d1384dfb682ef854739
+#EXTINF:-1 group-title="CHA D2", Shenzhen 2028 vs Wenzhou Professional (BLV LUCAS)
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779751711-0-0-d9b4cee931ccbdfb595d7c55d3699c32
+#EXTINF:-1 group-title="CHA D2", Shenzhen 2028 vs Wenzhou Professional (BLV RÔSI)
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=9c953296b93903839e556fe167eb2d99&txTime=6a15396f
+#EXTINF:-1 group-title="AUS CupQ", Brisbane Olympic United FC vs Queensland Lions SC (BLV TAP)
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2a1d3d087320a4a9d683162ec0a45d19&txTime=6a148560
+#EXTINF:-1 group-title="AUS CupQ", Brisbane Olympic United FC vs Queensland Lions SC (DECO)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779732222-0-0-d57e153d6fcab518f5a9a51a66203eaf
+#EXTINF:-1 group-title="AUS CupQ", Brisbane Olympic United FC vs Queensland Lions SC (TYPN)
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=9b8c8dc7877a4075e3bb59b8962b3e74&txTime=6a14d374
+#EXTINF:-1 group-title="AUS CupQ", Brisbane Olympic United FC vs Queensland Lions SC (BLV BÉO)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f6003247925f12664ef0f8c876ed0072&txTime=6a14f02a
+#EXTINF:-1 group-title="AUS CupQ", Brisbane Olympic United FC vs Queensland Lions SC (BLV 7UP)
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779739999-0-0-9940864c0ea9773cd056119d467276d1
+#EXTINF:-1 group-title="AUS CupQ", Caboolture FC vs AC Carina (BLV RAMBO)
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=abf9031d75550d752b94ea583d3e156c&txTime=6a14f00e
+#EXTINF:-1 group-title="AUS CupQ", Caboolture FC vs AC Carina (BLV KAN)
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=635bff19c8ad3e15e1b12d84c54ab5fc&txTime=6a14a1e4
+#EXTINF:-1 group-title="AUS CupQ", Caboolture FC vs AC Carina (BLV CHIVAS)
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=da6771fce691b2b57be1ce8deadec175&txTime=6a13fb2c
+#EXTINF:-1 group-title="KAZ D1", FC Shakhtyor Karagandy vs FK Yelimay Semey B (A PÁO)
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779732042-0-0-1a602633fda50170047f9ab78e2bbac6
+#EXTINF:-1 group-title="KAZ D1", FC Shakhtyor Karagandy vs FK Yelimay Semey B (BLV A TÚ)
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779727803-0-0-8733038bae0ef42bb7709316012b48eb
+#EXTINF:-1 group-title="KAZ D1", FC Shakhtyor Karagandy vs FK Yelimay Semey B (BLV KEM)
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779757719-0-0-b451720a5ce84f8d6690bb0018d05c2f
+#EXTINF:-1 group-title="KAZ D1", FC Shakhtyor Karagandy vs FK Yelimay Semey B (CHANH MUỐI)
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779704806-0-0-cdf8ab506362a6e110ab833012290132
+#EXTINF:-1 group-title="KAZ D1", Akademiya Ontustik vs FK Kaspiy Aktau B (BLV MIXI)
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779738910-0-0-eb73bee37b195e2ee936c862a10bf16a
+#EXTINF:-1 group-title="KAZ D1", Akademiya Ontustik vs FK Kaspiy Aktau B (BLV LION)
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779746798-0-0-2f80f020cb4df1ca5c966697e3445602
+#EXTINF:-1 group-title="KAZ D1", Akademiya Ontustik vs FK Kaspiy Aktau B (PINKMAN)
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=1ac065f0a766d78cffa7d997fb21448b&txTime=6a13b924
+#EXTINF:-1 group-title="UEFA U17", Italy U17 vs France U17 (A BỆU)
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779741484-0-0-1e879ae36fd14b77110013a2fa044e9a
+#EXTINF:-1 group-title="UEFA U17", Italy U17 vs France U17 (THẠCH TÚ)
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=8568553a543b37baa793c49873138ff2&txTime=6a14f3dd
+#EXTINF:-1 group-title="CHA D2", Hangzhou Linping Wuyue vs Hubei Istar (BLV WUKONG)
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779733817-0-0-3a71e121aec2eeaac042f65bad0081bd
+#EXTINF:-1 group-title="CHA D2", Hangzhou Linping Wuyue vs Hubei Istar (BLV XO)
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779746890-0-0-414fc4b1b8eaecee957911c7f4afe6d7
+#EXTINF:-1 group-title="CHA D2", Hangzhou Linping Wuyue vs Hubei Istar (BLV SATIVA)
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779740909-0-0-087580c05236531e8527c4be1560a9f0
+#EXTINF:-1 group-title="CHA D2", Chengdu Rongcheng B vs Guizhou Guiyang Athletic (CÔNG CHẤT)
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779739512-0-0-047ff2f158a37ca29506be448cb6ed53
+#EXTINF:-1 group-title="CHA D2", Chengdu Rongcheng B vs Guizhou Guiyang Athletic (BLV VIP)
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=fff1b3688bff3b6d6597187e6a2d5772&txTime=6a14f036
+#EXTINF:-1 group-title="CHA D2", Chengdu Rongcheng B vs Guizhou Guiyang Athletic (XUÂN SON)
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e0e90b48d7f3176ff3b03eacf0f66192&txTime=6a14f048
+#EXTINF:-1 group-title="CHA D2", Chengdu Rongcheng B vs Guizhou Guiyang Athletic (BLV VITAMIN)
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779739091-0-0-23636ac12458c732a57c0b9dc5082e80
+#EXTINF:-1 group-title="KAZ D1", FK Arys vs Kairat Almaty II (BLV ANH TÀI)
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779747628-0-0-766e0fdca34772021e0613f48fe50bc6
+#EXTINF:-1 group-title="KAZ D1", FK Arys vs Kairat Almaty II (BLV ALEX)
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779738941-0-0-9065e5c59d0a176e07c6d4234253380d
+#EXTINF:-1 group-title="KAZ D1", FK Arys vs Kairat Almaty II (NGƯỜI CÁ)
 https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779746168-0-0-3d0ae3c7cdb5f0b18f9ec02e8cee75aa
-#EXTINF:-1 group-title="AUT D1", Rapid Wien vs SV Ried (ĐỖ TÚ TÀI)
+#EXTINF:-1 group-title="BTN PL", Thimphu City vs RTC FC (BLV CÒ)
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779738887-0-0-37eba3cdc4295e2d38d9c6533e607faa
+#EXTINF:-1 group-title="KAZ D1", Astana B vs Khan Tengri FC (BLV COZY)
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779746850-0-0-93232e1a6887c1a5c5cdef4e1890500c
+#EXTINF:-1 group-title="KAZ D1", Astana B vs Khan Tengri FC (BLV RYO)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779746153-0-0-ea5501660c69fc14e0d29a3b0f377c41
+#EXTINF:-1 group-title="ARM D1", Alashkert vs Shirak (BLV A WIN)
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779740831-0-0-d26e5e958a4e281fbff37be204ec2c65
+#EXTINF:-1 group-title="ARM D1", Ararat Yerevan vs BKMA (ĐỖ TÚ TÀI)
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779751505-0-0-25f8d1190f41bc7645d56435636d7ab3
-#EXTINF:-1 group-title="AUT D1", Rapid Wien vs SV Ried (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779746040-0-0-3839373e2bbd403a39b883bba9a973be
-#EXTINF:-1 group-title="AUT D1", Rapid Wien vs SV Ried (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=40436324bbef196647762aeb5f576510&txTime=6a150b70
+#EXTINF:-1 group-title="ARM D1", Ararat Yerevan vs BKMA (BLV THÓC)
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779751577-0-0-b34bf45041e017c85ece1070d0b195d0
+#EXTINF:-1 group-title="FIN Cup", IFK Mariehamn vs Lahti (BLV CÁO)
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779740766-0-0-2472729922f84f32cf7e8a44d3e8655b
+#EXTINF:-1 group-title="LAT D1", Jelgava vs FK Liepaja (TƯ MÃ Ý)
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779745109-0-0-54db0a935af36296ae8f7ea2774ec236
+#EXTINF:-1 group-title="LAT D1", Jelgava vs FK Liepaja (HẢI THANH)
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779746742-0-0-8f0d92591b899ba6f791d06283b84ed6
+#EXTINF:-1 group-title="FIN Cup", Inter Turku vs EBK Espoo (TRÀ ĐÁ)
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779738919-0-0-e8b87190d8fc7fb4dc0081bce7f50fc3
+#EXTINF:-1 group-title="FIN Cup", Inter Turku vs EBK Espoo (BLV HÚP)
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779740738-0-0-ad019aeaa07253968ab45dfe2415a785
+#EXTINF:-1 group-title="FIN Cup", JaPS vs KuPs (BLV GÔN)
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=1c42a7c79dc555719eacc8e8b583dd76&txTime=6a14efbe
