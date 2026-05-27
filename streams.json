@@ -17,12 +17,12 @@
     "streamer": "ĐỖ TÚ TÀI",
     "match": "Pakhtakor vs FC Kattaqorgon",
     "category": "UZB Cup",
-    "best_url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779902756-0-0-bfd5bc263bb08a78a21e99398e359f1b",
+    "best_url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779910736-0-0-5d8a6f42e3020d8db7057931a90586da",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1779902756-0-0-a9037fec1bb4b186981e100a8fa36df1",
-      "hd_flv": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1779902756-0-0-a1e94484fc3d3c5d55f0907abaa7e366",
-      "m3u8": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779902756-0-0-e58a7c12beea58a97757ad50e8c695bc",
-      "hd_m3u8": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779902756-0-0-bfd5bc263bb08a78a21e99398e359f1b"
+      "flv": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1779910736-0-0-06d417e5e672d41db0d47e541e9e2717",
+      "hd_flv": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1779910736-0-0-f6a8d13313dc110cf7a9a77512783d60",
+      "m3u8": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779910736-0-0-361bdefcc5b98ec6dbca8db3655dca7f",
+      "hd_m3u8": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779910736-0-0-5d8a6f42e3020d8db7057931a90586da"
     }
   },
   {
@@ -56,12 +56,12 @@
     "streamer": "BLV VIP",
     "match": "Ararat-Armenia FC vs Gandzasar Kapan",
     "category": "ARM D1",
-    "best_url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c91a04bbaa9134287bc0a5f73869906a&txTime=6a176f74",
+    "best_url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=eb22e088ff98e350c5687f40afccb452&txTime=6a178ea0",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=95522fcd7e429311d9f5a9b46d9eb6b7&txTime=6a176f74",
-      "hd_flv": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=c91a04bbaa9134287bc0a5f73869906a&txTime=6a176f74",
-      "m3u8": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=95522fcd7e429311d9f5a9b46d9eb6b7&txTime=6a176f74",
-      "hd_m3u8": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c91a04bbaa9134287bc0a5f73869906a&txTime=6a176f74"
+      "flv": "https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=a1e2d6301469836796a43162068d14a7&txTime=6a178ea0",
+      "hd_flv": "https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=eb22e088ff98e350c5687f40afccb452&txTime=6a178ea0",
+      "m3u8": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=a1e2d6301469836796a43162068d14a7&txTime=6a178ea0",
+      "hd_m3u8": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=eb22e088ff98e350c5687f40afccb452&txTime=6a178ea0"
     }
   },
   {
@@ -69,12 +69,12 @@
     "streamer": "BLV RAMBO",
     "match": "Ararat-Armenia FC vs Gandzasar Kapan",
     "category": "ARM D1",
-    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ce0202ac6744e24984caa37daba774b3&txTime=6a176f74",
+    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6eb558fcf88f0863ffee0cfe022921ed&txTime=6a1776cc",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=1bdb64113337257bbddca249670b9c5f&txTime=6a176f74",
-      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=ce0202ac6744e24984caa37daba774b3&txTime=6a176f74",
-      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=1bdb64113337257bbddca249670b9c5f&txTime=6a176f74",
-      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ce0202ac6744e24984caa37daba774b3&txTime=6a176f74"
+      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=ba961be1169a1e7683e3fb9a54921463&txTime=6a1776cc",
+      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=6eb558fcf88f0863ffee0cfe022921ed&txTime=6a1776cc",
+      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ba961be1169a1e7683e3fb9a54921463&txTime=6a1776cc",
+      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6eb558fcf88f0863ffee0cfe022921ed&txTime=6a1776cc"
     }
   },
   {
@@ -82,12 +82,12 @@
     "streamer": "CR Bưởi",
     "match": "Ararat-Armenia FC vs Gandzasar Kapan",
     "category": "ARM D1",
-    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779902756-0-0-8775a2a7a4756e463bc373388eebd0a7",
+    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779910736-0-0-3e35c4ce42137223efe12fd07c4c47dc",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1779902756-0-0-4ecb4f52cebff39cca8e7d8c8d2fa466",
-      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1779902756-0-0-dfe1ece6a247cdf2d0c4704cc6b8d931",
-      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1779902756-0-0-bfeef436fdfe9ed89359c853ce56db9f",
-      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779902756-0-0-8775a2a7a4756e463bc373388eebd0a7"
+      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1779910736-0-0-3884113dae1040c0cfd2d436c3f8d02b",
+      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1779910736-0-0-a7badfec564b3848007bd6359c5f02a9",
+      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1779910736-0-0-4ea060d5abe6748e7a4dca07aa8060ee",
+      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779910736-0-0-3e35c4ce42137223efe12fd07c4c47dc"
     }
   },
   {
@@ -95,12 +95,12 @@
     "streamer": "BLV ROBBEN",
     "match": "Ararat-Armenia FC vs Gandzasar Kapan",
     "category": "ARM D1",
-    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779902756-0-0-9405f8dd05503cf18d4d18910cc759ee",
+    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779904568-0-0-f2f7e91a21993feb3d8802800a4ee06a",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779902756-0-0-7edc3d95c9c10211c5f0e87723cc9400",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779902756-0-0-620a5babce7f7242009429a59c768ae3",
-      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779902756-0-0-bd396d44d32471e362021681b0ac6f9e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779902756-0-0-9405f8dd05503cf18d4d18910cc759ee"
+      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779904568-0-0-f89834cf9cfaa77e36c289bd3ef1e686",
+      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779904568-0-0-e7d461387aeacaab4e0c0381e04649c6",
+      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779904568-0-0-00bc87a72d81518fa58306b9c4aa3d42",
+      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779904568-0-0-f2f7e91a21993feb3d8802800a4ee06a"
     }
   },
   {
@@ -108,12 +108,12 @@
     "streamer": "BLV A TINH",
     "match": "FC Pyunik vs FK Van Charentsavan",
     "category": "ARM D1",
-    "best_url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=48dcc689849f6b46dfc90c1ac92622ac&txTime=6a176f74",
+    "best_url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=bd6cd7af70f630538ea86dd6067c25ac&txTime=6a178ea0",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=a31432a799c1b7e5ea79fefee829c089&txTime=6a176f74",
-      "hd_flv": "https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=48dcc689849f6b46dfc90c1ac92622ac&txTime=6a176f74",
-      "m3u8": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=a31432a799c1b7e5ea79fefee829c089&txTime=6a176f74",
-      "hd_m3u8": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=48dcc689849f6b46dfc90c1ac92622ac&txTime=6a176f74"
+      "flv": "https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=69b9dc76eb5e4fe43fe777ea4cc1d1e4&txTime=6a178ea0",
+      "hd_flv": "https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=bd6cd7af70f630538ea86dd6067c25ac&txTime=6a178ea0",
+      "m3u8": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=69b9dc76eb5e4fe43fe777ea4cc1d1e4&txTime=6a178ea0",
+      "hd_m3u8": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=bd6cd7af70f630538ea86dd6067c25ac&txTime=6a178ea0"
     }
   },
   {
@@ -121,12 +121,12 @@
     "streamer": "BLV A WIN",
     "match": "FC Pyunik vs FK Van Charentsavan",
     "category": "ARM D1",
-    "best_url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779902756-0-0-647137b553c248cb0ab3841166630b68",
+    "best_url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779910736-0-0-4ac3f650edd6128fc5a6e6786e2db9ff",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1779902756-0-0-45ffe4a63faccad18389250ea6efc28e",
-      "hd_flv": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1779902756-0-0-769e9c94f526f9bb535b9edea8441ce5",
-      "m3u8": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779902756-0-0-ff15c8166ea49cbbd5f03c06b3c11812",
-      "hd_m3u8": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779902756-0-0-647137b553c248cb0ab3841166630b68"
+      "flv": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1779910736-0-0-4e8c411deec414195d16154719de33e7",
+      "hd_flv": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1779910736-0-0-91b66e8df5b22f14c92676f532b0e018",
+      "m3u8": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779910736-0-0-e22edbf4a6c64a45c0db831e019c1866",
+      "hd_m3u8": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779910736-0-0-4ac3f650edd6128fc5a6e6786e2db9ff"
     }
   },
   {
@@ -134,12 +134,12 @@
     "streamer": "TYPN",
     "match": "FC Pyunik vs FK Van Charentsavan",
     "category": "ARM D1",
-    "best_url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=b16bedbe8132c2b879111ddf5bde394a&txTime=6a176f74",
+    "best_url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=c31dc23d2b906fdbf437e9bed89481ad&txTime=6a1776dc",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=f2174b31880c8dbdac03e15cec34dea1&txTime=6a176f74",
-      "hd_flv": "https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=b16bedbe8132c2b879111ddf5bde394a&txTime=6a176f74",
-      "m3u8": "https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=f2174b31880c8dbdac03e15cec34dea1&txTime=6a176f74",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=b16bedbe8132c2b879111ddf5bde394a&txTime=6a176f74"
+      "flv": "https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=b28f3d5a30004c2059a05ad82db8ab2e&txTime=6a1776dc",
+      "hd_flv": "https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=c31dc23d2b906fdbf437e9bed89481ad&txTime=6a1776dc",
+      "m3u8": "https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=b28f3d5a30004c2059a05ad82db8ab2e&txTime=6a1776dc",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=c31dc23d2b906fdbf437e9bed89481ad&txTime=6a1776dc"
     }
   },
   {
@@ -147,12 +147,12 @@
     "streamer": "TƯ MÃ Ý",
     "match": "FC Pyunik vs FK Van Charentsavan",
     "category": "ARM D1",
-    "best_url": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779902756-0-0-e7dfcfa319bcbc136747e482e98d39c7",
+    "best_url": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779904512-0-0-5118d6a34a4b4b36ffda6b9e69d68dac",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1779902756-0-0-3aeeac993a0266d133643d00c0469f03",
-      "hd_flv": "https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1779902756-0-0-8af9c49af1076667ccb13e8fa82d7303",
-      "m3u8": "https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1779902756-0-0-d1df75ccd01ce689fb3dc8aed7076151",
-      "hd_m3u8": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779902756-0-0-e7dfcfa319bcbc136747e482e98d39c7"
+      "flv": "https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1779904512-0-0-8c9bad730dcf08ffa7647f837e4289f5",
+      "hd_flv": "https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1779904512-0-0-cf17131821a9b2eff5e99d84691cde0a",
+      "m3u8": "https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1779904512-0-0-b196f06a664863f5a722955b5281d2f4",
+      "hd_m3u8": "https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779904512-0-0-5118d6a34a4b4b36ffda6b9e69d68dac"
     }
   },
   {
@@ -160,12 +160,12 @@
     "streamer": "NGƯỜI CÁ",
     "match": "Urartu vs FC Noah",
     "category": "ARM D1",
-    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779902756-0-0-3bc3e2a87956fcc1021622d34a17bd87",
+    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779910736-0-0-3e353eafd7ec3308ce4c44b5d723324b",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1779902756-0-0-6de353f59c756b7fe10fa2268d6abdda",
-      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1779902756-0-0-7b48c7ab099b274834e8c321e75def68",
-      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779902756-0-0-fc31b306d0927ab830cce8ac75e383a9",
-      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779902756-0-0-3bc3e2a87956fcc1021622d34a17bd87"
+      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1779910736-0-0-be918ddd7ac2ed8fa5ca119f771f1720",
+      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1779910736-0-0-4e2729ecbded93af4e6fcab6d2e0af1d",
+      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779910736-0-0-7c776a8b13a0c38c7aa2a1349a266cf7",
+      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779910736-0-0-3e353eafd7ec3308ce4c44b5d723324b"
     }
   },
   {
@@ -173,12 +173,12 @@
     "streamer": "BLV KAN",
     "match": "Urartu vs FC Noah",
     "category": "ARM D1",
-    "best_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e3245d8fe2bc8a60cb1fd511defbaf0f&txTime=6a176f74",
+    "best_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7c23b002e154e6245500ee73062bed74&txTime=6a1775e3",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=1ca148a24cd2404bf12f5441b50c8fba&txTime=6a176f74",
-      "hd_flv": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=e3245d8fe2bc8a60cb1fd511defbaf0f&txTime=6a176f74",
-      "m3u8": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=1ca148a24cd2404bf12f5441b50c8fba&txTime=6a176f74",
-      "hd_m3u8": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e3245d8fe2bc8a60cb1fd511defbaf0f&txTime=6a176f74"
+      "flv": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=f6a69fea31b6c6537307d8e12fb99965&txTime=6a1775e3",
+      "hd_flv": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=7c23b002e154e6245500ee73062bed74&txTime=6a1775e3",
+      "m3u8": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=f6a69fea31b6c6537307d8e12fb99965&txTime=6a1775e3",
+      "hd_m3u8": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7c23b002e154e6245500ee73062bed74&txTime=6a1775e3"
     }
   },
   {
@@ -186,12 +186,12 @@
     "streamer": "BLV VOI",
     "match": "Urartu vs FC Noah",
     "category": "ARM D1",
-    "best_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779902756-0-0-3a932df5f3ad86ed45a8e43c74d409a9",
+    "best_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779910736-0-0-27adf418c4c666884dada5d4d3b205a9",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779902756-0-0-8b28c9b476d0d275dc8f39e53a8237e8",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779902756-0-0-db28194c5619fd75159d678200206378",
-      "m3u8": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779902756-0-0-114e1933b7544519feb9f95e62db283b",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779902756-0-0-3a932df5f3ad86ed45a8e43c74d409a9"
+      "flv": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1779910736-0-0-60aef882a303f9ed52374ea2576103d4",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1779910736-0-0-5cae3a449e57105238ef4cee70334515",
+      "m3u8": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779910736-0-0-32c52a3058557e8e8bcff27ea07ad5f1",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779910736-0-0-27adf418c4c666884dada5d4d3b205a9"
     }
   },
   {
@@ -199,12 +199,12 @@
     "streamer": "BLV ENZO",
     "match": "Urartu vs FC Noah",
     "category": "ARM D1",
-    "best_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779902756-0-0-205f77631826ad6de2b56ac9a326c501",
+    "best_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779904546-0-0-ee9eab07df2723b682a2cae05d4be6d1",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1779902756-0-0-6942a0e3bd02b309e832c56693785740",
-      "hd_flv": "https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1779902756-0-0-4b5fae5e7771499521c537fd55b143fd",
-      "m3u8": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1779902756-0-0-eae89f75785e2d93545e7be5de5f8488",
-      "hd_m3u8": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779902756-0-0-205f77631826ad6de2b56ac9a326c501"
+      "flv": "https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1779904546-0-0-dd4fb51a16fefd11267e8030be918562",
+      "hd_flv": "https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1779904546-0-0-19151091faf94d73ba0f259318b40055",
+      "m3u8": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1779904546-0-0-77183aabfed5c01df42828c99ecabd84",
+      "hd_m3u8": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779904546-0-0-ee9eab07df2723b682a2cae05d4be6d1"
     }
   },
   {
@@ -212,12 +212,12 @@
     "streamer": "BLV RYO",
     "match": "Turan vs Ekibastuzets",
     "category": "KAZ D1",
-    "best_url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779902756-0-0-e45190441c206aaf08b11ef163c8f7ec",
+    "best_url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779904272-0-0-725bea5744a4532fb239dced7dcc9e78",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1779902756-0-0-599f2356d82c9675cdf2590a10739a60",
-      "hd_flv": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1779902756-0-0-9474b306eebf7a09fccf41473f332b45",
-      "m3u8": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779902756-0-0-5b5363fc2e6e76103db6036a4e150b9b",
-      "hd_m3u8": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779902756-0-0-e45190441c206aaf08b11ef163c8f7ec"
+      "flv": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1779904272-0-0-cd032a036ac96501b971a5ab85b56a3b",
+      "hd_flv": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1779904272-0-0-23cd32b1061dddd1aec1cf0cc60e1b6c",
+      "m3u8": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779904272-0-0-04d1d03b79e8a202f3900042eb03893c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779904272-0-0-725bea5744a4532fb239dced7dcc9e78"
     }
   },
   {
@@ -225,12 +225,12 @@
     "streamer": "BLV ALEX",
     "match": "Turan vs Ekibastuzets",
     "category": "KAZ D1",
-    "best_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779902756-0-0-d7add57ddfb93afea27136687725e74a",
+    "best_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779904201-0-0-78d9182db1ae899cd35106b2cbd109fe",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1779902756-0-0-582e5df9bc34869b401aade57360a628",
-      "hd_flv": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1779902756-0-0-f8ff79b8a741e9a6b570958c90f8e6c6",
-      "m3u8": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779902756-0-0-556590dd0c918d93fed1a9bea970b016",
-      "hd_m3u8": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779902756-0-0-d7add57ddfb93afea27136687725e74a"
+      "flv": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1779904201-0-0-1e956338a4a7ef170d0befef6b26e1f9",
+      "hd_flv": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1779904201-0-0-3cff4acf1f5a4953cdaae9f50334de3c",
+      "m3u8": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779904201-0-0-a6e41e4385a78212d3c680280efc9897",
+      "hd_m3u8": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779904201-0-0-78d9182db1ae899cd35106b2cbd109fe"
     }
   },
   {
@@ -238,12 +238,12 @@
     "streamer": "DECO",
     "match": "Ilves Tampere vs TPS Turku",
     "category": "FIN Cup",
-    "best_url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779902756-0-0-067f6d18c6e1eb39399e4111c3059d48",
+    "best_url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779910736-0-0-54b8801a5e6293b65e9bc309fd0ffa22",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1779902756-0-0-d9adb9bdf71c816d80b606d0fe3362cc",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1779902756-0-0-3cdfe5928252b9f6d2d22c54204c28c7",
-      "m3u8": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1779902756-0-0-3f7b7818162c8455a4030f945695f65c",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779902756-0-0-067f6d18c6e1eb39399e4111c3059d48"
+      "flv": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1779910736-0-0-510238a0872728dd42b459b896cef6cf",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1779910736-0-0-339c0eb8d233061b007d7f4ad1acb830",
+      "m3u8": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1779910736-0-0-710f478616740d03d8a80d5fbe1b7421",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779910736-0-0-54b8801a5e6293b65e9bc309fd0ffa22"
     }
   },
   {
@@ -251,12 +251,12 @@
     "streamer": "A BỆU",
     "match": "Ilves Tampere vs TPS Turku",
     "category": "FIN Cup",
-    "best_url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779902756-0-0-742ecdc15c8610c5788ee71389124409",
+    "best_url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779910736-0-0-41257babfba6f480cf33dfbc049583aa",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1779902756-0-0-93289d9b53778830020b008d46cab614",
-      "hd_flv": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1779902756-0-0-0033c4df2a4a4be05f0368d16b2e4525",
-      "m3u8": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779902756-0-0-101ed496f4e0a63b69f1e9d9becf09a4",
-      "hd_m3u8": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779902756-0-0-742ecdc15c8610c5788ee71389124409"
+      "flv": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1779910736-0-0-7e0b5bf41ae6412f558b46b6832676c8",
+      "hd_flv": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1779910736-0-0-75f4e5995d84e13f6936e272c7ae77b9",
+      "m3u8": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779910736-0-0-216685b297469e6f06c3c844a1f6dcc0",
+      "hd_m3u8": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779910736-0-0-41257babfba6f480cf33dfbc049583aa"
     }
   },
   {
@@ -264,12 +264,12 @@
     "streamer": "BLV Củ Cải",
     "match": "Ilves Tampere vs TPS Turku",
     "category": "FIN Cup",
-    "best_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779902756-0-0-f292db6ac88476f05761c351bb050ac0",
+    "best_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779906503-0-0-ab55ce4a490fd8291b05bf75174f25a2",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779902756-0-0-eb9fc18352e40d4fbd2e5e8c461a848f",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779902756-0-0-0d4150dd46eb5d5f123bd307e904d725",
-      "m3u8": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779902756-0-0-f788cedfba85f7b24cdfbe5449a0444c",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779902756-0-0-f292db6ac88476f05761c351bb050ac0"
+      "flv": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1779906503-0-0-6209e6da52bb732a78a38fbd6dc51c93",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1779906503-0-0-7318af75ebc786b34adc47717170d4c4",
+      "m3u8": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779906503-0-0-fd6d7147eb178578d307ddee6657526c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779906503-0-0-ab55ce4a490fd8291b05bf75174f25a2"
     }
   },
   {
@@ -277,12 +277,12 @@
     "streamer": "BLV LONG",
     "match": "Ilves Tampere vs TPS Turku",
     "category": "FIN Cup",
-    "best_url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=d115ba759c438cc52075fc1cda876393&txTime=6a176f74",
+    "best_url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=292f282bf82bd1e88af9c7b9dbbaffdf&txTime=6a178ea0",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=db492a08e7df0a6b36a47e70668ede5b&txTime=6a176f74",
-      "hd_flv": "https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=d115ba759c438cc52075fc1cda876393&txTime=6a176f74",
-      "m3u8": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=db492a08e7df0a6b36a47e70668ede5b&txTime=6a176f74",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=d115ba759c438cc52075fc1cda876393&txTime=6a176f74"
+      "flv": "https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=b399a55e49e38b285feb482e767fb78d&txTime=6a178ea0",
+      "hd_flv": "https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=292f282bf82bd1e88af9c7b9dbbaffdf&txTime=6a178ea0",
+      "m3u8": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=b399a55e49e38b285feb482e767fb78d&txTime=6a178ea0",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=292f282bf82bd1e88af9c7b9dbbaffdf&txTime=6a178ea0"
     }
   },
   {
@@ -290,12 +290,12 @@
     "streamer": "SAO LA",
     "match": "Ilves Tampere vs TPS Turku",
     "category": "FIN Cup",
-    "best_url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=cc62eaa3af01433d7d06d3393b9f3ac6&txTime=6a176f74",
+    "best_url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=6f1c0b2f8359efecaa873474390a9b4a&txTime=6a178ea0",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=08e012049da416fc1f2f85fa102eb407&txTime=6a176f74",
-      "hd_flv": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=cc62eaa3af01433d7d06d3393b9f3ac6&txTime=6a176f74",
-      "m3u8": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=08e012049da416fc1f2f85fa102eb407&txTime=6a176f74",
-      "hd_m3u8": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=cc62eaa3af01433d7d06d3393b9f3ac6&txTime=6a176f74"
+      "flv": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=ff3fffae6bb4f375c18b931873f0fff5&txTime=6a178ea0",
+      "hd_flv": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=6f1c0b2f8359efecaa873474390a9b4a&txTime=6a178ea0",
+      "m3u8": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=ff3fffae6bb4f375c18b931873f0fff5&txTime=6a178ea0",
+      "hd_m3u8": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=6f1c0b2f8359efecaa873474390a9b4a&txTime=6a178ea0"
     }
   }
 ]
