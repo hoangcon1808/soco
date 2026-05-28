@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="MPBL", Zamboanga Sikat vs Pasig City (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779945410-0-0-acaf77af5b5cd9435bc275d5f619fc59
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779961616-0-0-be7df0963f435b993266b14b29fc7661
 #EXTINF:-1 group-title="MPBL", Zamboanga Sikat vs Pasig City (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779942349-0-0-64bb32d216603df8272d3c29acb21b45
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779961616-0-0-910dceff4bb70094d015268c3e442686
 #EXTINF:-1 group-title="MPBL", Zamboanga Sikat vs Pasig City (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779945458-0-0-5a06eab593c7ff8279f88aabcd710456
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779961616-0-0-75c4b53208898a79d96ac6d1645fc340
 #EXTINF:-1 group-title="KAZ PR", Okzhetpes vs FK Aktobe Lento (DECO)
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779920252-0-0-e4354cd1f45f00672198e81b3efe1c24
 #EXTINF:-1 group-title="KAZ PR", Okzhetpes vs FK Aktobe Lento (RICKHANTER)
@@ -18,7 +18,7 @@ https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a548fdf1dcdbe8bc49b
 #EXTINF:-1 group-title="KAZ PR", Okzhetpes vs FK Aktobe Lento (BLV CUỘI)
 https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779939823-0-0-74c166dfca77aa1e0bd6dd359836a361
 #EXTINF:-1 group-title="BTN PL", Paro FC vs Transport United FC (TƯ MÃ Ý)
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779904512-0-0-5118d6a34a4b4b36ffda6b9e69d68dac
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779961616-0-0-0a9722b7ef567ea2dba35f6b79921bf3
 #EXTINF:-1 group-title="BTN PL", Paro FC vs Transport United FC (BLV 7UP)
 https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779919385-0-0-f7e568101b853a4801a251a6baf824a3
 #EXTINF:-1 group-title="MPBL", Ilagan Isabela Cowboys vs Quezon Huskers (KING)
