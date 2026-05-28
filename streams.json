@@ -43,12 +43,12 @@
     "streamer": "BLV GÔN",
     "match": "Zhenis Astana vs FK Kaspyi Aktau",
     "category": "KAZ PR",
-    "best_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=078d5735a3e292ee7d5ee0ea916ea5ae&txTime=6a190f3c",
+    "best_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=59a8ce1fc8d8d13b1809534d94b7a5b6&txTime=6a192670",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=6280c189a1c379f579d037ffaa1eeef4&txTime=6a190f3c",
-      "hd_flv": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=078d5735a3e292ee7d5ee0ea916ea5ae&txTime=6a190f3c",
-      "m3u8": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=6280c189a1c379f579d037ffaa1eeef4&txTime=6a190f3c",
-      "hd_m3u8": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=078d5735a3e292ee7d5ee0ea916ea5ae&txTime=6a190f3c"
+      "flv": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=416468301c4ae874e798d5c721e313e9&txTime=6a192670",
+      "hd_flv": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=59a8ce1fc8d8d13b1809534d94b7a5b6&txTime=6a192670",
+      "m3u8": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=416468301c4ae874e798d5c721e313e9&txTime=6a192670",
+      "hd_m3u8": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=59a8ce1fc8d8d13b1809534d94b7a5b6&txTime=6a192670"
     }
   },
   {
@@ -199,12 +199,12 @@
     "streamer": "BLV RÔSI",
     "match": "Septemvri Sofia vs Yantra Gabrovo",
     "category": "BUL D1",
-    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fdef661a65d0d0c798f3d90905760f39&txTime=6a190f3c",
+    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=219262d285a79a8a908a78886b0c6ff2&txTime=6a192670",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=9bcf86bbdc609fe1451a7ca4c4616fd9&txTime=6a190f3c",
-      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=fdef661a65d0d0c798f3d90905760f39&txTime=6a190f3c",
-      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=9bcf86bbdc609fe1451a7ca4c4616fd9&txTime=6a190f3c",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fdef661a65d0d0c798f3d90905760f39&txTime=6a190f3c"
+      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=0fc7c2f307091cc247fced23fd7cf206&txTime=6a192670",
+      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=219262d285a79a8a908a78886b0c6ff2&txTime=6a192670",
+      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=0fc7c2f307091cc247fced23fd7cf206&txTime=6a192670",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=219262d285a79a8a908a78886b0c6ff2&txTime=6a192670"
     }
   },
   {
@@ -225,12 +225,12 @@
     "streamer": "BLV ROBBEN",
     "match": "Septemvri Sofia vs Yantra Gabrovo",
     "category": "BUL D1",
-    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780009196-0-0-1611f108a87e932ee7431ffab372c2b0",
+    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780015136-0-0-506481c4ef260e9efc443eeece45ef8d",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780009196-0-0-f355c31a95dbf7c2185273fea95d0d17",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780009196-0-0-5828e69632f3d9a802dff13fec51ea3b",
-      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780009196-0-0-da6cf5db0d7731d4858ae22a31c98d6b",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780009196-0-0-1611f108a87e932ee7431ffab372c2b0"
+      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780015136-0-0-290a7761bec792ff912cc8c5e9176e7e",
+      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780015136-0-0-d0d1e0e808545ca7459212d74d3573f0",
+      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780015136-0-0-c39381d5e4d2b997d3bf9a467953c25a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780015136-0-0-506481c4ef260e9efc443eeece45ef8d"
     }
   },
   {
@@ -238,12 +238,12 @@
     "streamer": "MONEY MAN",
     "match": "Septemvri Sofia vs Yantra Gabrovo",
     "category": "BUL D1",
-    "best_url": "https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780009196-0-0-8ca422b6d984e19536ea4d1233d0627f",
+    "best_url": "https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780015136-0-0-ab1cfa0392d1eb82dd07f2f345da4381",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1780009196-0-0-6c0df09ea02b8f7145eca24cbc2566c5",
-      "hd_flv": "https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780009196-0-0-756a03f868c6844467fc05551a759988",
-      "m3u8": "https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1780009196-0-0-48fad34a8019c9941b47a5450671dcb4",
-      "hd_m3u8": "https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780009196-0-0-8ca422b6d984e19536ea4d1233d0627f"
+      "flv": "https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1780015136-0-0-694282f610c9e12b4d05dc7b20e1cf1e",
+      "hd_flv": "https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780015136-0-0-256ee05788f8ea6e6f6f17649fae58b6",
+      "m3u8": "https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1780015136-0-0-a7c84c8d68a9a4479c66ff75706d43e2",
+      "hd_m3u8": "https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780015136-0-0-ab1cfa0392d1eb82dd07f2f345da4381"
     }
   },
   {
@@ -368,12 +368,12 @@
     "streamer": "BLV LUCAS",
     "match": "Ordabasy vs FC Kairat Almaty",
     "category": "KAZ PR",
-    "best_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780009196-0-0-6b0777288bda29367ca7d8b2d42ab123",
+    "best_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780015136-0-0-b3f84ae3033e6d5933b9dafa65bd4b3e",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780009196-0-0-6b482b1594cc8b797b8c8bb9270cb1b6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780009196-0-0-9d38ffd5a2b9fe41f878d67da9491886",
-      "m3u8": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780009196-0-0-fe91a478b8760fd2882c174fc65da3c2",
-      "hd_m3u8": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780009196-0-0-6b0777288bda29367ca7d8b2d42ab123"
+      "flv": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780015136-0-0-723adb325dcd845f74f6e432b7e67223",
+      "hd_flv": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780015136-0-0-fb62e3bd1072fce3a284af4a46871ede",
+      "m3u8": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780015136-0-0-2acd0636de5d2f909c2e6c5f1aec9091",
+      "hd_m3u8": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780015136-0-0-b3f84ae3033e6d5933b9dafa65bd4b3e"
     }
   }
 ]
