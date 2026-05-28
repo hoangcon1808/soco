@@ -1,87 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="KAZ PR", Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (BLV THÓC)
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779975236-0-0-6bd71bcad7fc17c2b453c006858b43fb
-#EXTINF:-1 group-title="KAZ PR", Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ee20e9b5bbde658bfa5758385e1e27c2&txTime=6a188a94
-#EXTINF:-1 group-title="KAZ PR", Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779975236-0-0-8e18771e65501001a57c15c816d0a2a2
-#EXTINF:-1 group-title="KAZ PR", Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (PINKMAN)
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=3107194e93903b88743e7f7ce421d9e0&txTime=6a188a94
-#EXTINF:-1 group-title="WSAFF", Sri Lanka Women vs Bhutan Women (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779975236-0-0-c5dc9d20503b63fb35443fbcdc45b1da
-#EXTINF:-1 group-title="WSAFF", Sri Lanka Women vs Bhutan Women (CHANH MUỐI)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779975236-0-0-ed943952ce172e8c5d07d44f221f7318
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs Spain U17 (MONEY MAN)
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779975236-0-0-e1e18cf6fa3d978974639a4545c26cdd
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs Spain U17 (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779975236-0-0-13f27afccaae5cadaacf2c39907237f1
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs Spain U17 (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=e3aeb0b5f8888098ec6cf7ea4ded6d94&txTime=6a188a94
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs Spain U17 (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779975236-0-0-d89c90f447fac7320f926cf0afa9468b
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs Spain U17 (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779975236-0-0-77fa35b24bac8568e92dfecd7134b229
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs Spain U17 (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779975236-0-0-199adf0be5101b01eeddd54ab8ab9a13
-#EXTINF:-1 group-title="ALB D2", KS Perparimi Kukesi vs Butrinti Sarande (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779975236-0-0-3a1a85cad5e0792e9afb3666661db759
-#EXTINF:-1 group-title="ALB D2", KS Perparimi Kukesi vs Butrinti Sarande (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779975236-0-0-6b3e0b8c47d160ca424e8ec553c24846
-#EXTINF:-1 group-title="KAZ PR", FK Atyrau vs Tobol Kostanai (ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779975264-0-0-4642ffd05a98b4b5ed9da4cb1908a9f8
-#EXTINF:-1 group-title="KAZ PR", FK Atyrau vs Tobol Kostanai (TƯ MÃ Ý)
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779975236-0-0-20ee3ac76e2b68ff3613158b75f8a1fc
-#EXTINF:-1 group-title="KAZ PR", FK Atyrau vs Tobol Kostanai (BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779975236-0-0-b4f930c8f945e3cb84fb9a937689edfd
-#EXTINF:-1 group-title="KAZ PR", FK Atyrau vs Tobol Kostanai (BLV WUKONG)
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779975236-0-0-0faabbb1b3e6a76d47785d3d6bd5294f
 #EXTINF:-1 group-title="KAZ PR", Zhenis Astana vs FK Kaspyi Aktau (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779912203-0-0-9a48d689731d2643834ae4119032e868
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779988135-0-0-674b318b375e2b525867ee573b5ac4d2
 #EXTINF:-1 group-title="KAZ PR", Zhenis Astana vs FK Kaspyi Aktau (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779929975-0-0-d36f781ce2535cf66b60907e5f13b46d
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779987227-0-0-d0f1e82f2a0d2199186666d91f10121a
 #EXTINF:-1 group-title="KAZ PR", Zhenis Astana vs FK Kaspyi Aktau (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779912170-0-0-01af172f9f7ae59e65f09337ea8a9688
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779987262-0-0-1ecf56a377dd04ee7e92a7b7b10ac604
 #EXTINF:-1 group-title="KAZ PR", Zhenis Astana vs FK Kaspyi Aktau (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=a2cc768e922a2f8f088710302b57333d&txTime=6a1674cc
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=b5c5522d55a6f749852286aef85b4041&txTime=6a18c731
 #EXTINF:-1 group-title="EGY D1", Petrojet vs El Gounah (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6eb558fcf88f0863ffee0cfe022921ed&txTime=6a1776cc
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5d6b47da0870b85541e48325b1c8ac77&txTime=6a18c874
 #EXTINF:-1 group-title="EGY D1", Petrojet vs El Gounah (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779921422-0-0-08aa762117350a887c2c13051203b3ee
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779987646-0-0-b796aa1d100d595912ac3048221e72f9
 #EXTINF:-1 group-title="EGY D1", Petrojet vs El Gounah (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779930068-0-0-59f380bfd2746e8e2240b6f79fd8150b
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779987728-0-0-7f43982312426984f583469176a1f235
 #EXTINF:-1 group-title="EGY D1", Petrojet vs El Gounah (TYPN)
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=0e89e06a4167f1bc426fa82762c1cf89&txTime=6a17fc7b
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=ddc5573e4bd5cbfc3c3853e18841d3e4&txTime=6a18bbe9
 #EXTINF:-1 group-title="EGY D1", Petrojet vs El Gounah (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779938872-0-0-a24106e65ce0e8d4a0492d983762fbfa
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779987681-0-0-cdb0e46056e72908ff3f66871b98ad72
 #EXTINF:-1 group-title="EGY D1", Petrojet vs El Gounah (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779972945-0-0-cbe5b7c0a81d0435f92a21945a5e47d2
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779991076-0-0-19338d1d4cfbafd39244b93480087cd3
 #EXTINF:-1 group-title="KAZ PR", Kaisar Kyzylorda vs FK Yelimay Semey (KÉP)
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779911943-0-0-2e8edd02b051f81d486272500f61c898
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779987530-0-0-cab4172ed503ed667a95944f79f6daf0
 #EXTINF:-1 group-title="KAZ PR", Kaisar Kyzylorda vs FK Yelimay Semey (QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=b275b9eea7f9ad7990463c351988c771&txTime=6a14d322
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=cb0c675d5ad7b0a4f54a8f8498fd01fd&txTime=6a18c874
 #EXTINF:-1 group-title="KAZ PR", Kaisar Kyzylorda vs FK Yelimay Semey (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779912002-0-0-9fd691345dbfd2053041453a02e29bec
-#EXTINF:-1 group-title="WSAFF", Bangladesh Women vs Maldives Women (HÀ DUY KIÊN)
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779939171-0-0-268ca6e29fd1aafea53340b6ca5f63c5
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779987425-0-0-43e94af40d8862f272d2df26ad04fdbe
+#EXTINF:-1 group-title="KAZ PR", Kaisar Kyzylorda vs FK Yelimay Semey (BLV RYO)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779987504-0-0-be75e388ee1d0fb0d9fce783ab333fc9
+#EXTINF:-1 group-title="BUL D1", Septemvri Sofia vs Yantra Gabrovo (VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=292df9026c3963c3b0f34a9250e0e282&txTime=6a18ba6f
 #EXTINF:-1 group-title="BUL D1", Septemvri Sofia vs Yantra Gabrovo (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3981fbb999326534d11ffaa6eef71e5b&txTime=6a17fd87
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=7d02cc32beb8c127f74a140f605a3a5a&txTime=6a18bc62
 #EXTINF:-1 group-title="BUL D1", Septemvri Sofia vs Yantra Gabrovo (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779908217-0-0-e2cbe6fab9003d8fa498769b7e63a9c8
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779991076-0-0-4abf4fa15663ecfbd9628a0f71ff8afd
 #EXTINF:-1 group-title="BUL D1", Septemvri Sofia vs Yantra Gabrovo (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779939089-0-0-a74d1f7e31b570a134def0e42eebda9b
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779987569-0-0-4b7d67315bae30c9aecc4e7fccce1537
+#EXTINF:-1 group-title="BUL D1", Septemvri Sofia vs Yantra Gabrovo (MONEY MAN)
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779987784-0-0-98a753646d99122124e2c9bb7b0bb5c0
+#EXTINF:-1 group-title="BUL D1", Septemvri Sofia vs Yantra Gabrovo (BLV XO)
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779987529-0-0-a8ea8d5b8b5d4c74471930f9ca551f9d
 #EXTINF:-1 group-title="AZE D1", FK Gilan Gabala vs Mingachevir (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779912144-0-0-72ee9f728ecce55c9e52ceb77a4bb8b3
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779989644-0-0-ffa46d0861761c008811365a4c8007ab
 #EXTINF:-1 group-title="AZE D1", FK Gilan Gabala vs Mingachevir (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=433e925989967b0d75198159ecac1203&txTime=6a179432
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=b3ec3e2d79738c26e6f9e2e7fe90471e&txTime=6a18c368
 #EXTINF:-1 group-title="AZE D1", FK Gilan Gabala vs Mingachevir (BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779911843-0-0-10bdf8b709b7e67a68d01447ff423eaa
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779991076-0-0-1def83f59123ce881c4ce0747a9ec0b7
 #EXTINF:-1 group-title="AZE D1", FK Gilan Gabala vs Mingachevir (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8b349d25809285e3f35921a93a660cef&txTime=6a179461
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=50c5d5291d7f351d69428017e53bf62c&txTime=6a18c874
 #EXTINF:-1 group-title="KAZ PR", Ordabasy vs FC Kairat Almaty (BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3496708c49774e32313156a4a11fdf35&txTime=6a18828b
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=615ddd0bab486bbcda6bf97eb052e4f2&txTime=6a18c7bd
+#EXTINF:-1 group-title="KAZ PR", Ordabasy vs FC Kairat Almaty (LÃO LÂM)
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779990992-0-0-ce8b22de99a01b9b5312c455e8210007
 #EXTINF:-1 group-title="KAZ PR", Ordabasy vs FC Kairat Almaty (BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e74171ed0b16df99d45d34eeecb1e24c&txTime=6a17da8e
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b11ac0ec365c3c4b1198b2f97012a2f0&txTime=6a18c86b
 #EXTINF:-1 group-title="KAZ PR", Ordabasy vs FC Kairat Almaty (BLV LONG)
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=ecbd6d199c4344ba6637570bf31b9c93&txTime=6a17afa9
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=cd001c47dab0d9619b9d98c553d74844&txTime=6a18c874
 #EXTINF:-1 group-title="KAZ PR", Ordabasy vs FC Kairat Almaty (BLV LUCAS)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779939027-0-0-790f8a8d1959fd24fd6997d799439c40
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779990962-0-0-c973516ad7119df8739b0cc37c21120a
