@@ -1,93 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="BTN PL", Tensung FC vs Ugyen Academy (QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=fb925d0563f7396d64a2784adbe52421&txTime=6a19d14c
-#EXTINF:-1 group-title="BTN PL", Tensung FC vs Ugyen Academy (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780058876-0-0-24027782dcfe2c1e24bcb4d9a31b1b2d
-#EXTINF:-1 group-title="MPBL", GenSan Warriors vs Cebu Greats (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780058876-0-0-9e0b20ae2ae655d601016641666c253f
-#EXTINF:-1 group-title="MPBL", GenSan Warriors vs Cebu Greats (KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780058876-0-0-a3014293ac5f1d2e9d4b31695fa75e96
-#EXTINF:-1 group-title="FFSA SL", West Torrens Birkalla vs Adelaide Comets FC (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780058876-0-0-52b7d377e992799e1c4b0a8043be6d4a
-#EXTINF:-1 group-title="FFSA SL", West Torrens Birkalla vs Adelaide Comets FC (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780058876-0-0-c5c944880e1867f56933f072c46a4a88
-#EXTINF:-1 group-title="FFSA SL", West Torrens Birkalla vs Adelaide Comets FC (BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780058876-0-0-39664bd4afda02b13c614e6ec5edd089
-#EXTINF:-1 group-title="FFSA SL", West Torrens Birkalla vs Adelaide Comets FC (BLV MIXI)
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780058876-0-0-5aecaa76f465e4ba35c7c320c7658c3f
-#EXTINF:-1 group-title="ISRBL", Ironi Kiryat Ata vs Nes Ziona (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780058876-0-0-725695deb318710b17002e4433d6597a
-#EXTINF:-1 group-title="ISRBL", Ironi Kiryat Ata vs Nes Ziona (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780058876-0-0-7ca262b44c45c2661e5a775704082f98
-#EXTINF:-1 group-title="CHA D1", Ningbo Professional vs Nantong Zhiyun (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780058876-0-0-249a3b0c0c6c551012b5401e3e952ca7
-#EXTINF:-1 group-title="CHA D1", Ningbo Professional vs Nantong Zhiyun (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6d6f31a78c81e9d8781a3bf742a49432&txTime=6a19d14c
-#EXTINF:-1 group-title="CHA D1", Ningbo Professional vs Nantong Zhiyun (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780058876-0-0-363bdc1b1a882ff2bccdce270a34cf18
-#EXTINF:-1 group-title="CHA D1", Ningbo Professional vs Nantong Zhiyun (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780058876-0-0-63b927b04d17164faa00d427bdf15c68
-#EXTINF:-1 group-title="AUS FWP", Olympic Kingsway SC vs Dianella White Eagles (CHÍ PHÈO)
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780058876-0-0-041d9a6562b43b0f15f8da5df5eba34b
-#EXTINF:-1 group-title="AUS FWP", Olympic Kingsway SC vs Dianella White Eagles (BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8f1a1483f870e43ba84ef81587ed60b7&txTime=6a19d14c
-#EXTINF:-1 group-title="CHA D1", Guangdong Guangzhou Power vs Shenzhen Juniors (BLV SATIVA)
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780058876-0-0-725fb9af08168146e57ffe724b8f45da
-#EXTINF:-1 group-title="CHA D1", Guangdong Guangzhou Power vs Shenzhen Juniors (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780058876-0-0-822c7540e6cd348686e6fd3071a32f38
-#EXTINF:-1 group-title="CHA D1", Guangdong Guangzhou Power vs Shenzhen Juniors (PINKMAN)
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=c63518a674450e93774562cd704fba55&txTime=6a19d14c
-#EXTINF:-1 group-title="UEFA U17", Montenegro U17 vs Italy U17 (THẠCH TÚ)
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=aa47d2360832e8ea746900db9bb15767&txTime=6a19d14c
-#EXTINF:-1 group-title="UEFA U17", Montenegro U17 vs Italy U17 (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=32d06477ed896f9b4cd84f8ace7ae35e&txTime=6a19d14c
-#EXTINF:-1 group-title="UEFA U17", Montenegro U17 vs Italy U17 (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780058876-0-0-8d1caf1f44aeb24f11dcc05e6ea66fb0
-#EXTINF:-1 group-title="UEFA U17", Montenegro U17 vs Italy U17 (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780058876-0-0-be22e3122b44593f2e556856ec521596
-#EXTINF:-1 group-title="CHA SL", Liaoning Tieren vs Shanghai Port (BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1780058876-0-0-277b01b8269fe6f1f60bb20d2182c4ff
-#EXTINF:-1 group-title="CHA SL", Liaoning Tieren vs Shanghai Port (BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d675b9ca85831986c4ee62dbfcbf6dfa&txTime=6a19d14c
-#EXTINF:-1 group-title="CHA SL", Liaoning Tieren vs Shanghai Port (BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780058936-0-0-7ffaa57e10b02274234a5e8feadb970c
-#EXTINF:-1 group-title="CHA SL", Liaoning Tieren vs Shanghai Port (BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780058936-0-0-fb77b577916da77c8a5c86682d9ffdba
-#EXTINF:-1 group-title="CHA SL", Liaoning Tieren vs Shanghai Port (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780058936-0-0-5bf9ba3c8364140e57c58dba5a22e322
-#EXTINF:-1 group-title="CHA SL", Liaoning Tieren vs Shanghai Port (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=83bcb20bc3f99d839c02c3578741b0d7&txTime=6a19d188
-#EXTINF:-1 group-title="INTERF", Iran vs Gambia (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780002155-0-0-9f37c1885898e540a7c3a2bf31c2a488
-#EXTINF:-1 group-title="INTERF", Iran vs Gambia (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780005906-0-0-d5a9e961a8bbb378f58f5ab169b247f3
-#EXTINF:-1 group-title="INTERF", Iran vs Gambia (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780057445-0-0-c6cd5696bc55441b1a16293c9fc8dd96
-#EXTINF:-1 group-title="INTERF", Iran vs Gambia (BLV 7UP)
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780025618-0-0-d7fbfb4f5f6a900879ee29c7e5bad4f4
 #EXTINF:-1 group-title="UAE D1", Al-Hamriyah vs Dubai United (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780048490-0-0-f3ddef411ad11515038e76eda137d8dd
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780073696-0-0-b7948b9085bbc6af9218e76f0388fcf4
 #EXTINF:-1 group-title="UAE D1", Al-Hamriyah vs Dubai United (TYPN)
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=16706a52ecba14fc338cfda8417dfa75&txTime=6a194e25
-#EXTINF:-1 group-title="UAE D1", Al-Jazira Al-Hamra vs Ahli Al-Fujirah (XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4dddbc450b4f927fbffd4f1649e54060&txTime=6a192a8e
-#EXTINF:-1 group-title="UAE D1", Al Orooba(UAE) vs Masfout (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780025605-0-0-0067b6278a2713ec7e28a40a9580c462
-#EXTINF:-1 group-title="UAE D1", City Club vs Dibba Al-Hisn (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780001743-0-0-2146ab89ac6978364c397693eb56dd3f
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=941246059c3a1385d7d2c995a772517c&txTime=6a1a0b30
+#EXTINF:-1 group-title="UAE D1", Majd FC vs Hatta (THẠCH TÚ)
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=02480bebdec7425e25f54b149a2de166&txTime=6a1a0b30
+#EXTINF:-1 group-title="UAE D1", Majd FC vs Hatta (BLV ĐỐM)
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780073696-0-0-e78bfb17d1fd2ea3ce11c9f07a31e435
 #EXTINF:-1 group-title="UAE D1", Majd FC vs Hatta (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780048807-0-0-e23a31f1e3d356c2204ce009b0e428c6
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780073696-0-0-5a119335a721700a60ccb7521b4952a4
+#EXTINF:-1 group-title="LAT D1", Riga FC vs Grobina (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780073696-0-0-dbc71aa42c19ba80356ca4541a399270
 #EXTINF:-1 group-title="LAT D1", Riga FC vs Grobina (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780004881-0-0-83afe871870f05b0c39c9baef788d941
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780073696-0-0-aea8ed1577a42d40d0ed5bd45d8f9b60
 #EXTINF:-1 group-title="LAT D1", Riga FC vs Grobina (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780052049-0-0-3371d544d67b021885f64a9653cf5897
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780073696-0-0-10dad512e6580be17b335ef5324c01ea
 #EXTINF:-1 group-title="LAT D1", Riga FC vs Grobina (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=1a2acdb0f486cb60547e2e9aab9d7f7b&txTime=6a19abc9
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=17d0cfa5bee5b620d87f86a2351435bd&txTime=6a1a0b30
+#EXTINF:-1 group-title="BLR PL", Naftan Novopolotsk vs FC Torpedo Zhodino (QUỐC KHÁNH)
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=49ef94e60f4e8ce8f4e00716cb304c70&txTime=6a1a0b30
 #EXTINF:-1 group-title="BLR PL", Naftan Novopolotsk vs FC Torpedo Zhodino (CHANH MUỐI)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780001564-0-0-e190a61b5ac4259835403ad55d999c23
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780073696-0-0-4ed760ac33c7965969bf8ab7e84de713
+#EXTINF:-1 group-title="GEO D1", Dila Gori vs Samgurali Tskh (BLV ANH TÀI)
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780073696-0-0-e79fb6ec35f8352a344c097701ef98c2
+#EXTINF:-1 group-title="INTERF", Iran vs Gambia (LÃO LÂM)
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780073696-0-0-84090f51b801b3b2ecf3a7bce8a7efad
+#EXTINF:-1 group-title="INTERF", Iran vs Gambia (BLV ALEX)
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780073696-0-0-492b08563867b3fc3c76fcc891ae87a8
+#EXTINF:-1 group-title="INTERF", Iran vs Gambia (BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780073696-0-0-961628dffec0aaff30dfd8c418d5390a
+#EXTINF:-1 group-title="INTERF", Iran vs Gambia (BLV 7UP)
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780073696-0-0-49809a9ad3b7ca9d9049ad44fe9afb67
 #EXTINF:-1 group-title="FIN D2", FC Haka vs JIPPO (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=60097603ea19defce2f953c3306df8ef&txTime=6a192ad7
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ce9cdaa49449191c46d6feca9cba1b33&txTime=6a1a0b30
+#EXTINF:-1 group-title="FIN D2", FC Haka vs JIPPO (BLV RAMBO)
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9658a29e9b27cc4aade44a14e83339aa&txTime=6a1a0b30
 #EXTINF:-1 group-title="FIN D2", KTP Kotka vs SJK Akatemia (TƯ MÃ Ý)
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779983647-0-0-f1963711d0985c1d77bb2503fd0b9931
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780073696-0-0-51239e880e844faf9483b85c60b076ea
 #EXTINF:-1 group-title="FIN D2", KTP Kotka vs SJK Akatemia (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780048539-0-0-9a82de531034f130fc023c10232b752a
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780073696-0-0-09d67b641cbc1eb204333fb4ea521608
