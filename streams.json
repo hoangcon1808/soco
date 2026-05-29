@@ -30,12 +30,12 @@
     "streamer": "THẠCH TÚ",
     "match": "Majd FC vs Hatta",
     "category": "UAE D1",
-    "best_url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=62823020541f0614513c32ff82b3e21c&txTime=6a1a3218",
+    "best_url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=cf2026904dfc6cbc46cea82c83ef1338&txTime=6a1a363f",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=d19c1f4ce89556b8ed55764e7d8e21a6&txTime=6a1a3218",
-      "hd_flv": "https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=62823020541f0614513c32ff82b3e21c&txTime=6a1a3218",
-      "m3u8": "https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=d19c1f4ce89556b8ed55764e7d8e21a6&txTime=6a1a3218",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=62823020541f0614513c32ff82b3e21c&txTime=6a1a3218"
+      "flv": "https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=ba3acb75085ed95ee2422fc1ce058b00&txTime=6a1a363f",
+      "hd_flv": "https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=cf2026904dfc6cbc46cea82c83ef1338&txTime=6a1a363f",
+      "m3u8": "https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=ba3acb75085ed95ee2422fc1ce058b00&txTime=6a1a363f",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=cf2026904dfc6cbc46cea82c83ef1338&txTime=6a1a363f"
     }
   },
   {
@@ -56,12 +56,12 @@
     "streamer": "CR Bưởi",
     "match": "Majd FC vs Hatta",
     "category": "UAE D1",
-    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780083656-0-0-538985d5fbc31daff3c2b32435fd0991",
+    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780084795-0-0-062f523809f5134aba4e6d575bda8c5c",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780083656-0-0-b84da6c2f87c233d13aecb8fc0a6b3d7",
-      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780083656-0-0-573999b3f41aa610e9d4fa6c2f51951d",
-      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780083656-0-0-d82f7aa529f52201964571e580fcd1a8",
-      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780083656-0-0-538985d5fbc31daff3c2b32435fd0991"
+      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780084795-0-0-aa4a4f44f29d0c238c6d514f0e2e063c",
+      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780084795-0-0-e423146783175e05a5cd89f38c7a2ccc",
+      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780084795-0-0-21770962c34ffe2a49fac85303c3a622",
+      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780084795-0-0-062f523809f5134aba4e6d575bda8c5c"
     }
   },
   {
@@ -82,12 +82,12 @@
     "streamer": "CÔNG CHẤT",
     "match": "Riga FC vs Grobina",
     "category": "LAT D1",
-    "best_url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780083656-0-0-6c464b9f088552cb04ddd9ead094cf37",
+    "best_url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780089054-0-0-4ca34f74d1c45c22bbd2d3bc0cf0f687",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780083656-0-0-3fcef6cf23eb09fcd9803c051c485cb8",
-      "hd_flv": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780083656-0-0-2398fbc9a5789b82131e7208521f2fc0",
-      "m3u8": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780083656-0-0-b54926124b9096e26936bd5604e43882",
-      "hd_m3u8": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780083656-0-0-6c464b9f088552cb04ddd9ead094cf37"
+      "flv": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780089054-0-0-ba00ad612e7294c28305587fafde9076",
+      "hd_flv": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780089054-0-0-e9d93d28cc01de2d9bdbbcdf1794a463",
+      "m3u8": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780089054-0-0-0d7fe7f42cdb94ad797fe775651acf6c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780089054-0-0-4ca34f74d1c45c22bbd2d3bc0cf0f687"
     }
   },
   {
@@ -95,12 +95,12 @@
     "streamer": "BLV A TÚ",
     "match": "Riga FC vs Grobina",
     "category": "LAT D1",
-    "best_url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780083656-0-0-80d4e33daaa0c2b5b3f60365029eeea2",
+    "best_url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780084948-0-0-891f7483378344d9be82645bedc81476",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780083656-0-0-fc0dbb0843a57c638efe6f99274217d3",
-      "hd_flv": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780083656-0-0-1117f4ccf9af5cae205e6691edaba4b7",
-      "m3u8": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780083656-0-0-ae8cd289b081b9cb26dbbe8254613b92",
-      "hd_m3u8": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780083656-0-0-80d4e33daaa0c2b5b3f60365029eeea2"
+      "flv": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780084948-0-0-87b226d27a588eb826a12ae640bd8c90",
+      "hd_flv": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780084948-0-0-bb33fb852e03c94cc6d0934466a27588",
+      "m3u8": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780084948-0-0-d0cf58f2a81ebfd6bb0c48cccdbf036b",
+      "hd_m3u8": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780084948-0-0-891f7483378344d9be82645bedc81476"
     }
   },
   {
@@ -121,12 +121,12 @@
     "streamer": "QUỐC KHÁNH",
     "match": "Naftan Novopolotsk vs FC Torpedo Zhodino",
     "category": "BLR PL",
-    "best_url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=593f1b05ebd9aa28b5a4c4cc9af0251e&txTime=6a1a18ca",
+    "best_url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=ba0a6aa583eca80349b3c5433cd5dadc&txTime=6a1a54d9",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=e3560851a818385831713880c7441465&txTime=6a1a18ca",
-      "hd_flv": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=593f1b05ebd9aa28b5a4c4cc9af0251e&txTime=6a1a18ca",
-      "m3u8": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=e3560851a818385831713880c7441465&txTime=6a1a18ca",
-      "hd_m3u8": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=593f1b05ebd9aa28b5a4c4cc9af0251e&txTime=6a1a18ca"
+      "flv": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=22ff57f88667db21ea87a22dcb1efb52&txTime=6a1a54d9",
+      "hd_flv": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=ba0a6aa583eca80349b3c5433cd5dadc&txTime=6a1a54d9",
+      "m3u8": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=22ff57f88667db21ea87a22dcb1efb52&txTime=6a1a54d9",
+      "hd_m3u8": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=ba0a6aa583eca80349b3c5433cd5dadc&txTime=6a1a54d9"
     }
   },
   {
@@ -134,12 +134,12 @@
     "streamer": "CHANH MUỐI",
     "match": "Naftan Novopolotsk vs FC Torpedo Zhodino",
     "category": "BLR PL",
-    "best_url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780083656-0-0-458e0029152f50d7264a364cd42e475c",
+    "best_url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780084594-0-0-7d615f22c914252ede237639364e7928",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780083656-0-0-181a923cd4d76ef7f3c9237bd5b5318d",
-      "hd_flv": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780083656-0-0-4568fbb7acfc8f223f2a841feba49afa",
-      "m3u8": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780083656-0-0-010a78b1dc949e69557c59b5702cfc6f",
-      "hd_m3u8": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780083656-0-0-458e0029152f50d7264a364cd42e475c"
+      "flv": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780084594-0-0-845aef416754cb1278ba1fccf96b82e0",
+      "hd_flv": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780084594-0-0-ad0a7b6addd8abe3e09f2d3a82acf481",
+      "m3u8": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780084594-0-0-a8460187b11d88c292b41feb39157134",
+      "hd_m3u8": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780084594-0-0-7d615f22c914252ede237639364e7928"
     }
   },
   {
@@ -147,12 +147,12 @@
     "streamer": "BLV ANH TÀI",
     "match": "Dila Gori vs Samgurali Tskh",
     "category": "GEO D1",
-    "best_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780083656-0-0-ee57aed4a7a8b7280611035ff733f11f",
+    "best_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780084991-0-0-7e2027daed2dc21cfaf9a77fa95edd91",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780083656-0-0-d5a342dae89cec94b2f4015025e93ebf",
-      "hd_flv": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780083656-0-0-54b10774dbb7e01683a2a1611cbc3a12",
-      "m3u8": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780083656-0-0-44f22a6370494e301b996fdf6b40a609",
-      "hd_m3u8": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780083656-0-0-ee57aed4a7a8b7280611035ff733f11f"
+      "flv": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780084991-0-0-e8cb8c3d37e0e3ed4ed2b1a60d31ee72",
+      "hd_flv": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780084991-0-0-93b32f121fb9ab81c106d13d3a7cf467",
+      "m3u8": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780084991-0-0-33050d05a9c2d37aa23eead67ec68676",
+      "hd_m3u8": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780084991-0-0-7e2027daed2dc21cfaf9a77fa95edd91"
     }
   },
   {
@@ -160,12 +160,12 @@
     "streamer": "LÃO LÂM",
     "match": "Iran vs Gambia",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780083656-0-0-5ce5185b17e36a36c5dbcc3cbd377d62",
+    "best_url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780088949-0-0-16d48175aad7bc984a2b11ade913a523",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780083656-0-0-7874aec95b9cca2a6cc3659d4574b6b7",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780083656-0-0-def0b4fbd40aaf288461188ad35b45a5",
-      "m3u8": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780083656-0-0-fe7c7fb2dc85ac84b5daefb5c0a4f93c",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780083656-0-0-5ce5185b17e36a36c5dbcc3cbd377d62"
+      "flv": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780088949-0-0-bbf560dd9af42ed8b6cccfd894d7a643",
+      "hd_flv": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780088949-0-0-018413b5a5e994a754c2dcbffccb7e13",
+      "m3u8": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780088949-0-0-ec93c8b6d036e5ca52cc0782246538c3",
+      "hd_m3u8": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780088949-0-0-16d48175aad7bc984a2b11ade913a523"
     }
   },
   {
@@ -212,12 +212,12 @@
     "streamer": "BLV GÔN",
     "match": "FC Haka vs JIPPO",
     "category": "FIN D2",
-    "best_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=9f2f8fc53901ff5f1d4550911fefb65b&txTime=6a1a3218",
+    "best_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=b1afd7ec4ab298c5fabb7c273370690b&txTime=6a1a467a",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=6407796946afce1d71cda401429f4876&txTime=6a1a3218",
-      "hd_flv": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=9f2f8fc53901ff5f1d4550911fefb65b&txTime=6a1a3218",
-      "m3u8": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=6407796946afce1d71cda401429f4876&txTime=6a1a3218",
-      "hd_m3u8": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=9f2f8fc53901ff5f1d4550911fefb65b&txTime=6a1a3218"
+      "flv": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=250a75f10253657cee001ff6513b73a0&txTime=6a1a467a",
+      "hd_flv": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=b1afd7ec4ab298c5fabb7c273370690b&txTime=6a1a467a",
+      "m3u8": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=250a75f10253657cee001ff6513b73a0&txTime=6a1a467a",
+      "hd_m3u8": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=b1afd7ec4ab298c5fabb7c273370690b&txTime=6a1a467a"
     }
   },
   {
