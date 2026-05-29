@@ -1,14 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (BLV XO)
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780046696-0-0-293239fa5c3d12cc6fa171d2c849c47b
+#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (HẢI THANH)
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780046696-0-0-8a4854dbcf8a27d595f0a225480faf31
+#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (BLV LION)
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780046132-0-0-34b4c8e947f0ab3114da46dcbae7064d
+#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (BLV HÚP)
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780046696-0-0-414bb4a61d43a6e131214e516d8a0fe8
+#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (BLV RÔSI)
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=53bc662fef28ded9782e3adad0d868c7&txTime=6a19a1b8
+#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (CR Bưởi)
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780046696-0-0-6c2190dabef1f3d48198fe93fc4e07be
 #EXTINF:-1 group-title="NZBL", Taranaki Airs vs Manawatu Jets (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780027402-0-0-3f2e67cff95436d89b999b514e54e032
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780046696-0-0-0dc1286e3171234ca9386f99f4a2a8b0
 #EXTINF:-1 group-title="NZBL", Taranaki Airs vs Manawatu Jets (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780027676-0-0-4a1b758e42d6bf7f5b8a6dbf8141fb40
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780046696-0-0-325e3b9d99abdece0219bfa6b1e21385
 #EXTINF:-1 group-title="NZBL", Taranaki Airs vs Manawatu Jets (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780027185-0-0-dbc27f0a6d754b9ce47b6ee279a0a132
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780046696-0-0-8873771ca273b9e57afee1518049a33d
 #EXTINF:-1 group-title="NZBL", Taranaki Airs vs Manawatu Jets (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780027332-0-0-e5b7b2cb2254458b62a1cc2241743b9c
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780046696-0-0-923638ff04204a6981d034a0cb2c580b
 #EXTINF:-1 group-title="NZBL", Taranaki Airs vs Manawatu Jets (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780027183-0-0-ff6dc92f343ea2c6e57c46ec904c25e1
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780046696-0-0-2b6412686ca2c7bfab1bd93ef6cf0fbd
 #EXTINF:-1 group-title="Aus VPL", Heidelberg United vs Dandenong Thunder (TẠ BIÊN GIỚI)
 https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780025607-0-0-08d312268c79fb391f369aa89cd93f6d
 #EXTINF:-1 group-title="Aus VPL", Heidelberg United vs Dandenong Thunder (SAO LA)
@@ -25,14 +37,6 @@ https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780016460-0-0-78e4
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779987681-0-0-cdb0e46056e72908ff3f66871b98ad72
 #EXTINF:-1 group-title="AUS NSW", Sydney FC Youth vs Western Sydney Wanderers Youth (VƯƠNG ANH)
 https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=292df9026c3963c3b0f34a9250e0e282&txTime=6a18ba6f
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779987728-0-0-7f43982312426984f583469176a1f235
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2666f88925b9a78bb5d2002e6ac0c11f&txTime=6a18c91a
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780025907-0-0-2650d78df5b7b2ee021e3a4442b7de63
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780004813-0-0-d0e44183a7838b071437c05ab7aa7d08
 #EXTINF:-1 group-title="BTN PL", Tensung FC vs Ugyen Academy (QUỐC KHÁNH)
 https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=11456508e82d284497820a9b92fc92bb&txTime=6a18e3e9
 #EXTINF:-1 group-title="BTN PL", Tensung FC vs Ugyen Academy (BLV VITAMIN)
@@ -59,18 +63,6 @@ https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f886407201303b51d8a2
 https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780025599-0-0-1f6f2c0d9aafffcf3f31e427b1d5c436
 #EXTINF:-1 group-title="CHA D1", Ningbo Professional vs Nantong Zhiyun (BLV ROBBEN)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780016186-0-0-e63f05839206be41ef9cddc1b37d1b13
-#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779987529-0-0-a8ea8d5b8b5d4c74471930f9ca551f9d
-#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779987425-0-0-43e94af40d8862f272d2df26ad04fdbe
-#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779994399-0-0-5f878c88c8875b552ac58cfc3664ecc1
-#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (BLV HÚP)
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779938562-0-0-e27f2264e4900913c3dcb8eae9f8ddc1
-#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=dbcccd9baca70a02b8e407c5ee6ba023&txTime=6a192de9
-#EXTINF:-1 group-title="CHA D1", Shaanxi Union vs Nanjing City (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780002439-0-0-069406a0d12d5e1c63362fbfa1395812
 #EXTINF:-1 group-title="AUS FWP", Olympic Kingsway SC vs Dianella White Eagles (CHÍ PHÈO)
 https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1779938805-0-0-dc0b7d865b7d3bda130fcce36086c337
 #EXTINF:-1 group-title="AUS FWP", Olympic Kingsway SC vs Dianella White Eagles (BLV KAN)

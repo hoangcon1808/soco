@@ -1,15 +1,93 @@
 [
   {
+    "room_id": "472241",
+    "streamer": "BLV XO",
+    "match": "Shaanxi Union vs Nanjing City",
+    "category": "CHA D1",
+    "best_url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780046696-0-0-293239fa5c3d12cc6fa171d2c849c47b",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780046696-0-0-44b051452f329bc1c3f9b67df0d1b9a9",
+      "hd_flv": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780046696-0-0-4fa8518a62ec67663a02d8c922372eef",
+      "m3u8": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780046696-0-0-fbea28924f3cefff0db8908a9c232cb1",
+      "hd_m3u8": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780046696-0-0-293239fa5c3d12cc6fa171d2c849c47b"
+    }
+  },
+  {
+    "room_id": "599634",
+    "streamer": "HẢI THANH",
+    "match": "Shaanxi Union vs Nanjing City",
+    "category": "CHA D1",
+    "best_url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780046696-0-0-8a4854dbcf8a27d595f0a225480faf31",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780046696-0-0-9371510620281b6398f84c9a0d30f8cf",
+      "hd_flv": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780046696-0-0-208e02b30d5304804633f8be60a80543",
+      "m3u8": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780046696-0-0-7fdeefa743dfd28de2b58b0329c07276",
+      "hd_m3u8": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780046696-0-0-8a4854dbcf8a27d595f0a225480faf31"
+    }
+  },
+  {
+    "room_id": "603255",
+    "streamer": "BLV LION",
+    "match": "Shaanxi Union vs Nanjing City",
+    "category": "CHA D1",
+    "best_url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780046132-0-0-34b4c8e947f0ab3114da46dcbae7064d",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780046132-0-0-58f22a66c7118a22f6a7035ba86fac76",
+      "hd_flv": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780046132-0-0-7b0ed369f6ebe15b9c110d29b6f1d702",
+      "m3u8": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780046132-0-0-443365d780cbd2a653400763c257d669",
+      "hd_m3u8": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780046132-0-0-34b4c8e947f0ab3114da46dcbae7064d"
+    }
+  },
+  {
+    "room_id": "611382",
+    "streamer": "BLV HÚP",
+    "match": "Shaanxi Union vs Nanjing City",
+    "category": "CHA D1",
+    "best_url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780046696-0-0-414bb4a61d43a6e131214e516d8a0fe8",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780046696-0-0-7f11d86d94d2787cb90b23fb30ab37f8",
+      "hd_flv": "https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780046696-0-0-0b277adcfdab646d29bd0fb9bc66583b",
+      "m3u8": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780046696-0-0-d62cb7fb91b637bdc65019e1afb7e7f9",
+      "hd_m3u8": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780046696-0-0-414bb4a61d43a6e131214e516d8a0fe8"
+    }
+  },
+  {
+    "room_id": "9912102",
+    "streamer": "BLV RÔSI",
+    "match": "Shaanxi Union vs Nanjing City",
+    "category": "CHA D1",
+    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=53bc662fef28ded9782e3adad0d868c7&txTime=6a19a1b8",
+    "urls": {
+      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=f4e0ac707d0ae31c6d0946064825a0ba&txTime=6a19a1b8",
+      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=53bc662fef28ded9782e3adad0d868c7&txTime=6a19a1b8",
+      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=f4e0ac707d0ae31c6d0946064825a0ba&txTime=6a19a1b8",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=53bc662fef28ded9782e3adad0d868c7&txTime=6a19a1b8"
+    }
+  },
+  {
+    "room_id": "387694",
+    "streamer": "CR Bưởi",
+    "match": "Shaanxi Union vs Nanjing City",
+    "category": "CHA D1",
+    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780046696-0-0-6c2190dabef1f3d48198fe93fc4e07be",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780046696-0-0-6fcfe8d55e65ae461e7d15098a99d181",
+      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780046696-0-0-64490948245c9101072865240a8af447",
+      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780046696-0-0-ef2afc13f84f3751519154f62fd7f826",
+      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780046696-0-0-6c2190dabef1f3d48198fe93fc4e07be"
+    }
+  },
+  {
     "room_id": "9912112",
     "streamer": "BLV HENRY",
     "match": "Taranaki Airs vs Manawatu Jets",
     "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780027402-0-0-3f2e67cff95436d89b999b514e54e032",
+    "best_url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780046696-0-0-0dc1286e3171234ca9386f99f4a2a8b0",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780027402-0-0-2fe0c86913639a7614e6a1ad79645cc3",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780027402-0-0-32225575065d6368f397a7dd0452f308",
-      "m3u8": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780027402-0-0-8238f69581d0e79cda7291b46038a0c3",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780027402-0-0-3f2e67cff95436d89b999b514e54e032"
+      "flv": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780046696-0-0-28febe1c586051815edf8adcb8d81dbe",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780046696-0-0-9b3a58116930304fd001e3522113d197",
+      "m3u8": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780046696-0-0-89ee1384cd727b24b339a9c47beb6875",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780046696-0-0-0dc1286e3171234ca9386f99f4a2a8b0"
     }
   },
   {
@@ -17,12 +95,12 @@
     "streamer": "BRIAN",
     "match": "Taranaki Airs vs Manawatu Jets",
     "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780027676-0-0-4a1b758e42d6bf7f5b8a6dbf8141fb40",
+    "best_url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780046696-0-0-325e3b9d99abdece0219bfa6b1e21385",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780027676-0-0-dfe7d3fc68a3a588676695476922e744",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780027676-0-0-c0a6ca0813a729d9a28dd8727b9d9649",
-      "m3u8": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780027676-0-0-39dcb7d0b81d27b9301053c7ba6eb7b4",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780027676-0-0-4a1b758e42d6bf7f5b8a6dbf8141fb40"
+      "flv": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780046696-0-0-4edc07217e36f6c2b47610fb316e98d7",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780046696-0-0-c3eca4ab1aa2d386785e2dd9c56b963c",
+      "m3u8": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780046696-0-0-d69ef7fe587ba1499f21c27d9cc1baf8",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780046696-0-0-325e3b9d99abdece0219bfa6b1e21385"
     }
   },
   {
@@ -30,12 +108,12 @@
     "streamer": "A CHÈ",
     "match": "Taranaki Airs vs Manawatu Jets",
     "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780027185-0-0-dbc27f0a6d754b9ce47b6ee279a0a132",
+    "best_url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780046696-0-0-8873771ca273b9e57afee1518049a33d",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780027185-0-0-42c6bc89af54231bf14a2f136bbae25d",
-      "hd_flv": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780027185-0-0-3ab370e0d6f555030c7f5be23bbc37f0",
-      "m3u8": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780027185-0-0-23a7a761ba4c830b0dc2ef7adae31123",
-      "hd_m3u8": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780027185-0-0-dbc27f0a6d754b9ce47b6ee279a0a132"
+      "flv": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780046696-0-0-ec555cdc08ffbb5697949a7300e42931",
+      "hd_flv": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780046696-0-0-25133ff50e5386f7f2cbb6a27fab6686",
+      "m3u8": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780046696-0-0-6d9eb7215505862b3b28591f5a2c7b3c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780046696-0-0-8873771ca273b9e57afee1518049a33d"
     }
   },
   {
@@ -43,12 +121,12 @@
     "streamer": "CHAN SENA",
     "match": "Taranaki Airs vs Manawatu Jets",
     "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780027332-0-0-e5b7b2cb2254458b62a1cc2241743b9c",
+    "best_url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780046696-0-0-923638ff04204a6981d034a0cb2c580b",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780027332-0-0-1e4a2ef4d3ff51f8dabd8b6b761088bd",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780027332-0-0-c01694df1314aa5ba06e88d42da37350",
-      "m3u8": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780027332-0-0-5ef2c113bc4c50c58083f306593a46ad",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780027332-0-0-e5b7b2cb2254458b62a1cc2241743b9c"
+      "flv": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780046696-0-0-dd654301fda821929e76039ec61a15d4",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780046696-0-0-1940281336569011cc3d9534c34cb797",
+      "m3u8": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780046696-0-0-f5daedb10bf1f7d7eb0bb0a1fc6dd40f",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780046696-0-0-923638ff04204a6981d034a0cb2c580b"
     }
   },
   {
@@ -56,12 +134,12 @@
     "streamer": "HUNTER",
     "match": "Taranaki Airs vs Manawatu Jets",
     "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780027183-0-0-ff6dc92f343ea2c6e57c46ec904c25e1",
+    "best_url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780046696-0-0-2b6412686ca2c7bfab1bd93ef6cf0fbd",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780027183-0-0-8df6b4053e4a07fa11ddcf7de1ed4034",
-      "hd_flv": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780027183-0-0-8cbaad3fad77db9525281d1b3dee34c9",
-      "m3u8": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780027183-0-0-b6b341af19e436e8eb62b23c35ca3f2b",
-      "hd_m3u8": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780027183-0-0-ff6dc92f343ea2c6e57c46ec904c25e1"
+      "flv": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780046696-0-0-5ca922e6b383477429c25f31073663e3",
+      "hd_flv": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780046696-0-0-b3a4e1c5a9635a8465b53f2c84689139",
+      "m3u8": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780046696-0-0-50f7d268a02a0bed87a2dd727c900080",
+      "hd_m3u8": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780046696-0-0-2b6412686ca2c7bfab1bd93ef6cf0fbd"
     }
   },
   {
@@ -166,58 +244,6 @@
       "hd_flv": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=292df9026c3963c3b0f34a9250e0e282&txTime=6a18ba6f",
       "m3u8": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a248b9aca32b30222ecb03c5746518cc&txTime=6a18ba6f",
       "hd_m3u8": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=292df9026c3963c3b0f34a9250e0e282&txTime=6a18ba6f"
-    }
-  },
-  {
-    "room_id": "235232",
-    "streamer": "A PÁO",
-    "match": "Brisbane Wolves vs Brisbane Roar Youth",
-    "category": "AUS NPLQ",
-    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779987728-0-0-7f43982312426984f583469176a1f235",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1779987728-0-0-3c8707865fdebde89a4b1d759f27811b",
-      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1779987728-0-0-43dcea0559f546d6030b575c6dbb6b68",
-      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779987728-0-0-a6dfe49c888b3a3d646c898d790c440e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779987728-0-0-7f43982312426984f583469176a1f235"
-    }
-  },
-  {
-    "room_id": "459401",
-    "streamer": "BLV BÉO",
-    "match": "Brisbane Wolves vs Brisbane Roar Youth",
-    "category": "AUS NPLQ",
-    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2666f88925b9a78bb5d2002e6ac0c11f&txTime=6a18c91a",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=035ac48c23ce6d5f2261ea5ab39c7056&txTime=6a18c91a",
-      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=2666f88925b9a78bb5d2002e6ac0c11f&txTime=6a18c91a",
-      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=035ac48c23ce6d5f2261ea5ab39c7056&txTime=6a18c91a",
-      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2666f88925b9a78bb5d2002e6ac0c11f&txTime=6a18c91a"
-    }
-  },
-  {
-    "room_id": "991140",
-    "streamer": "BLV FIREMAN",
-    "match": "Brisbane Wolves vs Brisbane Roar Youth",
-    "category": "AUS NPLQ",
-    "best_url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780025907-0-0-2650d78df5b7b2ee021e3a4442b7de63",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780025907-0-0-ef50c9189375181eb2d5c374b687c9ae",
-      "hd_flv": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780025907-0-0-1c211c369f7320fa657e446ac3ca0cb9",
-      "m3u8": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780025907-0-0-feae8d9d3f8201d86a4c723e507a981c",
-      "hd_m3u8": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780025907-0-0-2650d78df5b7b2ee021e3a4442b7de63"
-    }
-  },
-  {
-    "room_id": "589848",
-    "streamer": "LOKA",
-    "match": "Brisbane Wolves vs Brisbane Roar Youth",
-    "category": "AUS NPLQ",
-    "best_url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780004813-0-0-d0e44183a7838b071437c05ab7aa7d08",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780004813-0-0-153ebccba65e59da98bcbe4e06ac0e18",
-      "hd_flv": "https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780004813-0-0-0c62cbaa131dfad3875a6dfee069b95c",
-      "m3u8": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780004813-0-0-4674eee2c0e262c9d9549575de54c97a",
-      "hd_m3u8": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780004813-0-0-d0e44183a7838b071437c05ab7aa7d08"
     }
   },
   {
@@ -387,84 +413,6 @@
       "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780016186-0-0-7a7f823461efb01dfecd6e9b9e24aa87",
       "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780016186-0-0-e541a241abbf16f0d38b9772b3452aa5",
       "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780016186-0-0-e63f05839206be41ef9cddc1b37d1b13"
-    }
-  },
-  {
-    "room_id": "472241",
-    "streamer": "BLV XO",
-    "match": "Shaanxi Union vs Nanjing City",
-    "category": "CHA D1",
-    "best_url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779987529-0-0-a8ea8d5b8b5d4c74471930f9ca551f9d",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1779987529-0-0-6b2438c7d14ef70f7f8c5ce1ccb39e1c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1779987529-0-0-b8d4bb65e24914f3e0896d6b7f0af01f",
-      "m3u8": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779987529-0-0-ce6032903663b217448eef581fac0e57",
-      "hd_m3u8": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779987529-0-0-a8ea8d5b8b5d4c74471930f9ca551f9d"
-    }
-  },
-  {
-    "room_id": "599634",
-    "streamer": "HẢI THANH",
-    "match": "Shaanxi Union vs Nanjing City",
-    "category": "CHA D1",
-    "best_url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779987425-0-0-43e94af40d8862f272d2df26ad04fdbe",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1779987425-0-0-fbf53e55f0cbdec249dcc45bf2a92243",
-      "hd_flv": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1779987425-0-0-2148847d9459386ca9b5c8c0f18cd357",
-      "m3u8": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1779987425-0-0-0d8a4e18175f9795e33321368e97b485",
-      "hd_m3u8": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779987425-0-0-43e94af40d8862f272d2df26ad04fdbe"
-    }
-  },
-  {
-    "room_id": "603255",
-    "streamer": "BLV LION",
-    "match": "Shaanxi Union vs Nanjing City",
-    "category": "CHA D1",
-    "best_url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779994399-0-0-5f878c88c8875b552ac58cfc3664ecc1",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1779994399-0-0-64f564ffda4fb963da8d7797873ec2f1",
-      "hd_flv": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1779994399-0-0-5a101d9f34f8b599a7b7d6f7c240bb54",
-      "m3u8": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1779994399-0-0-0dc05dd24a03368d5d2971775cf01d0f",
-      "hd_m3u8": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779994399-0-0-5f878c88c8875b552ac58cfc3664ecc1"
-    }
-  },
-  {
-    "room_id": "611382",
-    "streamer": "BLV HÚP",
-    "match": "Shaanxi Union vs Nanjing City",
-    "category": "CHA D1",
-    "best_url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779938562-0-0-e27f2264e4900913c3dcb8eae9f8ddc1",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1779938562-0-0-c47a90a187c415adf8e06f6bb3acc658",
-      "hd_flv": "https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1779938562-0-0-7198e3f9bf277c199e9042d9f53acca4",
-      "m3u8": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1779938562-0-0-df9e2d52e1761edcafbbce4d56628011",
-      "hd_m3u8": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779938562-0-0-e27f2264e4900913c3dcb8eae9f8ddc1"
-    }
-  },
-  {
-    "room_id": "9912102",
-    "streamer": "BLV RÔSI",
-    "match": "Shaanxi Union vs Nanjing City",
-    "category": "CHA D1",
-    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=dbcccd9baca70a02b8e407c5ee6ba023&txTime=6a192de9",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=4feca7d4d3b47fe8e40702221945f12e&txTime=6a192de9",
-      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=dbcccd9baca70a02b8e407c5ee6ba023&txTime=6a192de9",
-      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=4feca7d4d3b47fe8e40702221945f12e&txTime=6a192de9",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=dbcccd9baca70a02b8e407c5ee6ba023&txTime=6a192de9"
-    }
-  },
-  {
-    "room_id": "387694",
-    "streamer": "CR Bưởi",
-    "match": "Shaanxi Union vs Nanjing City",
-    "category": "CHA D1",
-    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780002439-0-0-069406a0d12d5e1c63362fbfa1395812",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780002439-0-0-f3557ed556cfac828cc72ec8c3c9027d",
-      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780002439-0-0-ba2c74b719fec5e6061973980bd5f798",
-      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780002439-0-0-895051428025a34ee5350fb5f0e6ab46",
-      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780002439-0-0-069406a0d12d5e1c63362fbfa1395812"
     }
   },
   {
