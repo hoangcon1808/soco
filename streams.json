@@ -69,12 +69,12 @@
     "streamer": "LOGAN",
     "match": "Riga FC vs Grobina",
     "category": "LAT D1",
-    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780077362-0-0-fcc94c0a0d3f9b79359452d49ec1b823",
+    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780098716-0-0-c32ea9c1db3e1a8bbc120a23409af77a",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780077362-0-0-889a5166290c5ec34ff1e9d3ae67adc6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780077362-0-0-d2f8c76920b343c86b925a03f403f888",
-      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780077362-0-0-4dc78868397a0484ceba3445c5a78d22",
-      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780077362-0-0-fcc94c0a0d3f9b79359452d49ec1b823"
+      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780098716-0-0-86f39621146848e7370575ee00b8d899",
+      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780098716-0-0-eaa3f19ff6a0f3bd2c13c5a576c0448d",
+      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780098716-0-0-2fe396d8d750a4c8fc2ffc894791b9de",
+      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780098716-0-0-c32ea9c1db3e1a8bbc120a23409af77a"
     }
   },
   {
@@ -173,12 +173,12 @@
     "streamer": "BLV ALEX",
     "match": "Iran vs Gambia",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780075770-0-0-a856154e4f4b9f9f25d7a33671fb0415",
+    "best_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780098716-0-0-57ddc7a58f898028ce4fbb7f0883d1ec",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780075770-0-0-35d690d417e5b5a57725bddd964b88c3",
-      "hd_flv": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780075770-0-0-d1d081a893eb5acd37916700fdbd9e50",
-      "m3u8": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780075770-0-0-fa431ab064218aa2c60fbd65d4f11743",
-      "hd_m3u8": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780075770-0-0-a856154e4f4b9f9f25d7a33671fb0415"
+      "flv": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780098716-0-0-b6438db5b9f72993271e46491e7543d9",
+      "hd_flv": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780098716-0-0-4f1968b60c5f2a2fac943c4b0a401022",
+      "m3u8": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780098716-0-0-f7fc24cfe53df76782e75209a2bfa9ff",
+      "hd_m3u8": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780098716-0-0-57ddc7a58f898028ce4fbb7f0883d1ec"
     }
   },
   {
