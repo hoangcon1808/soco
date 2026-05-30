@@ -4,12 +4,12 @@
     "streamer": "BLV COZY",
     "match": "Molde vs Sandefjord",
     "category": "NOR D1",
-    "best_url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780174196-0-0-b33196ce96db1a1c876cde12374cbc45",
+    "best_url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780178322-0-0-111f7b9407f8fbc82e284223648409e8",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780174196-0-0-116282c6530b7bfdeed5ec146ef5249e",
-      "hd_flv": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780174196-0-0-0280b37afc37ae99a810682e0e8e5285",
-      "m3u8": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780174196-0-0-c82ed1f44a408af50864e84106fb6140",
-      "hd_m3u8": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780174196-0-0-b33196ce96db1a1c876cde12374cbc45"
+      "flv": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780178322-0-0-0f4930d98cbf5be9d4a9ce5222f8a87a",
+      "hd_flv": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780178322-0-0-f9ddb3c6ca45c8bd71d43411d133b605",
+      "m3u8": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780178322-0-0-d423b7d72fcf9be478721ea821af3f27",
+      "hd_m3u8": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780178322-0-0-111f7b9407f8fbc82e284223648409e8"
     }
   },
   {
@@ -30,12 +30,12 @@
     "streamer": "BLV LONG",
     "match": "Molde vs Sandefjord",
     "category": "NOR D1",
-    "best_url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=1c703866234d767523c7bde8d86acd5e&txTime=6a1b93c4",
+    "best_url": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=7f7f6bd1c978125252ebcbcf1e976a59&txTime=6a1ba594",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=b0b9cc7f395849c8c7fb023013208d06&txTime=6a1b93c4",
-      "hd_flv": "https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=1c703866234d767523c7bde8d86acd5e&txTime=6a1b93c4",
-      "m3u8": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=b0b9cc7f395849c8c7fb023013208d06&txTime=6a1b93c4",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=1c703866234d767523c7bde8d86acd5e&txTime=6a1b93c4"
+      "flv": "https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=030dbb31203d69cc7ebe240f2c6399b2&txTime=6a1ba594",
+      "hd_flv": "https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=7f7f6bd1c978125252ebcbcf1e976a59&txTime=6a1ba594",
+      "m3u8": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=030dbb31203d69cc7ebe240f2c6399b2&txTime=6a1ba594",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=7f7f6bd1c978125252ebcbcf1e976a59&txTime=6a1ba594"
     }
   },
   {
@@ -82,12 +82,12 @@
     "streamer": "NGƯỜI CÁ",
     "match": "Gnistan Helsinki vs SJK Seinajoen",
     "category": "FIN D1",
-    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780174196-0-0-2d4e80122671e236ea356e94306ecd61",
+    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780178756-0-0-6808e7edf68eb2d949062f91164829e3",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780174196-0-0-d9fc09c8fe8cb35b36d026258cc7bf7e",
-      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780174196-0-0-3491c4d88e0b24b121c273174ff8d464",
-      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780174196-0-0-449808b9b6a9065f7a7663b75b199152",
-      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780174196-0-0-2d4e80122671e236ea356e94306ecd61"
+      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780178756-0-0-34017da05c0df3744a389ed9b2ece796",
+      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780178756-0-0-79e74b530710455ad2c77332bbda096b",
+      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780178756-0-0-ef0e431632dc0805bee297c384300d7e",
+      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780178756-0-0-6808e7edf68eb2d949062f91164829e3"
     }
   },
   {
@@ -95,12 +95,12 @@
     "streamer": "BLV PEWPEW",
     "match": "Gnistan Helsinki vs SJK Seinajoen",
     "category": "FIN D1",
-    "best_url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780174196-0-0-060c1cd2f12960312ac639778e07d0f5",
+    "best_url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780178568-0-0-c30727f4303897df159ee512ef841265",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780174196-0-0-234b69e7ec3f64922ca74bc3321b0bf6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780174196-0-0-1336c05462d7131e27adcf2a6ee47c93",
-      "m3u8": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780174196-0-0-faa0c47707f51b45214131dbf8f56dab",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780174196-0-0-060c1cd2f12960312ac639778e07d0f5"
+      "flv": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780178568-0-0-40f6ef21356af81a0021b816f5715c92",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780178568-0-0-d357ccc39d0ed11479797629d70ddf04",
+      "m3u8": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780178568-0-0-f0058cce86a1d7772587a5099b770b47",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780178568-0-0-c30727f4303897df159ee512ef841265"
     }
   },
   {
@@ -134,12 +134,12 @@
     "streamer": "A PÁO",
     "match": "TPS Turku vs Vaasa VPS",
     "category": "FIN D1",
-    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780174196-0-0-26557856dcb8f9cc6afaf18fadfc97ff",
+    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780178375-0-0-e3f7f63dfb8f6da086be3ee5c4a061ad",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780174196-0-0-10f2bddd40976892c52ac3b6184c733f",
-      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780174196-0-0-943498560c203799e5e79a38e1419893",
-      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780174196-0-0-b0caca38931999c00d03140e9f5945ec",
-      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780174196-0-0-26557856dcb8f9cc6afaf18fadfc97ff"
+      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780178375-0-0-aa2c794ced054c090db69a3c8ab1f4e5",
+      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780178375-0-0-20918a95804f3880927bd5818acea72e",
+      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780178375-0-0-0e4f1ad25b6ed0f8772f8e1cb0bc5d0b",
+      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780178375-0-0-e3f7f63dfb8f6da086be3ee5c4a061ad"
     }
   },
   {
@@ -147,12 +147,12 @@
     "streamer": "BLV CÁO",
     "match": "TPS Turku vs Vaasa VPS",
     "category": "FIN D1",
-    "best_url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780160318-0-0-ea8ed200e9b7fe880b3d682173df632d",
+    "best_url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780178756-0-0-73d8e0a330386085165409c26e2e72e0",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780160318-0-0-c330b25ba0419321dd848aabf88f45c0",
-      "hd_flv": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780160318-0-0-dac7f6bdfd237f4725de0e10313157d0",
-      "m3u8": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780160318-0-0-5471fbb0195b8e7901073aae8d2c6d6a",
-      "hd_m3u8": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780160318-0-0-ea8ed200e9b7fe880b3d682173df632d"
+      "flv": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780178756-0-0-9676a8b65bb4018777363b9c20ea0143",
+      "hd_flv": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780178756-0-0-2c128b268c016825c8ec5cece92082e4",
+      "m3u8": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780178756-0-0-e90f032f15b83f78c8c38bb12158ad01",
+      "hd_m3u8": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780178756-0-0-73d8e0a330386085165409c26e2e72e0"
     }
   },
   {
@@ -160,12 +160,12 @@
     "streamer": "BLV MIXI",
     "match": "Lahti vs Ilves Tampere",
     "category": "FIN D1",
-    "best_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780174196-0-0-ec6123ae4ed62492107c8996c9a845f2",
+    "best_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780178475-0-0-42c622e79979e4b64765cb3a541cbea5",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780174196-0-0-f316b25823ec05f1f20cd8176700860a",
-      "hd_flv": "https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780174196-0-0-08c85cd079824784c5ee27eef1aa5f18",
-      "m3u8": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780174196-0-0-d1a8fe2014d9602afb68f2f1ff12ac0a",
-      "hd_m3u8": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780174196-0-0-ec6123ae4ed62492107c8996c9a845f2"
+      "flv": "https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780178475-0-0-402244d155d629e9e8dab4318e447045",
+      "hd_flv": "https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780178475-0-0-d22efb2ac22177bbfe38149a51ac09a3",
+      "m3u8": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780178475-0-0-fff21ecfabb0cc165f740a29a5312a68",
+      "hd_m3u8": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780178475-0-0-42c622e79979e4b64765cb3a541cbea5"
     }
   },
   {
@@ -199,12 +199,12 @@
     "streamer": "QUỐC KHÁNH",
     "match": "AD Ceuta vs Albacete Balompié SAD",
     "category": "SPA D2",
-    "best_url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=1c65d322f1e21a3f394aae4e356a40e3&txTime=6a1b93c4",
+    "best_url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=3b44c4f3e46db1a00b727067fbba7e29&txTime=6a1b95a1",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=eb0b157bbf37ec55efb1aef67929e1c3&txTime=6a1b93c4",
-      "hd_flv": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=1c65d322f1e21a3f394aae4e356a40e3&txTime=6a1b93c4",
-      "m3u8": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=eb0b157bbf37ec55efb1aef67929e1c3&txTime=6a1b93c4",
-      "hd_m3u8": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=1c65d322f1e21a3f394aae4e356a40e3&txTime=6a1b93c4"
+      "flv": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=5c67b755656989038bb4c9733509a94d&txTime=6a1b95a1",
+      "hd_flv": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=3b44c4f3e46db1a00b727067fbba7e29&txTime=6a1b95a1",
+      "m3u8": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=5c67b755656989038bb4c9733509a94d&txTime=6a1b95a1",
+      "hd_m3u8": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=3b44c4f3e46db1a00b727067fbba7e29&txTime=6a1b95a1"
     }
   },
   {
