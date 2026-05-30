@@ -1,97 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="FIN D1", HJK Helsinki vs IFK Mariehamn (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780152656-0-0-88651f05601aa8fc870f54923349693f
-#EXTINF:-1 group-title="FIN D1", HJK Helsinki vs IFK Mariehamn (PINKMAN)
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=3c7760364d923bf53e8c95fac9eb233a&txTime=6a1b3fa0
-#EXTINF:-1 group-title="FIN D1", HJK Helsinki vs IFK Mariehamn (QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=126463466237b56eb752f4da2c9a6896&txTime=6a1b3fa0
-#EXTINF:-1 group-title="FIN D1", HJK Helsinki vs IFK Mariehamn (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=f5a7fba8772925a743a3ff8e7e49f6b9&txTime=6a1b3fa0
-#EXTINF:-1 group-title="CHA SL", Shenzhen Peng City vs Qingdao Hainiu (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780152656-0-0-90eb78435e99bf2ed3a2169ecf8e90a5
-#EXTINF:-1 group-title="CHA SL", Shenzhen Peng City vs Qingdao Hainiu (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780152716-0-0-8257dcbce9d1fa576c674150ea68e2de
-#EXTINF:-1 group-title="CHA SL", Shenzhen Peng City vs Qingdao Hainiu (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780152716-0-0-89b7dc343d43b70134e98dee0475d279
-#EXTINF:-1 group-title="CHA SL", Shenzhen Peng City vs Qingdao Hainiu (BLV THÓC)
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780152716-0-0-e189dffb3ec7926c8a75334cd2f4bcb5
-#EXTINF:-1 group-title="CHA SL", Chongqing Tonglianglong vs Beijing Guoan (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780152716-0-0-7765594f99360485a50599e9e879c921
-#EXTINF:-1 group-title="CHA SL", Chongqing Tonglianglong vs Beijing Guoan (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780152716-0-0-2e9372075e311e5333cdd34b8237f038
-#EXTINF:-1 group-title="CHA SL", Chongqing Tonglianglong vs Beijing Guoan (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780152716-0-0-e54b04a32caccc5faf20dbebe4691e43
-#EXTINF:-1 group-title="CHA SL", Chongqing Tonglianglong vs Beijing Guoan (BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d08664e28a6f1844341341f61d272fce&txTime=6a1b3fdc
-#EXTINF:-1 group-title="CHA SL", Chongqing Tonglianglong vs Beijing Guoan (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=336a405746bdbbeab1c4db293277d0c3&txTime=6a1b3fdc
-#EXTINF:-1 group-title="CHA SL", Chongqing Tonglianglong vs Beijing Guoan (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=85da1de845537cca907663365fa6aeb2&txTime=6a1b3fdc
-#EXTINF:-1 group-title="VBA", Da Nang Dragons vs Ho Chi Minh City Wings (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780152716-0-0-71e6bf6c8aacdc1c425a69bddd1efff9
-#EXTINF:-1 group-title="GBBL", Bayern vs Bonn (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780152716-0-0-375640ad1a9160a1f74c526776b659c6
-#EXTINF:-1 group-title="SWE D1", AIK vs IK Sirius FK (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780152716-0-0-cae2896e75315316271a714d13476a4d
-#EXTINF:-1 group-title="SWE D1", AIK vs IK Sirius FK (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780152716-0-0-4fcd2a02ada0585142d7562c9b816888
-#EXTINF:-1 group-title="SWE D1", AIK vs IK Sirius FK (CHÍ PHÈO)
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780152716-0-0-b78941bf118d6b60a994c57b8341113c
-#EXTINF:-1 group-title="SWE D1", AIK vs IK Sirius FK (HÀ DUY KIÊN)
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780152716-0-0-a4998d58ab03cb954e6c2ca640987dd7
-#EXTINF:-1 group-title="SWE D1", GAIS vs Kalmar (BLV HÚP)
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780152716-0-0-0d3f0045f853425bbc2240ddc69b4dde
-#EXTINF:-1 group-title="SWE D1", GAIS vs Kalmar (TƯ MÃ Ý)
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780152716-0-0-76efe447412816a8b28dffa34dd6c319
-#EXTINF:-1 group-title="SWE D1", GAIS vs Kalmar (CHANH MUỐI)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780152716-0-0-a46f0b49544defef05a9d4b73ba98357
-#EXTINF:-1 group-title="SWE D1", GAIS vs Kalmar (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780152716-0-0-413f25fb22ec8144b6089fd16b0d1a8d
-#EXTINF:-1 group-title="SWE D1", Malmo FF vs Halmstads (DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780152716-0-0-02352b085164f63b7cffe4874d60c48b
-#EXTINF:-1 group-title="SWE D1", Malmo FF vs Halmstads (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7c67006ed9a74870f3820bee22552b4f&txTime=6a1b3fdc
-#EXTINF:-1 group-title="SWE D1", Malmo FF vs Halmstads (BLV COCA)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780152716-0-0-cb8d86ae500f204f6b78575e989760d7
-#EXTINF:-1 group-title="SWE D1", Malmo FF vs Halmstads (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780152716-0-0-f170b7b00f7aed5e5bd991b28c9e766b
-#EXTINF:-1 group-title="SWE D1", Malmo FF vs Halmstads (BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1780152716-0-0-c7a481042996ecde38dcc87c0d6d4b7c
-#EXTINF:-1 group-title="SWE D1", Malmo FF vs Halmstads (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=72c4bdb2dd3f05cc7fdf049ffc76a27d&txTime=6a1b3fdc
 #EXTINF:-1 group-title="NOR D1", Molde vs Sandefjord (BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780152716-0-0-01e69ce45978971701fbc5b29240c80d
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780157636-0-0-45be16a721da13872c2df3b9da1a218f
 #EXTINF:-1 group-title="NOR D1", Molde vs Sandefjord (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780152716-0-0-5795b41f090f5e1936fa2ae5a8c5051d
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780157636-0-0-c7016d2a435f703f7c9cc5e46530c252
 #EXTINF:-1 group-title="NOR D1", Molde vs Sandefjord (BLV LONG)
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=7f90f2ac6ef507840fcdc2d903aa3a31&txTime=6a1b3fdc
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=111b1b31f7a58a30dbf778c44f2dc098&txTime=6a1b5314
 #EXTINF:-1 group-title="NOR D1", Molde vs Sandefjord (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780152716-0-0-bb972da32f50167b4c56144b7af54146
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780157636-0-0-b497118c627b6de8bfc223359c8beb60
 #EXTINF:-1 group-title="NOR D1", Molde vs Sandefjord (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780152716-0-0-8de1374ac225a10357ee885f56319e00
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780157636-0-0-44d40885b13d66b5230d39078b2c9c18
 #EXTINF:-1 group-title="NOR D1", Molde vs Sandefjord (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780152716-0-0-024adfd67ff11d8ac7add170da240a95
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780157636-0-0-42d6b29186692e0d6503e594513867b9
 #EXTINF:-1 group-title="FIN D1", Gnistan Helsinki vs SJK Seinajoen (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780152716-0-0-54943e77796f14f484a4bf49e3f36a67
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780157636-0-0-df16cb17140216388cf5f44390374dc3
 #EXTINF:-1 group-title="FIN D1", Gnistan Helsinki vs SJK Seinajoen (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780152716-0-0-d17ae8380ea96d576b1463f80f411b55
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780157636-0-0-a5c657139b77412084bbdd80d18415b4
 #EXTINF:-1 group-title="FIN D1", KuPs vs Inter Turku (TYPN)
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=2e26f71e352df8942f96067c459d6e90&txTime=6a1b3fdc
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=3885062810c20d48a66111cbeab9cb1e&txTime=6a1b5314
 #EXTINF:-1 group-title="FIN D1", KuPs vs Inter Turku (BLV SATIVA)
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780152716-0-0-dd1dd9cce6d34561b5458adb28bd1b24
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780157636-0-0-dbe142dc0b71f94f21a0322c3981e01a
 #EXTINF:-1 group-title="FIN D1", TPS Turku vs Vaasa VPS (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780152716-0-0-f740c43d5c0f5fed2805f8183ea4e2ce
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780157636-0-0-0f2654ea5fd44133fec69025e7922345
 #EXTINF:-1 group-title="FIN D1", TPS Turku vs Vaasa VPS (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780152716-0-0-23f875bd8d56a2f329a6c25091c01035
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780157636-0-0-e1196484cff35af85f452ba469d9977f
 #EXTINF:-1 group-title="FIN D1", Lahti vs Ilves Tampere (BLV MIXI)
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780152716-0-0-678945d19341ac91e5c2b54c00b8972c
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780157636-0-0-37c2e02032834a63b9b6eb23dc5a3bb4
 #EXTINF:-1 group-title="FIN D1", Lahti vs Ilves Tampere (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=d543893f4c3f122c55cad97300009807&txTime=6a1b3fdc
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=1f2ee2f85d75854558914b19b0d6908a&txTime=6a1b5314
 #EXTINF:-1 group-title="SPA D2", AD Ceuta vs Albacete Balompié SAD (MONEY MAN)
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780152716-0-0-e1b16cdd67c32a7839cc5ac23db6a9f6
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780157636-0-0-39d1c5884a0a712b1c56ce93d5e311c9
+#EXTINF:-1 group-title="SPA D2", AD Ceuta vs Albacete Balompié SAD (QUỐC KHÁNH)
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=2d06ae51aad69982cb72f6fd9fd6816e&txTime=6a1b5314
+#EXTINF:-1 group-title="SPA D2", AD Ceuta vs Albacete Balompié SAD (BLV A TINH)
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=c4c3318e6c813278647020468e3e4306&txTime=6a1b5314
+#EXTINF:-1 group-title="SPA D2", Real Sociedad B vs Cultural Leonesa (BLV RÔSI)
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4468106f89fad38dbf7b13c7eb0f383f&txTime=6a1b5314
 #EXTINF:-1 group-title="SPA D2", Real Sociedad B vs Cultural Leonesa (ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780152716-0-0-f446f94e7d6a283027dcaff0167a4c0b
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780157636-0-0-7e93876359ccb2aadaf7eb82617a44d2
 #EXTINF:-1 group-title="SPA D2", Real Sociedad B vs Cultural Leonesa (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780152716-0-0-abfc17c496db275f6929cfce31008ea5
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780157636-0-0-5b1a81f7be02f02a9ea03a6eeb8d5422
 #EXTINF:-1 group-title="GBBL", Alba Berlin vs Bamberg (KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780136496-0-0-0872c4c6882a6913b6056a5bda622b42
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780157636-0-0-5c000aeaf159b6c7771c3e9c3b0f5626
