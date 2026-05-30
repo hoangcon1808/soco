@@ -82,12 +82,12 @@
     "streamer": "NGƯỜI CÁ",
     "match": "Gnistan Helsinki vs SJK Seinajoen",
     "category": "FIN D1",
-    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780160370-0-0-274d0248ca055512ed8f9f68bbfbd4e2",
+    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780167896-0-0-c5ba8144c39b290b83ebf6b777e88d6c",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780160370-0-0-968d7a295d274f9bd2c7bbabb2198a32",
-      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780160370-0-0-7bb017d34d607ebd7e3881cc90a30fc6",
-      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780160370-0-0-8c91ab6a187db40c71b3e5db824ef31c",
-      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780160370-0-0-274d0248ca055512ed8f9f68bbfbd4e2"
+      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780167896-0-0-65f2058683449f77fc8e3444cc1bacf7",
+      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780167896-0-0-4915671fe8a34d8876f31972961caeba",
+      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780167896-0-0-7706d4051ec2218950b8b3a882b51b57",
+      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780167896-0-0-c5ba8144c39b290b83ebf6b777e88d6c"
     }
   },
   {
@@ -160,12 +160,12 @@
     "streamer": "BLV MIXI",
     "match": "Lahti vs Ilves Tampere",
     "category": "FIN D1",
-    "best_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780160259-0-0-9bc926b127b6f93e75857132c5467baa",
+    "best_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780167736-0-0-df4f3a4c938983c6573033423f8bb1ce",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780160259-0-0-43de94bba23c7eeb91631555e538e7be",
-      "hd_flv": "https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780160259-0-0-98dbba319ece07a71baeabbf7caeabdd",
-      "m3u8": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780160259-0-0-230a3ff263c8127704e3f73839a855f7",
-      "hd_m3u8": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780160259-0-0-9bc926b127b6f93e75857132c5467baa"
+      "flv": "https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780167736-0-0-c6e090eb8a456f74d444c321ef9e0831",
+      "hd_flv": "https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780167736-0-0-22793169b5823ec3ee41d2c8fe567e69",
+      "m3u8": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780167736-0-0-60774d3632c2216030efa5cab4cd99a1",
+      "hd_m3u8": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780167736-0-0-df4f3a4c938983c6573033423f8bb1ce"
     }
   },
   {
@@ -199,12 +199,12 @@
     "streamer": "QUỐC KHÁNH",
     "match": "AD Ceuta vs Albacete Balompié SAD",
     "category": "SPA D2",
-    "best_url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=fcf83a26bd5a4be00c23fd129c819568&txTime=6a1b6101",
+    "best_url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=13022797cee399eb7947e8e5e7db8128&txTime=6a1b7b28",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=1e6bc57757b89e4408ae76c0d6af03bf&txTime=6a1b6101",
-      "hd_flv": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=fcf83a26bd5a4be00c23fd129c819568&txTime=6a1b6101",
-      "m3u8": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=1e6bc57757b89e4408ae76c0d6af03bf&txTime=6a1b6101",
-      "hd_m3u8": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=fcf83a26bd5a4be00c23fd129c819568&txTime=6a1b6101"
+      "flv": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=60fcecab615731f557f6b13ffb56d2f2&txTime=6a1b7b28",
+      "hd_flv": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=13022797cee399eb7947e8e5e7db8128&txTime=6a1b7b28",
+      "m3u8": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=60fcecab615731f557f6b13ffb56d2f2&txTime=6a1b7b28",
+      "hd_m3u8": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=13022797cee399eb7947e8e5e7db8128&txTime=6a1b7b28"
     }
   },
   {
@@ -238,12 +238,12 @@
     "streamer": "ĐỖ TÚ TÀI",
     "match": "Real Sociedad B vs Cultural Leonesa",
     "category": "SPA D2",
-    "best_url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780160805-0-0-da5c6c7345474a49d0d0beeeef92f225",
+    "best_url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780167896-0-0-59a68b7be5243d4c42137786845e1b71",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780160805-0-0-a9522ea2947f0f28a277e375ce5eca6b",
-      "hd_flv": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780160805-0-0-8815390fa8adaa4c34e4392161442167",
-      "m3u8": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780160805-0-0-dc96d712cf5ad3ebaae3960343d73123",
-      "hd_m3u8": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780160805-0-0-da5c6c7345474a49d0d0beeeef92f225"
+      "flv": "https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780167896-0-0-c37db7d282447bea7cff2da9fdba35b9",
+      "hd_flv": "https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780167896-0-0-4ec1af89687855aabbe527ba7b8e9acd",
+      "m3u8": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780167896-0-0-a9e2b54cf49d9e72d57fb2f54e4ff052",
+      "hd_m3u8": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780167896-0-0-59a68b7be5243d4c42137786845e1b71"
     }
   },
   {
