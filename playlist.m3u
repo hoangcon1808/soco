@@ -1,95 +1,63 @@
 #EXTM3U
-#EXTINF:-1 group-title="VBA", Nhatrang Dolphins vs Saigon Heat (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780240676-0-0-4560ef4f7676cc52eea076f818fc029c
-#EXTINF:-1 group-title="INTERF", Switzerland vs Jordan (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780240676-0-0-beef577d3d66bbe4dc4c0fc765d0ccb0
-#EXTINF:-1 group-title="INTERF", Switzerland vs Jordan (BLV TOMMY)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a1983d9d12dce9d86d71067b566c6f37&txTime=6a1c9774
-#EXTINF:-1 group-title="INTERF", Switzerland vs Jordan (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=17238d6e899cccd4d55fa64bb007272a&txTime=6a1c9774
-#EXTINF:-1 group-title="INTERF", Switzerland vs Jordan (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780240676-0-0-bcdc703861311b3c68169bc7f5260402
-#EXTINF:-1 group-title="INTERF", Switzerland vs Jordan (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7e6a7318ca6e63b6afeda9aad11c6f4c&txTime=6a1c9774
-#EXTINF:-1 group-title="INTERF", Switzerland vs Jordan (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780240676-0-0-40c390c4fed996fce8caa41335d5e653
-#EXTINF:-1 group-title="FIN D1", AC Oulu vs Jaro (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780240676-0-0-a4842d1148289b112abe87517af4908c
-#EXTINF:-1 group-title="FIN D1", AC Oulu vs Jaro (PINKMAN)
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=64f95747deaf4e0c76812152578b061f&txTime=6a1c9774
-#EXTINF:-1 group-title="FIN D1", AC Oulu vs Jaro (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=4db85985eadd52351f753c8037164762&txTime=6a1c9774
-#EXTINF:-1 group-title="TOUT", China U19 vs Saudi Arabia U23 (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780240676-0-0-837254916e0ddd7179e89e056da961d5
-#EXTINF:-1 group-title="TOUT", China U19 vs Saudi Arabia U23 (BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c83446feeefd14a6e856cea230d59272&txTime=6a1c9774
-#EXTINF:-1 group-title="THA FAC", Buriram United vs PT Prachuap FC (MONEY MAN)
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780240676-0-0-67d0828d490eb74a0ae7ef5548418142
-#EXTINF:-1 group-title="THA FAC", Buriram United vs PT Prachuap FC (BLV MIXI)
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780240736-0-0-21d53e17b1e1fb010d3a4581a22a76ff
-#EXTINF:-1 group-title="THA FAC", Buriram United vs PT Prachuap FC (HÀ DUY KIÊN)
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780240736-0-0-75fee54fdea93dc0933ae7e31a7232da
-#EXTINF:-1 group-title="THA FAC", Buriram United vs PT Prachuap FC (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780240736-0-0-3c1ed88d2e7b99c12f905d9300a9cf20
 #EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (THẠCH TÚ)
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780240736-0-0-e4b42ca8c15f4a7b76cd77f5bd8aac3f
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780246256-0-0-835c431708148c262b909348c37018fe
 #EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780240736-0-0-c2e512af9a2229b94676889ebec4bf59
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780246256-0-0-537dfc04ff498d0325fe3842e568c737
 #EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780240736-0-0-99f7d9126e6a346f4d2a8181ccc6ae5c
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780246256-0-0-ee8f8fb9afe01aca4104a833621ebd47
 #EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (TYPN)
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=d86eae8a016d2a2a40da61fc99ac93ba&txTime=6a1c97b0
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=fc70ce1a47fba9b9c4f7fc376a77c5f5&txTime=6a1cad40
 #EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (BLV COCA)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780240736-0-0-bb9f20a5fe189c4e210190aecc0301f1
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780246256-0-0-2de680e5941ea107fc4f9c839e748c08
 #EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=4ceb61a05ddbe3b20db565f0787da354&txTime=6a1c97b0
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f5bfb23607182cadfb16539099fa1802&txTime=6a1cad40
 #EXTINF:-1 group-title="BRA D1", Red Bull Bragantino vs Internacional - RS (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=1b50de2f5f7280cb267de107816e9aba&txTime=6a1c97b0
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=69faaab50ba866a33b57b47d672ae977&txTime=6a1cad40
 #EXTINF:-1 group-title="BRA D1", Red Bull Bragantino vs Internacional - RS (TƯ MÃ Ý)
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780240736-0-0-bbb66dc4b37e37d36f543ef1250f8eed
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780246256-0-0-e2e425fe29f6a5dd1871ecaaf5fcdd7a
 #EXTINF:-1 group-title="BRA D1", Red Bull Bragantino vs Internacional - RS (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780240736-0-0-6b29365eafbc6c181a73c65f1bbf8f67
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780246256-0-0-1029213dac54332ee6c5709bd8020069
 #EXTINF:-1 group-title="BRA D1", Red Bull Bragantino vs Internacional - RS (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=96cfcd1b3cb71096b88d22231defe207&txTime=6a1c97b0
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e9ecdda935236cd0e0c11dce947a7845&txTime=6a1cad40
 #EXTINF:-1 group-title="BRA D2", Londrina PR vs Vila Nova (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780240736-0-0-0a4633cf0dc8d402d8797076bb8108e4
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780246256-0-0-4a006e82bd5727a2b3bb72ec2d8f055f
 #EXTINF:-1 group-title="BRA D2", Sao Bernardo vs Gremio Novorizontino (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=215cdea2588bfaea2a748ca9b4fcc198&txTime=6a1c97b0
-#EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=7beef18c1d9b6c588796e4ae4e1d2cdc&txTime=6a1c97b0
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a588453456021709ce2948be2f9fce3f&txTime=6a1cad40
 #EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780240736-0-0-770ee9ce4b5386d15cec8ea13f82c21d
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780246256-0-0-000412b27c104d8426626b6e474bf92f
 #EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5149c5627f41f2249b0d22c93a4f5327&txTime=6a1c97b0
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ce587a7aef3bf9abfed41db808e3c5b4&txTime=6a1cad40
 #EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780240736-0-0-b159c2f933e68c60928b392f97fa7f96
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780246256-0-0-5cd0f433af2b44d92642529f4d919b50
 #EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780240736-0-0-f848ee09b08315ae8fe341165a963fd7
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780246256-0-0-5e77816b3e01dbe4584f4f831beb79d9
 #EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780240736-0-0-68e65ce551fc42534194ee6d05d2a80e
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780246256-0-0-9d8b40c24c1980b717f2fb2640c1baba
 #EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780238272-0-0-ceb21674d0221d986847e7ac75af81c6
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780246256-0-0-58a7f90c5296bfb875ff1717d2e0e5b0
 #EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780235744-0-0-1b17488b88bab5cc030696f58db2be4d
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780246256-0-0-45dbdb1b11410348ae5778dd2976945b
 #EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780218866-0-0-98d22cf7ff34008847feb7ae6b46fa61
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780246256-0-0-6cd8ca78004c26437ec02e7e119fdc92
 #EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780240736-0-0-6c1760f43131ae91f4e2c0cd3521cf12
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780246256-0-0-6dc12e97bcd28dc4550bcab472be1e63
 #EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=eec2ee2e020661fbaa34868b8758aa80&txTime=6a1c8508
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=56ef84bca254b32f0c321aa4588b0e75&txTime=6a1cad40
 #EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780235745-0-0-bfe2f5be704bfc7aaac38e1a67f56d92
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780246256-0-0-9be8364ff4daaae6489bc3dd28cf8ac5
 #EXTINF:-1 group-title="INTERF", Poland vs Ukraine (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780236645-0-0-d929d27a1c57d0d1fb441ef4b876d86b
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780246256-0-0-94410d9a2f72e909b79490f2951e3eb4
 #EXTINF:-1 group-title="INTERF", Poland vs Ukraine (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780238008-0-0-bffb2be756c8dc1b9b65102c44936d79
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780246256-0-0-d0d916a01881371b3bd7fc9ae2b64d97
 #EXTINF:-1 group-title="INTERF", Poland vs Ukraine (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780236198-0-0-f16e3b90071a85c174e9821662d5d724
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780246256-0-0-fcbf024d96cf70b1fad025bfc9f6b7fc
 #EXTINF:-1 group-title="INTERF", Poland vs Ukraine (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780235971-0-0-d3736469c52d7027fcc30eccde750059
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780246256-0-0-91b5ae64c9491c8a09d4fac1c08bc940
 #EXTINF:-1 group-title="INTERF", Poland vs Ukraine (BLV LONG)
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780238091-0-0-de5325e088e77b29b5533abdd1a9921f
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780246256-0-0-7724511ffb04957dbcd7c5e57c6714fa
+#EXTINF:-1 group-title="INTERF", Poland vs Ukraine (HÀ DUY KIÊN)
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780246256-0-0-8a646c750113335197c6e038ac86cfbb
 #EXTINF:-1 group-title="ISRBL", Hapoel Tel Aviv vs Maccabi Rishon (KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780199690-0-0-d1283f863b6753c1c901fa33cc049d9d
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780246256-0-0-5ef4b409f9400aaae856a9408467ed49
 #EXTINF:-1 group-title="ISRBL", Hapoel Tel Aviv vs Maccabi Rishon (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780236915-0-0-fea8b0cbbf343defc83a86b238c022c1
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780246256-0-0-ff8c758a4cdbdcd5305ed9dcc901d11b
