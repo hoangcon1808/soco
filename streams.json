@@ -17,12 +17,12 @@
     "streamer": "CR Bưởi",
     "match": "Czechia vs Kosovo",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780246697-0-0-7a70650995065591d62aa7e8a802dbc5",
+    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780272356-0-0-61c93b369057ca1dd6f1425cfb6bb940",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780246697-0-0-762b0c832ee3106d04142ddcd6b98ed9",
-      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780246697-0-0-4bd654e2319dd4c56e85f2091b4824e5",
-      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780246697-0-0-a3ea2c0f397b17bcf1ca5e318e3be6a0",
-      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780246697-0-0-7a70650995065591d62aa7e8a802dbc5"
+      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780272356-0-0-38af6a617a9de539c2e5b7d84149f649",
+      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780272356-0-0-31d3bb70a43861bf0d80342aea38dfec",
+      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780272356-0-0-60efde1d255629f85fd1fee5c7e186a3",
+      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780272356-0-0-61c93b369057ca1dd6f1425cfb6bb940"
     }
   },
   {
@@ -56,12 +56,12 @@
     "streamer": "BLV COCA",
     "match": "Czechia vs Kosovo",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780246461-0-0-6e06447bd209b1f5b78e516cd7021863",
+    "best_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780272356-0-0-949703b5636707d74a195eb4be8ef57f",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780246461-0-0-af1858d8f28868cecf657bb117206052",
-      "hd_flv": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780246461-0-0-0b9ee3df2c1de41d0b1390bf42f4090a",
-      "m3u8": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780246461-0-0-2babe7ba0c9092f461cf001fe687ae73",
-      "hd_m3u8": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780246461-0-0-6e06447bd209b1f5b78e516cd7021863"
+      "flv": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780272356-0-0-8ddf25c62d45fbbd4c4e90d036796f97",
+      "hd_flv": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780272356-0-0-150d18512ca130fad5b339e0d14435cb",
+      "m3u8": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780272356-0-0-10cc3e3404eac10cd1c173e1f545f31d",
+      "hd_m3u8": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780272356-0-0-949703b5636707d74a195eb4be8ef57f"
     }
   },
   {
@@ -82,12 +82,12 @@
     "streamer": "BLV GÔN",
     "match": "Red Bull Bragantino vs Internacional - RS",
     "category": "BRA D1",
-    "best_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=3f432060caf929fab65887ab6c3a02e7&txTime=6a1cfd23",
+    "best_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ed9e8e79613fadc9f32b217303e3589f&txTime=6a1d1334",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=853252e9663d98450c3a2cc83efdbccb&txTime=6a1cfd23",
-      "hd_flv": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=3f432060caf929fab65887ab6c3a02e7&txTime=6a1cfd23",
-      "m3u8": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=853252e9663d98450c3a2cc83efdbccb&txTime=6a1cfd23",
-      "hd_m3u8": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=3f432060caf929fab65887ab6c3a02e7&txTime=6a1cfd23"
+      "flv": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=135ebbc8e2f46d48714295a9afdf05e8&txTime=6a1d1334",
+      "hd_flv": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=ed9e8e79613fadc9f32b217303e3589f&txTime=6a1d1334",
+      "m3u8": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=135ebbc8e2f46d48714295a9afdf05e8&txTime=6a1d1334",
+      "hd_m3u8": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ed9e8e79613fadc9f32b217303e3589f&txTime=6a1d1334"
     }
   },
   {
@@ -134,12 +134,12 @@
     "streamer": "BLV LION",
     "match": "Londrina PR vs Vila Nova",
     "category": "BRA D2",
-    "best_url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780247280-0-0-9afa70615a5cf53c766bd87e3092caa2",
+    "best_url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780272356-0-0-a72bf195cb1b7de7f7b25d1a068c9da8",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780247280-0-0-bd08e9bedd606d39fd9b1987048909e4",
-      "hd_flv": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780247280-0-0-c83bd593034ccaca4df76b31638d1574",
-      "m3u8": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780247280-0-0-30ef0560881df41b7c6a3d9ea1a36737",
-      "hd_m3u8": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780247280-0-0-9afa70615a5cf53c766bd87e3092caa2"
+      "flv": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780272356-0-0-489a78fc45269f155702663f52c45453",
+      "hd_flv": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780272356-0-0-5bc3255b43aff9e68dfb7bad723fd048",
+      "m3u8": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780272356-0-0-97d990f4bc0e65fcc47a11e1d51f7822",
+      "hd_m3u8": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780272356-0-0-a72bf195cb1b7de7f7b25d1a068c9da8"
     }
   },
   {
@@ -160,12 +160,12 @@
     "streamer": "BLV ROBBEN",
     "match": "Brighton & Hove Albion Women vs Manchester City Women",
     "category": "ENG FA WC",
-    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780266776-0-0-619cd6b8d3f45584ee49c80b0bb76310",
+    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780266887-0-0-3b55647b2bb50fcc934d47649850ec7f",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780266776-0-0-9e23a812ea93a50edce7f8a9b73ff9fb",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780266776-0-0-11bb803f86d1db727226383a131b8be3",
-      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780266776-0-0-b5f6a027cc99ee5275b7bcdd4ee31902",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780266776-0-0-619cd6b8d3f45584ee49c80b0bb76310"
+      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780266887-0-0-21fa9e8c3f8092754ddac6c537b7e50a",
+      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780266887-0-0-fa36d2f90f6b7e56fb234fa619fe2a07",
+      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780266887-0-0-e25d29ae3d7d5d27bcda1c77a5e87600",
+      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780266887-0-0-3b55647b2bb50fcc934d47649850ec7f"
     }
   },
   {
@@ -186,12 +186,12 @@
     "streamer": "BLV VITAMIN",
     "match": "Brighton & Hove Albion Women vs Manchester City Women",
     "category": "ENG FA WC",
-    "best_url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780266776-0-0-64b9c5c7a4a53cd55dea9ce4170ed4f1",
+    "best_url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780266896-0-0-c2549e3b4a1589b24e2c0d4eddf5fd4d",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780266776-0-0-d2630da2b7538ebd401e6fb6c0fac076",
-      "hd_flv": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780266776-0-0-33df62554a73eb655aebeefb713d1a93",
-      "m3u8": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780266776-0-0-e77ea796a1df8fa0082abe330d26e761",
-      "hd_m3u8": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780266776-0-0-64b9c5c7a4a53cd55dea9ce4170ed4f1"
+      "flv": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780266896-0-0-296dd7c1b5ba223aab50114a430065a6",
+      "hd_flv": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780266896-0-0-c739a429a621a562f6718732e5c70639",
+      "m3u8": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780266896-0-0-d0e193701dc6c5a489b1e7bf407b94ca",
+      "hd_m3u8": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780266896-0-0-c2549e3b4a1589b24e2c0d4eddf5fd4d"
     }
   },
   {
@@ -212,12 +212,12 @@
     "streamer": "BLV A TÚ",
     "match": "Brighton & Hove Albion Women vs Manchester City Women",
     "category": "ENG FA WC",
-    "best_url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780246852-0-0-44e63ff3d79706010471e6ab0864d4f1",
+    "best_url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780272356-0-0-a2b597fd129b01080270d7494e90e82d",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780246852-0-0-84e4bf12efbe419576e7683085d9e883",
-      "hd_flv": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780246852-0-0-2808f83ec1b06f7461a634400e59e7ef",
-      "m3u8": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780246852-0-0-cf20f059e5270a37fc0b7850d36027b7",
-      "hd_m3u8": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780246852-0-0-44e63ff3d79706010471e6ab0864d4f1"
+      "flv": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780272356-0-0-392c3f8b45f06676c326af0dfdff0e37",
+      "hd_flv": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780272356-0-0-685e1ae21284fbe3b54601ef48c08c1f",
+      "m3u8": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780272356-0-0-3c6a7049fe18db1de9515895f18a232b",
+      "hd_m3u8": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780272356-0-0-a2b597fd129b01080270d7494e90e82d"
     }
   },
   {
@@ -277,12 +277,12 @@
     "streamer": "BLV RÔSI",
     "match": "Cape Verde vs Serbia",
     "category": "INTERF",
-    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c030d0459438264dd5cdc7b310504572&txTime=6a1cc090",
+    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b1589b80fb606e7d3733b898d83081db&txTime=6a1d127d",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=381a8a393569df1579b485491c31eeb5&txTime=6a1cc090",
-      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=c030d0459438264dd5cdc7b310504572&txTime=6a1cc090",
-      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=381a8a393569df1579b485491c31eeb5&txTime=6a1cc090",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c030d0459438264dd5cdc7b310504572&txTime=6a1cc090"
+      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=55f1c64875ff0711797a8e038d29683b&txTime=6a1d127d",
+      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=b1589b80fb606e7d3733b898d83081db&txTime=6a1d127d",
+      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=55f1c64875ff0711797a8e038d29683b&txTime=6a1d127d",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b1589b80fb606e7d3733b898d83081db&txTime=6a1d127d"
     }
   },
   {
@@ -329,12 +329,12 @@
     "streamer": "BLV CUỘI",
     "match": "Poland vs Ukraine",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780252185-0-0-3d9f4709ce4ecf4b293454b53c254016",
+    "best_url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780272356-0-0-b897203c62adf757c4a4d7d0167eb720",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780252185-0-0-c5c320e800d7d19c84f7375af9229dc6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780252185-0-0-3298c03e9c988be9b5c9dea22a9887fe",
-      "m3u8": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780252185-0-0-b4c34755a4b9f89abfa310828af55472",
-      "hd_m3u8": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780252185-0-0-3d9f4709ce4ecf4b293454b53c254016"
+      "flv": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780272356-0-0-38ca0297704b4a366929b86ba71a4421",
+      "hd_flv": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780272356-0-0-af32ea17af8216cfc8d1506f5031c67c",
+      "m3u8": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780272356-0-0-a616a5336ddf775242154670e9bce69d",
+      "hd_m3u8": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780272356-0-0-b897203c62adf757c4a4d7d0167eb720"
     }
   },
   {
@@ -368,12 +368,12 @@
     "streamer": "HÀ DUY KIÊN",
     "match": "Poland vs Ukraine",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780266776-0-0-e1b1f5c36e888d728f765777b55b5047",
+    "best_url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780272356-0-0-303a338d2127a44ce06b1204e6ae43d5",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780266776-0-0-43f4b273eb2e643fe25b5a322824f523",
-      "hd_flv": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780266776-0-0-9e6268bdc9cbe3e863c7ef2478f3314f",
-      "m3u8": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780266776-0-0-9d23cec3aba6b01f609d1218236e1885",
-      "hd_m3u8": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780266776-0-0-e1b1f5c36e888d728f765777b55b5047"
+      "flv": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780272356-0-0-c6a32d975511d9550e7c27ae5eef722c",
+      "hd_flv": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780272356-0-0-d7832059b51494513ec2550003361c1c",
+      "m3u8": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780272356-0-0-89fdfb72026db825e55b4fca852ee7bb",
+      "hd_m3u8": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780272356-0-0-303a338d2127a44ce06b1204e6ae43d5"
     }
   },
   {
