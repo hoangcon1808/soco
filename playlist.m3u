@@ -1,63 +1,109 @@
 #EXTM3U
-#EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (THẠCH TÚ)
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780246618-0-0-247c4c6422321feebe260f89b4979252
-#EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780272356-0-0-61c93b369057ca1dd6f1425cfb6bb940
-#EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780246705-0-0-7d0fa60e18467128c6fc11807662741c
-#EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (TYPN)
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=a274840116be906a6603e8086d8759dd&txTime=6a1cae04
-#EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (BLV COCA)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780272356-0-0-949703b5636707d74a195eb4be8ef57f
-#EXTINF:-1 group-title="INTERF", Czechia vs Kosovo (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=cd356c96d41c0c11bb4ee6e8787157ff&txTime=6a1cd2b0
-#EXTINF:-1 group-title="BRA D1", Red Bull Bragantino vs Internacional - RS (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ed9e8e79613fadc9f32b217303e3589f&txTime=6a1d1334
-#EXTINF:-1 group-title="BRA D1", Red Bull Bragantino vs Internacional - RS (TƯ MÃ Ý)
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780257173-0-0-5152be73bb5a2788e450f32bba9d2ad2
-#EXTINF:-1 group-title="BRA D1", Red Bull Bragantino vs Internacional - RS (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780262248-0-0-85ca08853ec937be0409ece9c33fae5e
-#EXTINF:-1 group-title="BRA D1", Red Bull Bragantino vs Internacional - RS (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5b20e1d3bc837fd820dc39e29eec83ae&txTime=6a1cf484
-#EXTINF:-1 group-title="BRA D2", Londrina PR vs Vila Nova (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780272356-0-0-a72bf195cb1b7de7f7b25d1a068c9da8
-#EXTINF:-1 group-title="BRA D2", Sao Bernardo vs Gremio Novorizontino (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5a9a6e2041ddff1f750d78ccea13e0ec&txTime=6a1cdfd2
-#EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780266887-0-0-3b55647b2bb50fcc934d47649850ec7f
-#EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c95b79764b5f834395a0d7277e688653&txTime=6a1cf15e
-#EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780266896-0-0-c2549e3b4a1589b24e2c0d4eddf5fd4d
-#EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780263721-0-0-e3ad7b44d7ced698a28d233b38f3e8d6
-#EXTINF:-1 group-title="ENG FA WC", Brighton & Hove Albion Women vs Manchester City Women (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780272356-0-0-a2b597fd129b01080270d7494e90e82d
-#EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780263925-0-0-2601d8e9d562b2f449db5c3756b2b19b
-#EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780266771-0-0-3d380e42a09de6d4cbb0aff2e2cbd312
-#EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780259157-0-0-e98016d0b1679c6a5811c21a5100763d
-#EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780250671-0-0-55b9515769d82dbc01778418bed9294d
-#EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b1589b80fb606e7d3733b898d83081db&txTime=6a1d127d
-#EXTINF:-1 group-title="INTERF", Cape Verde vs Serbia (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780250403-0-0-94241a986dbb6989b603831eeadba9f5
-#EXTINF:-1 group-title="INTERF", Poland vs Ukraine (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780263681-0-0-810d1c3a1513ae8115092efdf030c900
-#EXTINF:-1 group-title="INTERF", Poland vs Ukraine (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780252025-0-0-4cafb4392206bef3580559e628e96908
-#EXTINF:-1 group-title="INTERF", Poland vs Ukraine (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780272356-0-0-b897203c62adf757c4a4d7d0167eb720
-#EXTINF:-1 group-title="INTERF", Poland vs Ukraine (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780252064-0-0-0e6865daa733fb8a6bd174076679ae14
-#EXTINF:-1 group-title="INTERF", Poland vs Ukraine (BLV LONG)
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780263650-0-0-ef676390323f122413cc96cf9c50cfee
-#EXTINF:-1 group-title="INTERF", Poland vs Ukraine (HÀ DUY KIÊN)
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780272356-0-0-303a338d2127a44ce06b1204e6ae43d5
-#EXTINF:-1 group-title="ISRBL", Hapoel Tel Aviv vs Maccabi Rishon (KING)
+#EXTINF:-1 group-title="CHI D1", Palestino vs Audax Italiano (BLV ENZO)
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780281596-0-0-242e09bd6207d829f67dad265db2a58b
+#EXTINF:-1 group-title="CHI D1", Palestino vs Audax Italiano (BLV RÔSI)
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d392b343cdf11c243337c155da077adf&txTime=6a1d374c
+#EXTINF:-1 group-title="CHI D1", Palestino vs Audax Italiano (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780281596-0-0-0321d3fb32162a1f3bd57d44b6805210
+#EXTINF:-1 group-title="CHI D1", Palestino vs Audax Italiano (A PÁO)
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780281596-0-0-8e556876bff56c797ef46e71a4d6a59a
+#EXTINF:-1 group-title="CHI D1", Palestino vs Audax Italiano (BLV ĐỐM)
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780281596-0-0-831496ee5d12d188f81bd435d8f4efc1
+#EXTINF:-1 group-title="CHI D1", Palestino vs Audax Italiano (BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780281596-0-0-1f0acb3e7eb25c2ccb99c281c4bc6881
+#EXTINF:-1 group-title="BSN", Capitanes de Arecibo vs Piratas de Quebradillas (A CHÈ)
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780281596-0-0-ca54cba35af7268bcc3a3548af6eba8a
+#EXTINF:-1 group-title="BSN", Capitanes de Arecibo vs Piratas de Quebradillas (CHAN SENA)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780281596-0-0-fabe24e0d94af330d59208ac10ea8bb0
+#EXTINF:-1 group-title="BSN", Capitanes de Arecibo vs Piratas de Quebradillas (BRIAN)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780281596-0-0-cdc9c51dc4fb7720503849cf46eb7e0a
+#EXTINF:-1 group-title="NZBL", Manawatu Jets vs Wellington Saints (KING)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780252014-0-0-db10b428e5bff493d205b3a86c21c004
-#EXTINF:-1 group-title="ISRBL", Hapoel Tel Aviv vs Maccabi Rishon (HUNTER)
+#EXTINF:-1 group-title="MPBL", Sarangani Marlins vs Quezon Huskers (BLV HENRY)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780199790-0-0-69b40afea3a217dd5ae3a1cf3c63eea6
+#EXTINF:-1 group-title="MPBL", Sarangani Marlins vs Quezon Huskers (HUNTER)
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780260277-0-0-88f53173128c83db368cfcc51b4cc904
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (THẠCH TÚ)
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780246618-0-0-247c4c6422321feebe260f89b4979252
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (BLV TAP)
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a4b27516895d8e22aee601037193a75b&txTime=6a1ca131
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (DECO)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780246705-0-0-7d0fa60e18467128c6fc11807662741c
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (BLV COCA)
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780281137-0-0-70462a6c33bc47f3e27a638bb45903c5
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (TẠ BIÊN GIỚI)
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780243346-0-0-832d1517659cda115b74ee5ebfc34f9a
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780281655-0-0-a5a95ae9e2584c38d0ace7993f655c92
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=686b06c6360aae7b5951cfb09448aef4&txTime=6a1cf0e8
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (BLV MESSI)
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780255504-0-0-67c9ccd28ae7e3bfbc0e32ad6dda3e25
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (RICKHANTER)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=9b6dba40fb587be2edd7d5d2826c61f7&txTime=6a1ca121
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780243493-0-0-9a46d54682fb16d7ebf0a6ff1465dad4
+#EXTINF:-1 group-title="AFF U19", Vietnam U19 vs Timor Leste U19 (BLV 7UP)
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780226153-0-0-521f7923093ad54dc4747a3816bc25d2
+#EXTINF:-1 group-title="JPN D2", Vanraure Hachinohe FC vs Fukushima United FC (TRÀ ĐÁ)
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780259120-0-0-6d9e6452c03e9bfb9b25001b118e6bb6
+#EXTINF:-1 group-title="JPN D2", Vanraure Hachinohe FC vs Fukushima United FC (BLV VIP)
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5a9a6e2041ddff1f750d78ccea13e0ec&txTime=6a1cdfd2
+#EXTINF:-1 group-title="JPN D2", Vanraure Hachinohe FC vs Fukushima United FC (TƯ MÃ Ý)
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780257173-0-0-5152be73bb5a2788e450f32bba9d2ad2
+#EXTINF:-1 group-title="JPN D2", Vanraure Hachinohe FC vs Fukushima United FC (BLV A TINH)
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=c63114a8a8dc55cac33f93861a92b275&txTime=6a1cd1fc
+#EXTINF:-1 group-title="JPN D2", Vanraure Hachinohe FC vs Fukushima United FC (BLV PEWPEW)
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780259220-0-0-0e246002b57052ddf72c4f2dda5e1ff5
+#EXTINF:-1 group-title="UEFA U17", Denmark U17 vs Italy U17 (CR Bưởi)
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780281158-0-0-44546f89d76529373e031f8bbe2cd9f1
+#EXTINF:-1 group-title="UEFA U17", Denmark U17 vs Italy U17 (BLV ALEX)
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780275419-0-0-c4489bcbffa684333327d02c0c153d12
+#EXTINF:-1 group-title="UEFA U17", Denmark U17 vs Italy U17 (BLV KEM)
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780273932-0-0-d1087dff78e9e7b0d71e3096b6a432a2
+#EXTINF:-1 group-title="UEFA U17", Denmark U17 vs Italy U17 (VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=54a706db03f934d7c346b780d67f8090&txTime=6a1d357b
+#EXTINF:-1 group-title="UEFA U17", Denmark U17 vs Italy U17 (BLV MIXI)
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780259272-0-0-fed69fd45de2abb5329d1cc048b57610
+#EXTINF:-1 group-title="UEFA U17", France U17 vs Montenegro U17 (BLV YONE)
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780275342-0-0-760a1bc16902e428b32548d52ae85c64
+#EXTINF:-1 group-title="UEFA U17", France U17 vs Montenegro U17 (BLV LUCAS)
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780281157-0-0-d0594f2dec8c57f134e53c43fb8e4bea
+#EXTINF:-1 group-title="UEFA U17", France U17 vs Montenegro U17 (QUỐC KHÁNH)
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=ab9bd149caf24e4feda96cc0b07cbc98&txTime=6a1cd2f1
+#EXTINF:-1 group-title="UEFA U17", France U17 vs Montenegro U17 (BLV FIREMAN)
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780263721-0-0-e3ad7b44d7ced698a28d233b38f3e8d6
+#EXTINF:-1 group-title="UEFA U17", France U17 vs Montenegro U17 (BLV KAN)
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=031b3732777b6ed38284d572db6cb983&txTime=6a1ca299
+#EXTINF:-1 group-title="TOUT", Japan U19 vs Cote d'Ivoire U23 (A BỆU)
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780263681-0-0-810d1c3a1513ae8115092efdf030c900
+#EXTINF:-1 group-title="TOUT", Japan U19 vs Cote d'Ivoire U23 (BLV ROBBEN)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780266887-0-0-3b55647b2bb50fcc934d47649850ec7f
+#EXTINF:-1 group-title="BLR D1", BATE-2 Borisov vs Kommunalnik Slonim (BLV CÁO)
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780264970-0-0-be338634297dd2f4b8221381dcdb2b63
+#EXTINF:-1 group-title="BLR D1", BATE-2 Borisov vs Kommunalnik Slonim (BLV CÒ)
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780273744-0-0-e14c0458e0509fa383934b489ba38949
+#EXTINF:-1 group-title="EGY LC", Al Masry vs ZED FC (BLV LION)
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780280901-0-0-15de6cd6b66075472db36ab918b760cc
+#EXTINF:-1 group-title="EGY LC", Al Masry vs ZED FC (PINKMAN)
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=2f5689c4f58902ed0e2270029235b8b5&txTime=6a1cd977
+#EXTINF:-1 group-title="EGY LC", Al Masry vs ZED FC (NGƯỜI CÁ)
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780275385-0-0-afcb73c36fa63670508bd2768595fb1d
+#EXTINF:-1 group-title="IRQ D1", Diala vs Duhok SC (BLV VOI)
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780266827-0-0-7b26a6f9675c3d9b43ebb6d2a7fb3bdc
+#EXTINF:-1 group-title="IRQ D1", Diala vs Duhok SC (BLV PICK)
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780258525-0-0-7b6e85487d6220f8be7d6fff71050353
+#EXTINF:-1 group-title="IRQ D1", Mosul FC vs Al Qasim SC (BLV ANH TÀI)
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780257535-0-0-81c035a1a89b0289e4f5968fda8dd7fe
+#EXTINF:-1 group-title="IRQ D1", Mosul FC vs Al Qasim SC (BLV HÚP)
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780262489-0-0-af2aeb792967ebe859ce3d96a8b2f1ba
+#EXTINF:-1 group-title="IRQ D1", Al-Naft SC vs Newroz SC (BLV RAMBO)
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5b20e1d3bc837fd820dc39e29eec83ae&txTime=6a1cf484
+#EXTINF:-1 group-title="IRQ D1", Al-Naft SC vs Newroz SC (ĐỖ TÚ TÀI)
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780266804-0-0-faff6c7befe2ccc3fe578ade2c617548
+#EXTINF:-1 group-title="BLR D1", FC Molodechno vs Dinamo-2 Minsk (BLV 24H)
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780204620-0-0-c34c783fb2855dc849fc8c33371e7576
+#EXTINF:-1 group-title="BLR D1", Volna Pinsk vs Niva Dolbizno (BLV RYO)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780262589-0-0-c9a3d7d1631a270f4386e8a8333b8c8a
+#EXTINF:-1 group-title="BLR D1", Volna Pinsk vs Niva Dolbizno (KÉP)
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780265662-0-0-5a82ea517dba6cf8a72c7e1bbed46cbd
