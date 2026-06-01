@@ -17,12 +17,12 @@
     "streamer": "BLV CÒ",
     "match": "BATE-2 Borisov vs Kommunalnik Slonim",
     "category": "BLR D1",
-    "best_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780332571-0-0-d18fa1c7d1faa3516a12217fc164cb05",
+    "best_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780361539-0-0-71a3df844854d716f4294a0b92ab93c2",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780332571-0-0-4bec7cc7a0e4285023a0f69a036180db",
-      "hd_flv": "https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780332571-0-0-7a2b98763155e713f3bf4aadca18a637",
-      "m3u8": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780332571-0-0-063df5ed003d128c3b41efde80c82a23",
-      "hd_m3u8": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780332571-0-0-d18fa1c7d1faa3516a12217fc164cb05"
+      "flv": "https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780361539-0-0-020514d0acef8645e18cc91a015e2bc6",
+      "hd_flv": "https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780361539-0-0-9c431705a680fcd20499241aff40b22f",
+      "m3u8": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780361539-0-0-e859f9e001a36b1d572aea0090150c3a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780361539-0-0-71a3df844854d716f4294a0b92ab93c2"
     }
   },
   {
@@ -30,12 +30,12 @@
     "streamer": "BLV KAN",
     "match": "Al Masry vs ZED FC",
     "category": "EGY LC",
-    "best_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f3b55e2d0521f293928eac9c30c1702b&txTime=6a1e06d3",
+    "best_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e30d323617d2fdb9a1b2ea9a865fb026&txTime=6a1e6f93",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=85079d2ae442e825fb481f0b85c50419&txTime=6a1e06d3",
-      "hd_flv": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=f3b55e2d0521f293928eac9c30c1702b&txTime=6a1e06d3",
-      "m3u8": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=85079d2ae442e825fb481f0b85c50419&txTime=6a1e06d3",
-      "hd_m3u8": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f3b55e2d0521f293928eac9c30c1702b&txTime=6a1e06d3"
+      "flv": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=370003229824093db3cf4bbbf7b52cb7&txTime=6a1e6f93",
+      "hd_flv": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=e30d323617d2fdb9a1b2ea9a865fb026&txTime=6a1e6f93",
+      "m3u8": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=370003229824093db3cf4bbbf7b52cb7&txTime=6a1e6f93",
+      "hd_m3u8": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e30d323617d2fdb9a1b2ea9a865fb026&txTime=6a1e6f93"
     }
   },
   {
@@ -108,12 +108,12 @@
     "streamer": "BLV RAMBO",
     "match": "Al-Naft SC vs Newroz SC",
     "category": "IRQ D1",
-    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4844b05970b5137b26c291089f94feb4&txTime=6a1e0f33",
+    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=17ceea8e177da6c885c88763e3257c4a&txTime=6a1e6f93",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=fcc4c1ae322f77030ee2611cd3f2cb28&txTime=6a1e0f33",
-      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=4844b05970b5137b26c291089f94feb4&txTime=6a1e0f33",
-      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=fcc4c1ae322f77030ee2611cd3f2cb28&txTime=6a1e0f33",
-      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4844b05970b5137b26c291089f94feb4&txTime=6a1e0f33"
+      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=80f3eb0282321d53a18be2ec71d29ef2&txTime=6a1e6f93",
+      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=17ceea8e177da6c885c88763e3257c4a&txTime=6a1e6f93",
+      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=80f3eb0282321d53a18be2ec71d29ef2&txTime=6a1e6f93",
+      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=17ceea8e177da6c885c88763e3257c4a&txTime=6a1e6f93"
     }
   },
   {
@@ -134,12 +134,12 @@
     "streamer": "QUỐC KHÁNH",
     "match": "FC Molodechno vs Dinamo-2 Minsk",
     "category": "BLR D1",
-    "best_url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=2ff88cf7685123570b3ce25a1b2eb066&txTime=6a1e5a3f",
+    "best_url": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=bbf7991853a23d341f56c91f3526df21&txTime=6a1e6f93",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=1524875b308e9fca721c87a3957feb75&txTime=6a1e5a3f",
-      "hd_flv": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=2ff88cf7685123570b3ce25a1b2eb066&txTime=6a1e5a3f",
-      "m3u8": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=1524875b308e9fca721c87a3957feb75&txTime=6a1e5a3f",
-      "hd_m3u8": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=2ff88cf7685123570b3ce25a1b2eb066&txTime=6a1e5a3f"
+      "flv": "https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=3fa2b4a6bc7ac86bfe01982d6685cfc3&txTime=6a1e6f93",
+      "hd_flv": "https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=bbf7991853a23d341f56c91f3526df21&txTime=6a1e6f93",
+      "m3u8": "https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=3fa2b4a6bc7ac86bfe01982d6685cfc3&txTime=6a1e6f93",
+      "hd_m3u8": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=bbf7991853a23d341f56c91f3526df21&txTime=6a1e6f93"
     }
   },
   {
@@ -173,12 +173,12 @@
     "streamer": "KÉP",
     "match": "Volna Pinsk vs Niva Dolbizno",
     "category": "BLR D1",
-    "best_url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780336626-0-0-ba6c83ce0e0549a3a68e4b172770c893",
+    "best_url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780361539-0-0-e2a8de2501885a20a795a1fb28b680e8",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780336626-0-0-18b275a1a2f6d5a857275ec65e7a0951",
-      "hd_flv": "https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780336626-0-0-fb6d529d5545f0b52bd2debb70b82068",
-      "m3u8": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780336626-0-0-f8c2936c2d5c75cf56d1a000ef51d964",
-      "hd_m3u8": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780336626-0-0-ba6c83ce0e0549a3a68e4b172770c893"
+      "flv": "https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780361539-0-0-bdf3845e013723cc39c5325131a530d5",
+      "hd_flv": "https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780361539-0-0-ec013f5ad282b99da76b5b3f4bfc22dc",
+      "m3u8": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780361539-0-0-617bea16b32d8549bf17db579dc98a2e",
+      "hd_m3u8": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780361539-0-0-e2a8de2501885a20a795a1fb28b680e8"
     }
   }
 ]
