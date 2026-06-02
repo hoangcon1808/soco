@@ -1,55 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="CBA", Zhejiang Guangsha vs Shanghai (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780408579-0-0-0c85679de761607539cc30e7438d972c
-#EXTINF:-1 group-title="CBA", Zhejiang Guangsha vs Shanghai (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780408579-0-0-547af1bdc5a694d6934778aabde0e4e7
-#EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (BLV TAP)
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780408579-0-0-2b48ebd1e48ed4649b4241d84c496301
-#EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780408579-0-0-83515c26126abb774b65998d5dffbc0c
-#EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=16c839428eeea873c147cee7133a6a51&txTime=6a1f2753
-#EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780408579-0-0-912081eeac06d250d25d5a3b73d9b1b3
-#EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780408579-0-0-51ebda9069be6eaddc5f1dde14ef9d05
-#EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (BLV MIXI)
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780408579-0-0-8079479c88bbea85558aa4e0cdff4465
-#EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780408579-0-0-b11f86bc12e9e83b36f2920421fa96eb
-#EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780408579-0-0-b7edb1c174f5026109c117cfc37233b2
-#EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780408579-0-0-85a1769b555da748647491f0fa4a8187
-#EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780408579-0-0-560ea51600472ad6d7bd60006ce4cbc8
-#EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780408579-0-0-c608a87ff3c8896d9d243db32e1fd112
-#EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d958a90d5d1c5b4b3ad876174e9052bc&txTime=6a1f2753
-#EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780408579-0-0-d561d9c0c0304905f0efbb7efdc028ec
-#EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780408579-0-0-d561af194a6a011be58ed2f55582b077
-#EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d999236d44da18d93a3dd8c342170ce8&txTime=6a1f2753
-#EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a2e870b5767f79f1e316ec5006c7199d&txTime=6a1f2753
-#EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=543361144788b7ecccd54e0d3a5be819&txTime=6a1f2753
-#EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780408579-0-0-cdc332114cd113c8a524fdfafaac4a6d
 #EXTINF:-1 group-title="IRQ D1", Al Gharraf vs Naft Missan (XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=7050bbe86b483b2a74a94e61f74d2bb8&txTime=6a1e7280
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e77cfd4e24aa603a3c1e38a3abd1e234&txTime=6a1f6385
 #EXTINF:-1 group-title="IRQ D1", Al Gharraf vs Naft Missan (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=b5abec3a3a75f41c19c9c9f7aa2d6243&txTime=6a1e712d
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=5ba8ea7558adea3e3293ba88e07fc937&txTime=6a1f660c
 #EXTINF:-1 group-title="IRQ D1", Erbil SC vs Amanat Baghdad (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780345992-0-0-9264376e6582ffabbb8007ceceddd47e
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780423316-0-0-e91c66101e731e8e5b932c94134059f4
 #EXTINF:-1 group-title="IRQ D1", Erbil SC vs Amanat Baghdad (PINKMAN)
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=1ac82f0ddb726095769bd1b99bf138c1&txTime=6a1e317e
-#EXTINF:-1 group-title="IRQ D1", Al-Kahraba Club vs Al Karma (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780345842-0-0-5e6aea60f9de28b84ec3d831979633da
-#EXTINF:-1 group-title="IRQ D1", Al-Kahraba Club vs Al Karma (ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780345611-0-0-83ba2a62909ddbadeab62488bdbbd860
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=950de1d3d4fa50ad4da185b0602aac2f&txTime=6a1f61bc
+#EXTINF:-1 group-title="IRQ D1", Al Quwa Al Jawiya vs Zakho SC (BLV PICK)
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780423321-0-0-4b4ab1022d7b6b936caa3a04da970f87
+#EXTINF:-1 group-title="IRQ D1", Al Quwa Al Jawiya vs Zakho SC (BLV BÉO)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=07c64cf4864ba46934e429c9255c6fab&txTime=6a1f6b4b
+#EXTINF:-1 group-title="IRQ D1", Al Shorta vs Al-Mina'a SC (BLV THÓC)
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780423177-0-0-8bbcb2611afbae7332c80c820879ebfe
+#EXTINF:-1 group-title="IRQ D1", Al Shorta vs Al-Mina'a SC (BLV LION)
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780423183-0-0-11013dfbbb12da3456425a2ed3f8cee3
+#EXTINF:-1 group-title="IRQ D1", Al Shorta vs Al-Mina'a SC (QUÂN JK)
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780423252-0-0-473b5b0ed3f6c8fb7817396d0cdb907e
+#EXTINF:-1 group-title="ISRBL", Hapoel HaEmek vs Hapoel Jerusalem (HUNTER)
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780425766-0-0-c96d3fecbd88cd288acc4faf5b49c2b5
 #EXTINF:-1 group-title="ISRBL", Hapoel HaEmek vs Hapoel Jerusalem (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780397469-0-0-baf370cab99ad3a62d3f00b4308276b9
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780425464-0-0-6fae86f942e39554d98de8adf284fb45
