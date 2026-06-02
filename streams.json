@@ -134,12 +134,12 @@
     "streamer": "A CHÈ",
     "match": "Hapoel HaEmek vs Hapoel Jerusalem",
     "category": "ISRBL",
-    "best_url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780425464-0-0-6fae86f942e39554d98de8adf284fb45",
+    "best_url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780445119-0-0-08c7869af39eb8d5e899576ec493b085",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780425464-0-0-388565b9585f174187e5467556e3ec2d",
-      "hd_flv": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780425464-0-0-61aa224b10e699655081d068213d127f",
-      "m3u8": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780425464-0-0-cad03405ac00a61d325cd223cbed5447",
-      "hd_m3u8": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780425464-0-0-6fae86f942e39554d98de8adf284fb45"
+      "flv": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780445119-0-0-1259900347f3c2851a3962ae54897aa9",
+      "hd_flv": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780445119-0-0-e9c68e7fc68e1697aab86653e6d67252",
+      "m3u8": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780445119-0-0-1ed7f54a8ade4d96ee8f7d06a9ec3291",
+      "hd_m3u8": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780445119-0-0-08c7869af39eb8d5e899576ec493b085"
     }
   }
 ]
