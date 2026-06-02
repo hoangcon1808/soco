@@ -1,76 +1,44 @@
 #EXTM3U
-#EXTINF:-1 group-title="MPBL", Zamboanga Sikat vs Bulacan Kuyas (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780395199-0-0-368415376de3d3e48fede05853168c63
-#EXTINF:-1 group-title="MPBL", Zamboanga Sikat vs Bulacan Kuyas (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780395199-0-0-c583acde12ca948bc1bb1f9b01961f7e
-#EXTINF:-1 group-title="MPBL", Zamboanga Sikat vs Bulacan Kuyas (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780395199-0-0-631aa21cc8822c311a7f57dc71cd995e
-#EXTINF:-1 group-title="MPBL", Zamboanga Sikat vs Bulacan Kuyas (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780395199-0-0-fda95a39a5198e042da62b98ca868e90
-#EXTINF:-1 group-title="MPBL", Zamboanga Sikat vs Bulacan Kuyas (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780395199-0-0-fbf5119a14ccac7c4825a651e1838637
-#EXTINF:-1 group-title="AFF U19", Thailand U19 vs Brunei Darussalam U19 (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780395199-0-0-61ad806faa05bf601c0b8c94d79585cf
-#EXTINF:-1 group-title="AFF U19", Thailand U19 vs Brunei Darussalam U19 (BLV TAP)
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780395199-0-0-423b005faf016005912f42692c2a2988
-#EXTINF:-1 group-title="AFF U19", Thailand U19 vs Brunei Darussalam U19 (BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780395199-0-0-a3283798abfb4a318118204c65ba7df6
-#EXTINF:-1 group-title="AFF U19", Thailand U19 vs Brunei Darussalam U19 (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780395199-0-0-6e5ffbf3726ff88e7b67125942b1c2e0
-#EXTINF:-1 group-title="AFF U19", Thailand U19 vs Brunei Darussalam U19 (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780395199-0-0-5377cd46ba5dae7b3f84ca7ac0781b69
-#EXTINF:-1 group-title="AFF U19", Thailand U19 vs Brunei Darussalam U19 (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780395199-0-0-e7d17bef8824fa69693776e052be6e37
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (KÉP)
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780395199-0-0-69a60815144f4abe78d44130ef9f2207
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=898a443802bd40261498366ab52bba88&txTime=6a1ef30f
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (BLV 7UP)
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780395199-0-0-d7ba36614d4d8ba8abe2003204274498
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=1542d7491e6bfd83518f361f4517c2bb&txTime=6a1ef30f
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780395199-0-0-d1b305dcc04d22e180b6cf859eec6c62
-#EXTINF:-1 group-title="AUS NPLQ", Brisbane Wolves vs Brisbane Roar Youth (BLV YONE)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780395199-0-0-e9c796aa30cbdae62445c0ff57065740
-#EXTINF:-1 group-title="AUS QSL1", North Star vs Brisbane Strikers (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780394142-0-0-408eb80c31e1dbb5eda35e179fac15ac
-#EXTINF:-1 group-title="AUS QSL1", North Star vs Brisbane Strikers (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2dbf7c4f51ba3f4f3acd3bd38a579ae1&txTime=6a1e2c92
-#EXTINF:-1 group-title="AUS QSL1", North Star vs Brisbane Strikers (HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780344197-0-0-0d8f96c6b38b8f928cc343f74d133cce
-#EXTINF:-1 group-title="AUS QSL1", North Star vs Brisbane Strikers (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780350291-0-0-c4f3c2fc8cbf546038ecee06d0c87de3
+#EXTINF:-1 group-title="CBA", Zhejiang Guangsha vs Shanghai (HUNTER)
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780408579-0-0-0c85679de761607539cc30e7438d972c
+#EXTINF:-1 group-title="CBA", Zhejiang Guangsha vs Shanghai (BLV HENRY)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780408579-0-0-547af1bdc5a694d6934778aabde0e4e7
+#EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (BLV TAP)
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780408579-0-0-2b48ebd1e48ed4649b4241d84c496301
 #EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780350590-0-0-26c9f345fc021d44141e323b1aa7253b
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780408579-0-0-83515c26126abb774b65998d5dffbc0c
 #EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0edca07ec97cc327702000572e509489&txTime=6a1df358
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=16c839428eeea873c147cee7133a6a51&txTime=6a1f2753
+#EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780408579-0-0-912081eeac06d250d25d5a3b73d9b1b3
 #EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780366296-0-0-338add49335251a765173934f582cb3b
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780408579-0-0-51ebda9069be6eaddc5f1dde14ef9d05
 #EXTINF:-1 group-title="AFF SC", Brunei Darussalam vs Timor Leste (BLV MIXI)
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780345603-0-0-229a385731419775b28d46d3613ca61a
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780408579-0-0-8079479c88bbea85558aa4e0cdff4465
 #EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780336620-0-0-6c4ec7f639545323b940c43d7e7c5607
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780408579-0-0-b11f86bc12e9e83b36f2920421fa96eb
 #EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780350234-0-0-ece8c79c10b0e6f056f2693b224026a1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780408579-0-0-b7edb1c174f5026109c117cfc37233b2
 #EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780324066-0-0-82b30439ff3ebbbb11f087a8b3ab9c39
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780408579-0-0-85a1769b555da748647491f0fa4a8187
 #EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780347559-0-0-b106f348621cdbbb31f3b380a6d2036f
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780408579-0-0-560ea51600472ad6d7bd60006ce4cbc8
 #EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780369620-0-0-5c1f0514c5500a48ff4c2fd1831c6815
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780408579-0-0-c608a87ff3c8896d9d243db32e1fd112
 #EXTINF:-1 group-title="TOUT", China U19 vs Democratic Rep Congo U23 (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2086cc8655a80c7eb1dc703381149167&txTime=6a1db93f
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d958a90d5d1c5b4b3ad876174e9052bc&txTime=6a1f2753
 #EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780343812-0-0-8a635f301cc16591ce6e4950dc8decc4
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780408579-0-0-d561d9c0c0304905f0efbb7efdc028ec
 #EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780343685-0-0-f6b719eec2e39f695c2a07a443fc221e
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780408579-0-0-d561af194a6a011be58ed2f55582b077
 #EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=4bf4c3df4635ff1c84aabf31b8a1ab05&txTime=6a1e313f
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d999236d44da18d93a3dd8c342170ce8&txTime=6a1f2753
 #EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=82ccc82d7f2f9ae8a2c015a32b2ed429&txTime=6a1e9f80
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a2e870b5767f79f1e316ec5006c7199d&txTime=6a1f2753
 #EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780343847-0-0-ddf12eb173b76db21ef10db2e5981e63
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=543361144788b7ecccd54e0d3a5be819&txTime=6a1f2753
+#EXTINF:-1 group-title="AFF U19", Malaysia U19 vs Singapore U19 (LÃO LÂM)
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780408579-0-0-cdc332114cd113c8a524fdfafaac4a6d
 #EXTINF:-1 group-title="IRQ D1", Al Gharraf vs Naft Missan (XUÂN SON)
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=7050bbe86b483b2a74a94e61f74d2bb8&txTime=6a1e7280
 #EXTINF:-1 group-title="IRQ D1", Al Gharraf vs Naft Missan (BLV A TINH)
@@ -83,3 +51,5 @@ https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=1ac82f0ddb726095769b
 https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780345842-0-0-5e6aea60f9de28b84ec3d831979633da
 #EXTINF:-1 group-title="IRQ D1", Al-Kahraba Club vs Al Karma (ĐỖ TÚ TÀI)
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780345611-0-0-83ba2a62909ddbadeab62488bdbbd860
+#EXTINF:-1 group-title="ISRBL", Hapoel HaEmek vs Hapoel Jerusalem (A CHÈ)
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780397469-0-0-baf370cab99ad3a62d3f00b4308276b9
