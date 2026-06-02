@@ -43,12 +43,12 @@
     "streamer": "PINKMAN",
     "match": "Erbil SC vs Amanat Baghdad",
     "category": "IRQ D1",
-    "best_url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=950de1d3d4fa50ad4da185b0602aac2f&txTime=6a1f61bc",
+    "best_url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=0dc307631f21a694e65226f4331e92a0&txTime=6a1f960f",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=5592365749e63b5f078bfeab38b11eeb&txTime=6a1f61bc",
-      "hd_flv": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=950de1d3d4fa50ad4da185b0602aac2f&txTime=6a1f61bc",
-      "m3u8": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=5592365749e63b5f078bfeab38b11eeb&txTime=6a1f61bc",
-      "hd_m3u8": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=950de1d3d4fa50ad4da185b0602aac2f&txTime=6a1f61bc"
+      "flv": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=09091ef4b3ae2891e9816dea3aab6bb3&txTime=6a1f960f",
+      "hd_flv": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=0dc307631f21a694e65226f4331e92a0&txTime=6a1f960f",
+      "m3u8": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=09091ef4b3ae2891e9816dea3aab6bb3&txTime=6a1f960f",
+      "hd_m3u8": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=0dc307631f21a694e65226f4331e92a0&txTime=6a1f960f"
     }
   },
   {
@@ -69,12 +69,12 @@
     "streamer": "BLV BÉO",
     "match": "Al Quwa Al Jawiya vs Zakho SC",
     "category": "IRQ D1",
-    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=07c64cf4864ba46934e429c9255c6fab&txTime=6a1f6b4b",
+    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=58b6eb9ee764afa541d08cca542a160e&txTime=6a1f7c3a",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=d3d8a7b89a17239d8cf9f49edbfd962a&txTime=6a1f6b4b",
-      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=07c64cf4864ba46934e429c9255c6fab&txTime=6a1f6b4b",
-      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=d3d8a7b89a17239d8cf9f49edbfd962a&txTime=6a1f6b4b",
-      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=07c64cf4864ba46934e429c9255c6fab&txTime=6a1f6b4b"
+      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=084276fc41023780ddb96c8de92ef224&txTime=6a1f7c3a",
+      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=58b6eb9ee764afa541d08cca542a160e&txTime=6a1f7c3a",
+      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=084276fc41023780ddb96c8de92ef224&txTime=6a1f7c3a",
+      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=58b6eb9ee764afa541d08cca542a160e&txTime=6a1f7c3a"
     }
   },
   {
