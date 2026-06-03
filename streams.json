@@ -4,12 +4,12 @@
     "streamer": "BLV BÉO",
     "match": "Latvia U17 vs Albania U17",
     "category": "UEFA U17",
-    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3a2d29e380bcd9e0d00f293c95f7a4ff&txTime=6a20b893",
+    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=363eaa79ca88a3eb2cdb20b7923728f5&txTime=6a20da92",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=ae8317b09f16a2fd1cdf5bda6fab333d&txTime=6a20b893",
-      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=3a2d29e380bcd9e0d00f293c95f7a4ff&txTime=6a20b893",
-      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=ae8317b09f16a2fd1cdf5bda6fab333d&txTime=6a20b893",
-      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3a2d29e380bcd9e0d00f293c95f7a4ff&txTime=6a20b893"
+      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=7868462eb2b75fdf8bf033034fb4e125&txTime=6a20da92",
+      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=363eaa79ca88a3eb2cdb20b7923728f5&txTime=6a20da92",
+      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=7868462eb2b75fdf8bf033034fb4e125&txTime=6a20da92",
+      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=363eaa79ca88a3eb2cdb20b7923728f5&txTime=6a20da92"
     }
   },
   {
@@ -17,12 +17,12 @@
     "streamer": "HẢI THANH",
     "match": "Latvia U17 vs Albania U17",
     "category": "UEFA U17",
-    "best_url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780505388-0-0-b26f516aca869028e2dc2aa87d48a25d",
+    "best_url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780522759-0-0-f131e31c0d9f05df91c3f6fad2292983",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780505388-0-0-12f5ac9f64a8ce4b58d5a566a527d585",
-      "hd_flv": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780505388-0-0-71978b8eff8a15df5277183fff28264a",
-      "m3u8": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780505388-0-0-70bde9e8199efb9d7ddf7b9bb99033f0",
-      "hd_m3u8": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780505388-0-0-b26f516aca869028e2dc2aa87d48a25d"
+      "flv": "https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780522759-0-0-4aba85037127a94be93a772e8adb9d70",
+      "hd_flv": "https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780522759-0-0-dbffff67878ea2f5264e0e0850fae603",
+      "m3u8": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780522759-0-0-4ec5ef351d2e295dd0aa3ae918cd59d1",
+      "hd_m3u8": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780522759-0-0-f131e31c0d9f05df91c3f6fad2292983"
     }
   },
   {
@@ -43,12 +43,12 @@
     "streamer": "BLV AB",
     "match": "Latvia U17 vs Albania U17",
     "category": "UEFA U17",
-    "best_url": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780505318-0-0-5c12e4cb469a09177b7b9d854809fc0f",
+    "best_url": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780522759-0-0-48ecc394d6ce2dc289cc7384fa88a069",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780505318-0-0-109f6cdc44c7ea841c78fa3c44825c04",
-      "hd_flv": "https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780505318-0-0-4951b72593da01aeb462246f2dd98281",
-      "m3u8": "https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780505318-0-0-9652f4f750d2f55ac3c23f9e211d361a",
-      "hd_m3u8": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780505318-0-0-5c12e4cb469a09177b7b9d854809fc0f"
+      "flv": "https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780522759-0-0-6a2e0c223b3b49defadade79477969b9",
+      "hd_flv": "https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780522759-0-0-20a312c40cfea00231f90f9a83b00840",
+      "m3u8": "https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780522759-0-0-767f79caf1f2391c27e10e11c2400227",
+      "hd_m3u8": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780522759-0-0-48ecc394d6ce2dc289cc7384fa88a069"
     }
   },
   {
@@ -56,12 +56,12 @@
     "streamer": "BLV ANH TÀI",
     "match": "Latvia U17 vs Albania U17",
     "category": "UEFA U17",
-    "best_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780511299-0-0-f1da0f61a24aaad5b4349b6b1f8d8644",
+    "best_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780516502-0-0-f0fa9315c7b0adcb8c2fa383bb8377e2",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780511299-0-0-1da1b53b7fe6e0280080d48be389c4c3",
-      "hd_flv": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780511299-0-0-55beb0ef3f0101a73c8e97faa3d81728",
-      "m3u8": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780511299-0-0-575a9b0154f1e5687cca5ae115a26240",
-      "hd_m3u8": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780511299-0-0-f1da0f61a24aaad5b4349b6b1f8d8644"
+      "flv": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780516502-0-0-07321524993d1be28b5674054d9d4402",
+      "hd_flv": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780516502-0-0-e6ceba7e4b24bac74ed4ee1c34883955",
+      "m3u8": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780516502-0-0-e4db31f758b46ead9be6368a4fd92b71",
+      "hd_m3u8": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780516502-0-0-f0fa9315c7b0adcb8c2fa383bb8377e2"
     }
   },
   {
@@ -69,12 +69,12 @@
     "streamer": "BLV COZY",
     "match": "Latvia U17 vs Albania U17",
     "category": "UEFA U17",
-    "best_url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780505314-0-0-11bd74bf3d89c56627be239e32b6d9b4",
+    "best_url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780522759-0-0-7e9ae3ac546c9422234a96f9bc601101",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780505314-0-0-5e42540a8a17fb7937629ea428d6c2bb",
-      "hd_flv": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780505314-0-0-61d53dca676d67fa282a83db3af8e127",
-      "m3u8": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780505314-0-0-f8878c0816d60ce456754c4802cca242",
-      "hd_m3u8": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780505314-0-0-11bd74bf3d89c56627be239e32b6d9b4"
+      "flv": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780522759-0-0-77683a9d7d95bf458732f4b56b997272",
+      "hd_flv": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780522759-0-0-93ad31af1dde820d33eb7de90f261876",
+      "m3u8": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780522759-0-0-ead5fec68a2caddacc8140d79dc54289",
+      "hd_m3u8": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780522759-0-0-7e9ae3ac546c9422234a96f9bc601101"
     }
   },
   {
@@ -82,12 +82,12 @@
     "streamer": "PINKMAN",
     "match": "Greece U19 vs Serbia U19",
     "category": "UEFA U19",
-    "best_url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=9242b4200e4d843d489a8818045bc398&txTime=6a20b45c",
+    "best_url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=df62167a0abf00ecd1dae0b8f358ea46&txTime=6a20e557",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=4ba5d6f5517d5d9495972158511d1445&txTime=6a20b45c",
-      "hd_flv": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=9242b4200e4d843d489a8818045bc398&txTime=6a20b45c",
-      "m3u8": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=4ba5d6f5517d5d9495972158511d1445&txTime=6a20b45c",
-      "hd_m3u8": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=9242b4200e4d843d489a8818045bc398&txTime=6a20b45c"
+      "flv": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=05497a67d44b067b26f7b50b153b9069&txTime=6a20e557",
+      "hd_flv": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=df62167a0abf00ecd1dae0b8f358ea46&txTime=6a20e557",
+      "m3u8": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=05497a67d44b067b26f7b50b153b9069&txTime=6a20e557",
+      "hd_m3u8": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=df62167a0abf00ecd1dae0b8f358ea46&txTime=6a20e557"
     }
   },
   {
@@ -95,12 +95,12 @@
     "streamer": "BLV CÁO",
     "match": "Greece U19 vs Serbia U19",
     "category": "UEFA U19",
-    "best_url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780511299-0-0-8a211c4aa2d38c9a0bf50f3338866324",
+    "best_url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780520361-0-0-ab76abb8cf99d0ba9e7d9497ba4eb585",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780511299-0-0-380884b60f2b7ce88d391a85c63353b0",
-      "hd_flv": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780511299-0-0-2b914bf96128e5f3716fcfe40ddc7b54",
-      "m3u8": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780511299-0-0-d49fa1eec95b92fe6fd087de451b63e9",
-      "hd_m3u8": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780511299-0-0-8a211c4aa2d38c9a0bf50f3338866324"
+      "flv": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780520361-0-0-9b3519744aa784adde00a2cf54a42130",
+      "hd_flv": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780520361-0-0-9902a718ca6ae6679890f84725df5b9e",
+      "m3u8": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780520361-0-0-838b9088714b68c108358baa280b325a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780520361-0-0-ab76abb8cf99d0ba9e7d9497ba4eb585"
     }
   },
   {
@@ -121,12 +121,12 @@
     "streamer": "BLV RAMBO",
     "match": "Montenegro U19 vs Georgia U19",
     "category": "UEFA U19",
-    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8fef86daba3e2e688811b65607f95438&txTime=6a20b297",
+    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f5a4f135277ab6254d5879c34f670b3a&txTime=6a20dc22",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=3af569278735defad479f3aa21932574&txTime=6a20b297",
-      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=8fef86daba3e2e688811b65607f95438&txTime=6a20b297",
-      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=3af569278735defad479f3aa21932574&txTime=6a20b297",
-      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8fef86daba3e2e688811b65607f95438&txTime=6a20b297"
+      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=9ee52918dd563fb267725ddebba5a497&txTime=6a20dc22",
+      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=f5a4f135277ab6254d5879c34f670b3a&txTime=6a20dc22",
+      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=9ee52918dd563fb267725ddebba5a497&txTime=6a20dc22",
+      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f5a4f135277ab6254d5879c34f670b3a&txTime=6a20dc22"
     }
   },
   {
