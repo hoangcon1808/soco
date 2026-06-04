@@ -1,40 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="NBA", San Antonio Spurs vs New York Knicks (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780542379-0-0-524aac31760779d58c4d79ef83436be3
-#EXTINF:-1 group-title="NBA", San Antonio Spurs vs New York Knicks (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780542379-0-0-f6b89a466c876bb9c96d2352c199cc47
-#EXTINF:-1 group-title="NBA", San Antonio Spurs vs New York Knicks (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780542379-0-0-45f2e73a4796e0da3ffcc32d0e5a1580
-#EXTINF:-1 group-title="INTERF", Panama vs Dominican Republic (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780542379-0-0-aa8e2c1a871506015bc76b9e9f7e9587
-#EXTINF:-1 group-title="INTERF", Panama vs Dominican Republic (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780542379-0-0-5e6903e672a6e26904e3e33f67b82875
-#EXTINF:-1 group-title="INTERF", Panama vs Dominican Republic (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780542379-0-0-c90a0f83df1d8eef4008f5abbfd83607
-#EXTINF:-1 group-title="INTERF", Panama vs Dominican Republic (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780542379-0-0-470dd23ae2c6d0054e04052b12d8943e
-#EXTINF:-1 group-title="INTERF", Panama vs Dominican Republic (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780542379-0-0-5b276d595d6b2cae7315540fdfe17a32
-#EXTINF:-1 group-title="INTERF", Panama vs Dominican Republic (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e1dbc240e01c4ec8c79ec2eee6f3b775&txTime=6a2131fb
-#EXTINF:-1 group-title="INTERF", South Korea vs El Salvador (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780542379-0-0-e747bdaea965be5409c5f770058d684e
-#EXTINF:-1 group-title="INTERF", South Korea vs El Salvador (BLV TOMMY)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=23ffc84cfe53c420b3679eb83875e32a&txTime=6a2131fb
-#EXTINF:-1 group-title="INTERF", South Korea vs El Salvador (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780542379-0-0-b199cc31c485b78e9769ab9ac1daaf2b
-#EXTINF:-1 group-title="INTERF", South Korea vs El Salvador (BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780542379-0-0-c6d0b21caefa6fc52173173cc32d8e33
-#EXTINF:-1 group-title="INTERF", South Korea vs El Salvador (BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780542379-0-0-d4f1429ea5b2f24a7028f853c08f14c7
-#EXTINF:-1 group-title="INTERF", South Korea vs El Salvador (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780542379-0-0-72cdc6cd7594c682bc83799d4bd7a130
-#EXTINF:-1 group-title="WNBA", Seattle Storm W vs Phoenix Mercury W (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780542379-0-0-998457741f651da9da53912973dd5046
-#EXTINF:-1 group-title="WNBA", Seattle Storm W vs Phoenix Mercury W (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780542379-0-0-3104e063667ae340926a4bae73117771
+#EXTINF:-1 group-title="NZBL", Bay Hawks vs Nelson Giants (BRIAN)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780560439-0-0-f1090ce6a1fee7bf9839587de341620e
+#EXTINF:-1 group-title="NZBL", Bay Hawks vs Nelson Giants (CHAN SENA)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780560439-0-0-a33947bb353563e85df4828e6290a6c1
+#EXTINF:-1 group-title="NZBL", Bay Hawks vs Nelson Giants (BLV HENRY)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780560439-0-0-fbaa40c58e9205bfba342eb8aa7a22aa
+#EXTINF:-1 group-title="NZBL", Bay Hawks vs Nelson Giants (A CHÈ)
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780560439-0-0-d5f0ec9b73e0215a6d3e879b946521fd
+#EXTINF:-1 group-title="NZBL", Bay Hawks vs Nelson Giants (HUNTER)
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780560439-0-0-85e689d29042e33a8c7c31db77eb063e
+#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV TOMMY)
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=12d48a74b09bd1a960645ff205deae33&txTime=6a213e9c
 #EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (SAO LA)
 https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=df9164ffed15a5cd98b487042505ade4&txTime=6a1fe747
+#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV MESSI)
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780545964-0-0-15dda149e5aa79bebc340ce6ad9f23d9
+#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (RICKHANTER)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=31821bec1da4658b330d3edb7e432b65&txTime=6a213d65
+#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780545563-0-0-e2a4d6887850d2ef8d8071dc73ad14ab
+#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (TẠ BIÊN GIỚI)
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780545579-0-0-1320581ce5c2ef21c795ad20cf89527a
+#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780546317-0-0-4ef8141fc48c9c76c7dddf77ef44dad0
+#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780545382-0-0-30a335aeabd19728284ff7ed022c02f4
 #EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (LÃO LÂM)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780520342-0-0-2d9384a3a8da4243702d35ccc10d219b
 #EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV COCA)
@@ -69,14 +59,16 @@ https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780423177-0-0-8bbc
 https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780504253-0-0-985d8bf822bde93136f14f5bbac8a6cc
 #EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV GÔN)
 https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ccef064d0ced2ce5ba58dde40572c4fd&txTime=6a20b21c
-#EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780489510-0-0-1332bde77023ebe77d0df9fddf0bd1d4
 #EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV HÚP)
 https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780488144-0-0-64bb64b5ca53e1994a4660e7bee7a055
 #EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV VOI)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780503121-0-0-68f1cfca50d2c6f01c70b8da111b9556
 #EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV 24H)
 https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780509511-0-0-2abd2ab5c92bb538c53b2be28bfef76d
+#EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV A WIN)
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780523636-0-0-bc9f0503412fef38d5e38c1a17258d3b
+#EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (CÔNG CHẤT)
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780545644-0-0-2a2066eed33e8bddbb96e2c3185be3d1
 #EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (A BỆU)
 https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780520192-0-0-82fd7ed8c5622614a25fb9b4de4a355e
 #EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (BLV RÔSI)
