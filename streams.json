@@ -1,431 +1,15 @@
 [
   {
-    "room_id": "414317",
-    "streamer": "BLV TOMMY",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f0bae282015e3d8ac36dfe10c2fdb769&txTime=6a21ac53",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=144fd951db4d2719b70816295d5937ec&txTime=6a21ac53",
-      "hd_flv": "https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=f0bae282015e3d8ac36dfe10c2fdb769&txTime=6a21ac53",
-      "m3u8": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=144fd951db4d2719b70816295d5937ec&txTime=6a21ac53",
-      "hd_m3u8": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f0bae282015e3d8ac36dfe10c2fdb769&txTime=6a21ac53"
-    }
-  },
-  {
-    "room_id": "462413",
-    "streamer": "SAO LA",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9962a3d7aa7ed54de14ac800998fa486&txTime=6a21ac53",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=45485b3d35a1e677bd772e9976a184f0&txTime=6a21ac53",
-      "hd_flv": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=9962a3d7aa7ed54de14ac800998fa486&txTime=6a21ac53",
-      "m3u8": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=45485b3d35a1e677bd772e9976a184f0&txTime=6a21ac53",
-      "hd_m3u8": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9962a3d7aa7ed54de14ac800998fa486&txTime=6a21ac53"
-    }
-  },
-  {
-    "room_id": "494201",
-    "streamer": "BLV MESSI",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780573699-0-0-f12bcada96c02b31031e94db0566eebb",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780573699-0-0-2519690451351e3e15adb65186e915ad",
-      "hd_flv": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780573699-0-0-0d292f91e1d2628295d9e9d34fce75ad",
-      "m3u8": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780573699-0-0-0b6461d138a37c4280b7b40d5bdb53b2",
-      "hd_m3u8": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780573699-0-0-f12bcada96c02b31031e94db0566eebb"
-    }
-  },
-  {
-    "room_id": "9912122",
-    "streamer": "RICKHANTER",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d91d6b7c490170b9d242fa234e9e433c&txTime=6a21ac53",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=50f6a5d9eedded19acc082781be8c31c&txTime=6a21ac53",
-      "hd_flv": "https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=d91d6b7c490170b9d242fa234e9e433c&txTime=6a21ac53",
-      "m3u8": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=50f6a5d9eedded19acc082781be8c31c&txTime=6a21ac53",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d91d6b7c490170b9d242fa234e9e433c&txTime=6a21ac53"
-    }
-  },
-  {
-    "room_id": "9912091",
-    "streamer": "BLV Củ Cải",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780573699-0-0-d94e71da2210be743fc24bdb495ad16a",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780573699-0-0-91a720b5082dce5dc0b37f93742cb11a",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780573699-0-0-6a003550bfb93812fe441e0afe30d811",
-      "m3u8": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780573699-0-0-a6c485114a18080559c6b7cbeb3493c0",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780573699-0-0-d94e71da2210be743fc24bdb495ad16a"
-    }
-  },
-  {
-    "room_id": "9912108",
-    "streamer": "TẠ BIÊN GIỚI",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780573699-0-0-4a9e52188e707fee799561607b7a0563",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780573699-0-0-8f799a33417899c06302efa5d8fada5c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780573699-0-0-bec46ef0ad7ed2c2407a1c9df5ecff6e",
-      "m3u8": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780573699-0-0-9cfdc0bcdb380f10e2595f66165e8c21",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780573699-0-0-4a9e52188e707fee799561607b7a0563"
-    }
-  },
-  {
-    "room_id": "256080",
-    "streamer": "BLV CUỘI",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780573699-0-0-c6e4f4cc1880fd1a924fdc49001863ab",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780573699-0-0-4fa8652377683b95bffe340cd2195133",
-      "hd_flv": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780573699-0-0-93c7fa2cc9632bc00758397bb79c8267",
-      "m3u8": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780573699-0-0-4c3f79b4b7d248636e3678d067c72c92",
-      "hd_m3u8": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780573699-0-0-c6e4f4cc1880fd1a924fdc49001863ab"
-    }
-  },
-  {
-    "room_id": "552832",
-    "streamer": "LOGAN",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780573699-0-0-5420b69e173ae131c271c5c755ec2ae8",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780573699-0-0-a85af1cd37fa22a82deb2b3f7ce6be93",
-      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780573699-0-0-a6a27f7c1dc7d5ad860c3796b1147fd3",
-      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780573699-0-0-7d6e04502494b72d054e5ae02c9f2ded",
-      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780573699-0-0-5420b69e173ae131c271c5c755ec2ae8"
-    }
-  },
-  {
-    "room_id": "527384",
-    "streamer": "LÃO LÂM",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780573699-0-0-944975e4dda9c2742dc0beba18dd92c1",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780573699-0-0-64be56e457151c3fb6aabd68576f58a9",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780573699-0-0-d179f300662d35aebad838d404c9e8f8",
-      "m3u8": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780573699-0-0-9fabcf82444b78026d849a5d86cd18b3",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780573699-0-0-944975e4dda9c2742dc0beba18dd92c1"
-    }
-  },
-  {
-    "room_id": "327159",
-    "streamer": "BLV COCA",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780573699-0-0-c1a89426478597ff3e20755c1f1c14e5",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780573699-0-0-f21ea6aea19c3a15c6ce4873961ac30f",
-      "hd_flv": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780573699-0-0-ada51abce1979a71059110c7ec594a7d",
-      "m3u8": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780573699-0-0-4895ce28f3525b9c8de9724aa9f13888",
-      "hd_m3u8": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780573699-0-0-c1a89426478597ff3e20755c1f1c14e5"
-    }
-  },
-  {
-    "room_id": "534219",
-    "streamer": "BLV 7UP",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780573699-0-0-98eaed03cc215e1927e8d65232199991",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780573699-0-0-f3476460c3e299d4e920ee735a38a332",
-      "hd_flv": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780573699-0-0-4b9e8d8c0b72131849ffdc7ff2c6c8b8",
-      "m3u8": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780573699-0-0-9aca1e69d61cc257e8632296aa29edfa",
-      "hd_m3u8": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780573699-0-0-98eaed03cc215e1927e8d65232199991"
-    }
-  },
-  {
-    "room_id": "532081",
-    "streamer": "BLV ALEX",
-    "match": "Myanmar U19 vs Vietnam U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780573699-0-0-bb7299890fbbf5710045b19dab845fee",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780573699-0-0-9a78c86bdcaad598eb93833b3d49573c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780573699-0-0-46f66f67c871cca5a006ee7578a9259d",
-      "m3u8": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780573699-0-0-d8368474a2b371a5673ae3ab3e1dfd8f",
-      "hd_m3u8": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780573699-0-0-bb7299890fbbf5710045b19dab845fee"
-    }
-  },
-  {
-    "room_id": "485739",
-    "streamer": "BLV CHIVAS",
-    "match": "Van Hien University vs Khatoco Khanh Hoa",
-    "category": "VIE D2",
-    "best_url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=18d8868b5e761ad80172fa19c7ec39a4&txTime=6a21ac53",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=16a333b02757d31fa20a83df8591de9a&txTime=6a21ac53",
-      "hd_flv": "https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=18d8868b5e761ad80172fa19c7ec39a4&txTime=6a21ac53",
-      "m3u8": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=16a333b02757d31fa20a83df8591de9a&txTime=6a21ac53",
-      "hd_m3u8": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=18d8868b5e761ad80172fa19c7ec39a4&txTime=6a21ac53"
-    }
-  },
-  {
-    "room_id": "321443",
-    "streamer": "BLV GIÓ",
-    "match": "Van Hien University vs Khatoco Khanh Hoa",
-    "category": "VIE D2",
-    "best_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780573699-0-0-780adee2aec5826a84f22b04c039a3bd",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1780573699-0-0-85dec43aaeb43c452b1d4dbf30de97ba",
-      "hd_flv": "https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780573699-0-0-64a037989b1da9b73e2871a46c1cf8f8",
-      "m3u8": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1780573699-0-0-bd63516dc7aa8921bdba184b57138d95",
-      "hd_m3u8": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780573699-0-0-780adee2aec5826a84f22b04c039a3bd"
-    }
-  },
-  {
-    "room_id": "602019",
-    "streamer": "BLV RYO",
-    "match": "Van Hien University vs Khatoco Khanh Hoa",
-    "category": "VIE D2",
-    "best_url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780573699-0-0-fc0ab413d3bb98ae5cf2e4997f93e4af",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780573699-0-0-c4005e5736fff36b0c8769e049f5526c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780573699-0-0-f2d92d5a0d9c6549bca75e12093dafbb",
-      "m3u8": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780573699-0-0-cbd7ef281a11549cdaea10639e6855da",
-      "hd_m3u8": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780573699-0-0-fc0ab413d3bb98ae5cf2e4997f93e4af"
-    }
-  },
-  {
-    "room_id": "557845",
-    "streamer": "BLV A TÚ",
-    "match": "Van Hien University vs Khatoco Khanh Hoa",
-    "category": "VIE D2",
-    "best_url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780573699-0-0-69375a9b0ce9369481c5b3ce367eb8d4",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780573699-0-0-ae09645a932fe98df9e6385a95a2ec7a",
-      "hd_flv": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780573699-0-0-061b8a5b49152c30f13573785bbac4cf",
-      "m3u8": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780573699-0-0-ccad49676d58b0746288b3390bb92924",
-      "hd_m3u8": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780573699-0-0-69375a9b0ce9369481c5b3ce367eb8d4"
-    }
-  },
-  {
-    "room_id": "9912106",
-    "streamer": "BRIAN",
-    "match": "Cebu Greats vs Valenzuela City Darkhorse",
-    "category": "MPBL",
-    "best_url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780573699-0-0-815b561f0bc281c1bdcbc95948e9b9fe",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780573699-0-0-ae1cba94ffa45e37012f87b531737dea",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780573699-0-0-c114d21ccbb357276c50dc7d3ce7dd4a",
-      "m3u8": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780573699-0-0-ae141b51b7f6de0c94a0022ecc5767b1",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780573699-0-0-815b561f0bc281c1bdcbc95948e9b9fe"
-    }
-  },
-  {
-    "room_id": "9912115",
-    "streamer": "CHAN SENA",
-    "match": "Cebu Greats vs Valenzuela City Darkhorse",
-    "category": "MPBL",
-    "best_url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780573699-0-0-7125df8d9b2e0b9ef46800a7d6a5e360",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780573699-0-0-9d48a4f78c05e41569f5f8715a805e14",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780573699-0-0-52a6c2f20262879e1c8129e0d438bebd",
-      "m3u8": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780573699-0-0-17fcd099f7098fa853ece8d6da73a695",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780573699-0-0-7125df8d9b2e0b9ef46800a7d6a5e360"
-    }
-  },
-  {
     "room_id": "9912112",
     "streamer": "BLV HENRY",
-    "match": "Cebu Greats vs Valenzuela City Darkhorse",
-    "category": "MPBL",
-    "best_url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780573699-0-0-34d4a53eaf44aa27c0e47001a79dfd5f",
+    "match": "Can Tho Catfish vs Hanoi Buffaloes",
+    "category": "VBA",
+    "best_url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780585639-0-0-937fa36c3750b7c687543435ec2a79ff",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780573699-0-0-1dc3d56d2230ebb3db727eac5c42332c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780573699-0-0-b59703bfe116a184551d4d73d3335dd5",
-      "m3u8": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780573699-0-0-2e5a77074a8ab76cfc2e58527a52d273",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780573699-0-0-34d4a53eaf44aa27c0e47001a79dfd5f"
-    }
-  },
-  {
-    "room_id": "598549",
-    "streamer": "BLV PICK",
-    "match": "Maldives vs Pakistan",
-    "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780573699-0-0-11c5f0d79df8f53b304f0f46a29ae811",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780573699-0-0-71e32d7032bb548ec1d2962f0c5d5bcf",
-      "hd_flv": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780573699-0-0-7c24ad557a0d5cbc3e9ea54528dd72c8",
-      "m3u8": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780573699-0-0-fa2bcc1e317b1f4ea0f557ecd784683e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780573699-0-0-11c5f0d79df8f53b304f0f46a29ae811"
-    }
-  },
-  {
-    "room_id": "595335",
-    "streamer": "NGƯỜI CÁ",
-    "match": "Maldives vs Pakistan",
-    "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780573699-0-0-71c5ab5cae95233e4de1442bbdd6180c",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780573699-0-0-ac859233a2183a2fefbe6f3a4755bee1",
-      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780573699-0-0-64c748491a5de7e13df1e637f8a81f1b",
-      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780573699-0-0-61b8797109710d18e1d4c10ca2a52974",
-      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780573699-0-0-71c5ab5cae95233e4de1442bbdd6180c"
-    }
-  },
-  {
-    "room_id": "283501",
-    "streamer": "BLV KAN",
-    "match": "Maldives vs Pakistan",
-    "category": "INTERF",
-    "best_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=de0e58109813c19efa8020532698786a&txTime=6a21ac53",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=4e1945c44cc46c0020134ef700908191&txTime=6a21ac53",
-      "hd_flv": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=de0e58109813c19efa8020532698786a&txTime=6a21ac53",
-      "m3u8": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=4e1945c44cc46c0020134ef700908191&txTime=6a21ac53",
-      "hd_m3u8": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=de0e58109813c19efa8020532698786a&txTime=6a21ac53"
-    }
-  },
-  {
-    "room_id": "501412",
-    "streamer": "XUÂN SON",
-    "match": "Maldives vs Pakistan",
-    "category": "INTERF",
-    "best_url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2c254c97332dc48175d59abd36100148&txTime=6a21ac53",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=7aafbda497ee026681850a406bf5aeb2&txTime=6a21ac53",
-      "hd_flv": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=2c254c97332dc48175d59abd36100148&txTime=6a21ac53",
-      "m3u8": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=7aafbda497ee026681850a406bf5aeb2&txTime=6a21ac53",
-      "hd_m3u8": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2c254c97332dc48175d59abd36100148&txTime=6a21ac53"
-    }
-  },
-  {
-    "room_id": "610677",
-    "streamer": "BLV CÁP",
-    "match": "Belgium U17 vs France U17",
-    "category": "UEFA U17",
-    "best_url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780402356-0-0-ec3af7ebe4c482ec08772537614e9671",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780402356-0-0-f147592f6539c1cb5ae42f809eedc769",
-      "hd_flv": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780402356-0-0-cb094cd24979751a4dcc41317d1a0709",
-      "m3u8": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780402356-0-0-f554add815a69d0dbadd88de8b80ed69",
-      "hd_m3u8": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780402356-0-0-ec3af7ebe4c482ec08772537614e9671"
-    }
-  },
-  {
-    "room_id": "603255",
-    "streamer": "BLV LION",
-    "match": "Belgium U17 vs France U17",
-    "category": "UEFA U17",
-    "best_url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780496708-0-0-1c0dd3ad592ad56ae52e100098dc0cd7",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780496708-0-0-0382580dc582e2fb8aebfe0f3559cbd5",
-      "hd_flv": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780496708-0-0-702f0958e8e4238e3ded1b958e917eab",
-      "m3u8": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780496708-0-0-28d7be8626d1242c7cb5d1701cf9f7dc",
-      "hd_m3u8": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780496708-0-0-1c0dd3ad592ad56ae52e100098dc0cd7"
-    }
-  },
-  {
-    "room_id": "991140",
-    "streamer": "BLV FIREMAN",
-    "match": "Belgium U17 vs France U17",
-    "category": "UEFA U17",
-    "best_url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780523078-0-0-1a97ca60620f7194bb7548c68be31194",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780523078-0-0-fdd2483203723e2aa5606f236c91b7e5",
-      "hd_flv": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780523078-0-0-6d8872ecafbfa1d47926ccb64a33d26a",
-      "m3u8": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780523078-0-0-86e739184a9d6e9ece3dfccd7402e28d",
-      "hd_m3u8": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780523078-0-0-1a97ca60620f7194bb7548c68be31194"
-    }
-  },
-  {
-    "room_id": "612098",
-    "streamer": "BEN 10",
-    "match": "Cambodia vs Bhutan",
-    "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780504253-0-0-985d8bf822bde93136f14f5bbac8a6cc",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1780504253-0-0-48bd125ffd98c555543a674b6caeb3ca",
-      "hd_flv": "https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780504253-0-0-508cf42fff7f1a65593e964045ceb114",
-      "m3u8": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780504253-0-0-d425407a835b421f0bfcf8fbd1b4c44f",
-      "hd_m3u8": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780504253-0-0-985d8bf822bde93136f14f5bbac8a6cc"
-    }
-  },
-  {
-    "room_id": "445260",
-    "streamer": "BLV GÔN",
-    "match": "Cambodia vs Bhutan",
-    "category": "INTERF",
-    "best_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ccef064d0ced2ce5ba58dde40572c4fd&txTime=6a20b21c",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=a3cbb998767fb244d3a2a8ec0b46effd&txTime=6a20b21c",
-      "hd_flv": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=ccef064d0ced2ce5ba58dde40572c4fd&txTime=6a20b21c",
-      "m3u8": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=a3cbb998767fb244d3a2a8ec0b46effd&txTime=6a20b21c",
-      "hd_m3u8": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ccef064d0ced2ce5ba58dde40572c4fd&txTime=6a20b21c"
-    }
-  },
-  {
-    "room_id": "611382",
-    "streamer": "BLV HÚP",
-    "match": "Cambodia vs Bhutan",
-    "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780488144-0-0-64bb64b5ca53e1994a4660e7bee7a055",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780488144-0-0-816e77557207e807c5a01cf197d4a7c8",
-      "hd_flv": "https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780488144-0-0-9d7076e0be35b5566fbf99d3f77a8910",
-      "m3u8": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780488144-0-0-b250edc7ff98b51c9061227c5aae43d0",
-      "hd_m3u8": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780488144-0-0-64bb64b5ca53e1994a4660e7bee7a055"
-    }
-  },
-  {
-    "room_id": "9912114",
-    "streamer": "BLV VOI",
-    "match": "Cambodia vs Bhutan",
-    "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780503121-0-0-68f1cfca50d2c6f01c70b8da111b9556",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780503121-0-0-f13ada218197218466335717c20bb615",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780503121-0-0-166b5af56576cc51f9267eaf74eefc36",
-      "m3u8": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780503121-0-0-6bdc7f10bbfb032f13e3b015ae2cd327",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780503121-0-0-68f1cfca50d2c6f01c70b8da111b9556"
-    }
-  },
-  {
-    "room_id": "612928",
-    "streamer": "BLV 24H",
-    "match": "Cambodia vs Bhutan",
-    "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780509511-0-0-2abd2ab5c92bb538c53b2be28bfef76d",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1780509511-0-0-cfb58804f4c1d6774181fd68e1e187fa",
-      "hd_flv": "https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1780509511-0-0-61a3dab47eba0a718c7349d80f83d02d",
-      "m3u8": "https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780509511-0-0-0c9091a5df7d7616c61b287958d1b61d",
-      "hd_m3u8": "https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780509511-0-0-2abd2ab5c92bb538c53b2be28bfef76d"
-    }
-  },
-  {
-    "room_id": "536185",
-    "streamer": "BLV A WIN",
-    "match": "Cambodia vs Bhutan",
-    "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780523636-0-0-bc9f0503412fef38d5e38c1a17258d3b",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780523636-0-0-4414a8ac784a22b7aed6182f38020e62",
-      "hd_flv": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780523636-0-0-def4c92a5c3f7a2ce5783c7c7ce3c39d",
-      "m3u8": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780523636-0-0-193d31a21beb09108bcc8b3a0b1ad426",
-      "hd_m3u8": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780523636-0-0-bc9f0503412fef38d5e38c1a17258d3b"
-    }
-  },
-  {
-    "room_id": "558264",
-    "streamer": "HUNTER",
-    "match": "Pasay Voyagers vs Batang Kankaloo",
-    "category": "MPBL",
-    "best_url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780567399-0-0-3100adfdb02751f0a39c2cc4118fe3a5",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780567399-0-0-fc082a6c32dbc35c8801ae3ea54470a5",
-      "hd_flv": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780567399-0-0-ca005b81b7ba9d8371f7cb68fa96c508",
-      "m3u8": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780567399-0-0-327fdc2c290ef60c29311e3488a47702",
-      "hd_m3u8": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780567399-0-0-3100adfdb02751f0a39c2cc4118fe3a5"
+      "flv": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780585639-0-0-034b5d6493d5c86c058f1385ddab9ff0",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780585639-0-0-a94076146e73cc74595fd851d7513811",
+      "m3u8": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780585639-0-0-9ae584d8e3c3f9e3ecdd427f24f692f8",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780585639-0-0-937fa36c3750b7c687543435ec2a79ff"
     }
   },
   {
@@ -433,12 +17,12 @@
     "streamer": "CÔNG CHẤT",
     "match": "Timor Leste U19 vs Indonesia U19",
     "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780545644-0-0-2a2066eed33e8bddbb96e2c3185be3d1",
+    "best_url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780585639-0-0-973675e64b720647d58107e227fc3af6",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780545644-0-0-516ed7d17bf78b59dc4a795e590c1b02",
-      "hd_flv": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780545644-0-0-bfa720081631bf97f23d1a02e64669ec",
-      "m3u8": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780545644-0-0-b8c30ec31721a11a2075ed37443f2424",
-      "hd_m3u8": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780545644-0-0-2a2066eed33e8bddbb96e2c3185be3d1"
+      "flv": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780585639-0-0-919ae62ebcc00fcdd984d33b19636ea7",
+      "hd_flv": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780585639-0-0-6ee2b1d6a50443d86053ee0fc8415462",
+      "m3u8": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780585639-0-0-7af1f34b2f37009bc4b924246ff88533",
+      "hd_m3u8": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780585639-0-0-973675e64b720647d58107e227fc3af6"
     }
   },
   {
@@ -446,12 +30,38 @@
     "streamer": "A BỆU",
     "match": "Timor Leste U19 vs Indonesia U19",
     "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780520192-0-0-82fd7ed8c5622614a25fb9b4de4a355e",
+    "best_url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780585639-0-0-7dd936aca2c771fa76b4da58883fedfb",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780520192-0-0-0215db1cf113c7170d78fcf57b54eefd",
-      "hd_flv": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780520192-0-0-5ab2c87e01ae1d2809d386e36e900db7",
-      "m3u8": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780520192-0-0-f3c4deea5eb3ffd05aea68d353f14dc1",
-      "hd_m3u8": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780520192-0-0-82fd7ed8c5622614a25fb9b4de4a355e"
+      "flv": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780585639-0-0-d67d4adeaf446a7853ee7d269ec6b042",
+      "hd_flv": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780585639-0-0-e689038a223cb1fd6483192d0fcfccd6",
+      "m3u8": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780585639-0-0-a7a5e919aa574b414ae9baa7b84a626a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780585639-0-0-7dd936aca2c771fa76b4da58883fedfb"
+    }
+  },
+  {
+    "room_id": "327159",
+    "streamer": "BLV COCA",
+    "match": "Timor Leste U19 vs Indonesia U19",
+    "category": "AFF U19",
+    "best_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780585639-0-0-b4807343ba2e07fca07a5531f445d0dc",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780585639-0-0-0c5746ddd6a3a925834c7121e6adbf79",
+      "hd_flv": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780585639-0-0-6a19e812808528c66bbf2d754153850a",
+      "m3u8": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780585639-0-0-ce3c10f8a66e3af561c2c48d663ea9b3",
+      "hd_m3u8": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780585639-0-0-b4807343ba2e07fca07a5531f445d0dc"
+    }
+  },
+  {
+    "room_id": "534219",
+    "streamer": "BLV 7UP",
+    "match": "Timor Leste U19 vs Indonesia U19",
+    "category": "AFF U19",
+    "best_url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780585639-0-0-77885295c10135de1b73e1d1c2dcb7db",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780585639-0-0-5c1a74bc0dc46f9e2e6341389dddf416",
+      "hd_flv": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780585639-0-0-a7fdb6e721da3f96d9aea5bc797ff8cf",
+      "m3u8": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780585639-0-0-ca70403bc190e764f8d7ef5465f0c797",
+      "hd_m3u8": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780585639-0-0-77885295c10135de1b73e1d1c2dcb7db"
     }
   },
   {
@@ -459,12 +69,25 @@
     "streamer": "BLV RÔSI",
     "match": "Timor Leste U19 vs Indonesia U19",
     "category": "AFF U19",
-    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=520e094453a46192f1c8b5aa3f2c4a44&txTime=6a213228",
+    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=29093c7083b0d3a35c4b862367d32785&txTime=6a21daf7",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=195867d5806284f17fcc18d2729a99d8&txTime=6a213228",
-      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=520e094453a46192f1c8b5aa3f2c4a44&txTime=6a213228",
-      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=195867d5806284f17fcc18d2729a99d8&txTime=6a213228",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=520e094453a46192f1c8b5aa3f2c4a44&txTime=6a213228"
+      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=08b39bb7e6f0867752b8b575cfb36ec5&txTime=6a21daf7",
+      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=29093c7083b0d3a35c4b862367d32785&txTime=6a21daf7",
+      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=08b39bb7e6f0867752b8b575cfb36ec5&txTime=6a21daf7",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=29093c7083b0d3a35c4b862367d32785&txTime=6a21daf7"
+    }
+  },
+  {
+    "room_id": "462413",
+    "streamer": "SAO LA",
+    "match": "Timor Leste U19 vs Indonesia U19",
+    "category": "AFF U19",
+    "best_url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0f44158e433bda16131c273a98a395d8&txTime=6a21daf7",
+    "urls": {
+      "flv": "https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=e74d8a01832d104fb1849f38bc0fe2b0&txTime=6a21daf7",
+      "hd_flv": "https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=0f44158e433bda16131c273a98a395d8&txTime=6a21daf7",
+      "m3u8": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=e74d8a01832d104fb1849f38bc0fe2b0&txTime=6a21daf7",
+      "hd_m3u8": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0f44158e433bda16131c273a98a395d8&txTime=6a21daf7"
     }
   }
 ]

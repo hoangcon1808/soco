@@ -1,73 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV TOMMY)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f0bae282015e3d8ac36dfe10c2fdb769&txTime=6a21ac53
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=9962a3d7aa7ed54de14ac800998fa486&txTime=6a21ac53
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780573699-0-0-f12bcada96c02b31031e94db0566eebb
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d91d6b7c490170b9d242fa234e9e433c&txTime=6a21ac53
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780573699-0-0-d94e71da2210be743fc24bdb495ad16a
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780573699-0-0-4a9e52188e707fee799561607b7a0563
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780573699-0-0-c6e4f4cc1880fd1a924fdc49001863ab
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780573699-0-0-5420b69e173ae131c271c5c755ec2ae8
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780573699-0-0-944975e4dda9c2742dc0beba18dd92c1
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV COCA)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780573699-0-0-c1a89426478597ff3e20755c1f1c14e5
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV 7UP)
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780573699-0-0-98eaed03cc215e1927e8d65232199991
-#EXTINF:-1 group-title="AFF U19", Myanmar U19 vs Vietnam U19 (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780573699-0-0-bb7299890fbbf5710045b19dab845fee
-#EXTINF:-1 group-title="VIE D2", Van Hien University vs Khatoco Khanh Hoa (BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=18d8868b5e761ad80172fa19c7ec39a4&txTime=6a21ac53
-#EXTINF:-1 group-title="VIE D2", Van Hien University vs Khatoco Khanh Hoa (BLV GIÓ)
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780573699-0-0-780adee2aec5826a84f22b04c039a3bd
-#EXTINF:-1 group-title="VIE D2", Van Hien University vs Khatoco Khanh Hoa (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780573699-0-0-fc0ab413d3bb98ae5cf2e4997f93e4af
-#EXTINF:-1 group-title="VIE D2", Van Hien University vs Khatoco Khanh Hoa (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780573699-0-0-69375a9b0ce9369481c5b3ce367eb8d4
-#EXTINF:-1 group-title="MPBL", Cebu Greats vs Valenzuela City Darkhorse (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780573699-0-0-815b561f0bc281c1bdcbc95948e9b9fe
-#EXTINF:-1 group-title="MPBL", Cebu Greats vs Valenzuela City Darkhorse (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780573699-0-0-7125df8d9b2e0b9ef46800a7d6a5e360
-#EXTINF:-1 group-title="MPBL", Cebu Greats vs Valenzuela City Darkhorse (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780573699-0-0-34d4a53eaf44aa27c0e47001a79dfd5f
-#EXTINF:-1 group-title="INTERF", Maldives vs Pakistan (BLV PICK)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780573699-0-0-11c5f0d79df8f53b304f0f46a29ae811
-#EXTINF:-1 group-title="INTERF", Maldives vs Pakistan (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780573699-0-0-71c5ab5cae95233e4de1442bbdd6180c
-#EXTINF:-1 group-title="INTERF", Maldives vs Pakistan (BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=de0e58109813c19efa8020532698786a&txTime=6a21ac53
-#EXTINF:-1 group-title="INTERF", Maldives vs Pakistan (XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2c254c97332dc48175d59abd36100148&txTime=6a21ac53
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs France U17 (BLV CÁP)
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780402356-0-0-ec3af7ebe4c482ec08772537614e9671
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs France U17 (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780496708-0-0-1c0dd3ad592ad56ae52e100098dc0cd7
-#EXTINF:-1 group-title="UEFA U17", Belgium U17 vs France U17 (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780523078-0-0-1a97ca60620f7194bb7548c68be31194
-#EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BEN 10)
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780504253-0-0-985d8bf822bde93136f14f5bbac8a6cc
-#EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ccef064d0ced2ce5ba58dde40572c4fd&txTime=6a20b21c
-#EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV HÚP)
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780488144-0-0-64bb64b5ca53e1994a4660e7bee7a055
-#EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780503121-0-0-68f1cfca50d2c6f01c70b8da111b9556
-#EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV 24H)
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780509511-0-0-2abd2ab5c92bb538c53b2be28bfef76d
-#EXTINF:-1 group-title="INTERF", Cambodia vs Bhutan (BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780523636-0-0-bc9f0503412fef38d5e38c1a17258d3b
-#EXTINF:-1 group-title="MPBL", Pasay Voyagers vs Batang Kankaloo (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780567399-0-0-3100adfdb02751f0a39c2cc4118fe3a5
+#EXTINF:-1 group-title="VBA", Can Tho Catfish vs Hanoi Buffaloes (BLV HENRY)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780585639-0-0-937fa36c3750b7c687543435ec2a79ff
 #EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780545644-0-0-2a2066eed33e8bddbb96e2c3185be3d1
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780585639-0-0-973675e64b720647d58107e227fc3af6
 #EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780520192-0-0-82fd7ed8c5622614a25fb9b4de4a355e
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780585639-0-0-7dd936aca2c771fa76b4da58883fedfb
+#EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (BLV COCA)
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780585639-0-0-b4807343ba2e07fca07a5531f445d0dc
+#EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (BLV 7UP)
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780585639-0-0-77885295c10135de1b73e1d1c2dcb7db
 #EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=520e094453a46192f1c8b5aa3f2c4a44&txTime=6a213228
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=29093c7083b0d3a35c4b862367d32785&txTime=6a21daf7
+#EXTINF:-1 group-title="AFF U19", Timor Leste U19 vs Indonesia U19 (SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0f44158e433bda16131c273a98a395d8&txTime=6a21daf7
