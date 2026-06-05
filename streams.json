@@ -1,405 +1,15 @@
 [
   {
-    "room_id": "9912099",
-    "streamer": "KING",
-    "match": "Otago Nuggets vs Franklin Bulls",
-    "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780651819-0-0-ddb9ee78e2091ee00183e4302c92a150",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780651819-0-0-42c42a9eff6a65ba830ba921c1dfafa1",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780651819-0-0-dd35992970857a3d9116f343cfcf5d2b",
-      "m3u8": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780651819-0-0-1f9326cf2c82699ef23a55bcade4855a",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780651819-0-0-ddb9ee78e2091ee00183e4302c92a150"
-    }
-  },
-  {
-    "room_id": "558264",
-    "streamer": "HUNTER",
-    "match": "Otago Nuggets vs Franklin Bulls",
-    "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780651819-0-0-2581708a2b8b81500f35d5d79cde7afe",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780651819-0-0-cae3be6227090e3aa243220bbde57ceb",
-      "hd_flv": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780651819-0-0-94cd0728cf4caf58f7da33888c4b12bc",
-      "m3u8": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780651819-0-0-bdab3cd83063c9e8e7b1c75a39da092c",
-      "hd_m3u8": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780651819-0-0-2581708a2b8b81500f35d5d79cde7afe"
-    }
-  },
-  {
-    "room_id": "9912106",
-    "streamer": "BRIAN",
-    "match": "Otago Nuggets vs Franklin Bulls",
-    "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780651819-0-0-529fce3cf111e06c67019c7e9ba355bd",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780651819-0-0-b61762203a8938f8decf1ec81a39aacc",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780651819-0-0-e77d9354dafed59331cec0dbab76e71c",
-      "m3u8": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780651819-0-0-041e5407c56c9d3bc5d1ca17b6c83577",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780651819-0-0-529fce3cf111e06c67019c7e9ba355bd"
-    }
-  },
-  {
-    "room_id": "9912112",
-    "streamer": "BLV HENRY",
-    "match": "Otago Nuggets vs Franklin Bulls",
-    "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780651819-0-0-c7422b3acce528d7d96bc48ce07091f3",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780651819-0-0-bd7298ff78261a6cd14ce7f74175ca6d",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780651819-0-0-79e2b2363af0071c411ea911b3bffa78",
-      "m3u8": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780651819-0-0-7f1ae645f0e7181fbefbb3aaa245ae51",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780651819-0-0-c7422b3acce528d7d96bc48ce07091f3"
-    }
-  },
-  {
-    "room_id": "9912115",
-    "streamer": "CHAN SENA",
-    "match": "Otago Nuggets vs Franklin Bulls",
-    "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780651819-0-0-a01bfcb9ec8d9d2d3f7cf0bfdbfafc57",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780651819-0-0-30a93cc6198af7fe1c030d6469a46a71",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780651819-0-0-6cf5ad5a772d9b5491c792aa2b9723ea",
-      "m3u8": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780651819-0-0-65499e8f010b936ae364e75ae2102739",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780651819-0-0-a01bfcb9ec8d9d2d3f7cf0bfdbfafc57"
-    }
-  },
-  {
-    "room_id": "356042",
-    "streamer": "A CHÈ",
-    "match": "Otago Nuggets vs Franklin Bulls",
-    "category": "NZBL",
-    "best_url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780651819-0-0-a2a80ff79a141f3981f2f628ab260f98",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780651819-0-0-32662b65f01b98926844ce574db44daf",
-      "hd_flv": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780651819-0-0-af6caf601c3f12991262142319e119d1",
-      "m3u8": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780651819-0-0-6235e18f983f3571ef72678fe42aaecf",
-      "hd_m3u8": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780651819-0-0-a2a80ff79a141f3981f2f628ab260f98"
-    }
-  },
-  {
-    "room_id": "414317",
-    "streamer": "BLV TOMMY",
-    "match": "Brunei Darussalam U19 vs Malaysia U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=23b75e94274d803bbb98d177612f66f2&txTime=6a229e0a",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=d863a0e13c3e6fd1aef1efa213ef8958&txTime=6a229e0a",
-      "hd_flv": "https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=23b75e94274d803bbb98d177612f66f2&txTime=6a229e0a",
-      "m3u8": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=d863a0e13c3e6fd1aef1efa213ef8958&txTime=6a229e0a",
-      "hd_m3u8": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=23b75e94274d803bbb98d177612f66f2&txTime=6a229e0a"
-    }
-  },
-  {
-    "room_id": "9912015",
-    "streamer": "BLV PEWPEW",
-    "match": "Brunei Darussalam U19 vs Malaysia U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780651819-0-0-7e6e33edf22d0064b5acda38f89398cb",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780651819-0-0-3d93fa8ace8c1b7664291eb31d7cf385",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780651819-0-0-f00b690eecf5e74b07b82603157ddd72",
-      "m3u8": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780651819-0-0-167c6152ca1c0926594cb5a0b18bc2f0",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780651819-0-0-7e6e33edf22d0064b5acda38f89398cb"
-    }
-  },
-  {
-    "room_id": "9912060",
-    "streamer": "DECO",
-    "match": "Brunei Darussalam U19 vs Malaysia U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780635667-0-0-dc60a281bdc23808aa17ac48a8f2a1cc",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780635667-0-0-cf1e30fdb9b1ff7a7f19b2f5c78c750e",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780635667-0-0-dd88453b9086f5e5820d17eadaa277c3",
-      "m3u8": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780635667-0-0-d06f09f28f51ec00e699466c0e178497",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780635667-0-0-dc60a281bdc23808aa17ac48a8f2a1cc"
-    }
-  },
-  {
-    "room_id": "9912110",
-    "streamer": "BLV ĐỐM",
-    "match": "Brunei Darussalam U19 vs Malaysia U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780651819-0-0-ede9d7a185dd82a4e41eca1059ecc979",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780651819-0-0-6bedacdd3faf23c07472facd0d90b4ed",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780651819-0-0-a1089ea4ad548aa18fecde68156cd92b",
-      "m3u8": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780651819-0-0-b834c992982b968ec4c43b6bf8ace172",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780651819-0-0-ede9d7a185dd82a4e41eca1059ecc979"
-    }
-  },
-  {
-    "room_id": "327159",
-    "streamer": "BLV COCA",
-    "match": "Brunei Darussalam U19 vs Malaysia U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780635375-0-0-841670cee9166b3b8c221ea9cdabc637",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780635375-0-0-e89a2ae93b0badc708d8f8d39da6aa32",
-      "hd_flv": "https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780635375-0-0-f5ab242ee12f845c4eb8cfea73d23d48",
-      "m3u8": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780635375-0-0-59b6c6d29d1d4b8c95d1fdca9ed564ab",
-      "hd_m3u8": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780635375-0-0-841670cee9166b3b8c221ea9cdabc637"
-    }
-  },
-  {
-    "room_id": "9912108",
-    "streamer": "TẠ BIÊN GIỚI",
-    "match": "Brunei Darussalam U19 vs Malaysia U19",
-    "category": "AFF U19",
-    "best_url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780635865-0-0-a2b34180dabce581cee5836eceb6da0c",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780635865-0-0-17e0a377935477c454cd7e15058bfae4",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780635865-0-0-e43e87552a052784eac8e27ef43f0bc3",
-      "m3u8": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780635865-0-0-bb026f6645fe6fb840f45b33dfa8f5b7",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780635865-0-0-a2b34180dabce581cee5836eceb6da0c"
-    }
-  },
-  {
-    "room_id": "235232",
-    "streamer": "A PÁO",
-    "match": "Green Gully Cavaliers vs Avondale FC",
-    "category": "Aus VPL",
-    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780522743-0-0-052f4aba0f558fb3bd129fa09c574f0e",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780522743-0-0-23273c34378f480f799d86004e4b48d0",
-      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780522743-0-0-b0288926288f8418380b69b6285f085f",
-      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780522743-0-0-e303827889d495838fce61db456ae56b",
-      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780522743-0-0-052f4aba0f558fb3bd129fa09c574f0e"
-    }
-  },
-  {
-    "room_id": "9912122",
-    "streamer": "RICKHANTER",
-    "match": "Green Gully Cavaliers vs Avondale FC",
-    "category": "Aus VPL",
-    "best_url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b9242508fd61a0454fd78f72ccae4fc0&txTime=6a21af9b",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=f7e01301d3fefeef460b57b2063a45a8&txTime=6a21af9b",
-      "hd_flv": "https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b9242508fd61a0454fd78f72ccae4fc0&txTime=6a21af9b",
-      "m3u8": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=f7e01301d3fefeef460b57b2063a45a8&txTime=6a21af9b",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b9242508fd61a0454fd78f72ccae4fc0&txTime=6a21af9b"
-    }
-  },
-  {
-    "room_id": "485739",
-    "streamer": "BLV CHIVAS",
-    "match": "Sydney FC Youth vs Spirit FC",
-    "category": "AUS NSW",
-    "best_url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ce0578457dd6dc1b83dc5b92d330f58a&txTime=6a21ae58",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=ae25916e7d73e829a1e5f7e294a669f1&txTime=6a21ae58",
-      "hd_flv": "https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=ce0578457dd6dc1b83dc5b92d330f58a&txTime=6a21ae58",
-      "m3u8": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=ae25916e7d73e829a1e5f7e294a669f1&txTime=6a21ae58",
-      "hd_m3u8": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ce0578457dd6dc1b83dc5b92d330f58a&txTime=6a21ae58"
-    }
-  },
-  {
-    "room_id": "608899",
-    "streamer": "BLV NẤM",
-    "match": "Sydney FC Youth vs Spirit FC",
-    "category": "AUS NSW",
-    "best_url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780542105-0-0-95b1f83cd903278623626bc0717ec6d5",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780542105-0-0-44cdecb2d208b9bfc6061c348767038c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780542105-0-0-e24ce6344c537441ebda6a31eb7c44fa",
-      "m3u8": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780542105-0-0-72a47c4519217cd1144d2be303cb4335",
-      "hd_m3u8": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780542105-0-0-95b1f83cd903278623626bc0717ec6d5"
-    }
-  },
-  {
-    "room_id": "9912102",
-    "streamer": "BLV RÔSI",
-    "match": "Eastern Suburbs Brisbane vs Moreton City Excelsior FC",
-    "category": "AUS NPLQ",
-    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=9b0984454eace0a428589d99e5ff8dee&txTime=6a21ea70",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=d24a173c2f1eb912fc9650ff713695cb&txTime=6a21ea70",
-      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=9b0984454eace0a428589d99e5ff8dee&txTime=6a21ea70",
-      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=d24a173c2f1eb912fc9650ff713695cb&txTime=6a21ea70",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=9b0984454eace0a428589d99e5ff8dee&txTime=6a21ea70"
-    }
-  },
-  {
-    "room_id": "283501",
-    "streamer": "BLV KAN",
-    "match": "Eastern Suburbs Brisbane vs Moreton City Excelsior FC",
-    "category": "AUS NPLQ",
-    "best_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1c16527d924d1c5c1a43ae7c1facbee4&txTime=6a228172",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=be7faa52223e9816b56c4c092a6a56df&txTime=6a228172",
-      "hd_flv": "https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=1c16527d924d1c5c1a43ae7c1facbee4&txTime=6a228172",
-      "m3u8": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=be7faa52223e9816b56c4c092a6a56df&txTime=6a228172",
-      "hd_m3u8": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1c16527d924d1c5c1a43ae7c1facbee4&txTime=6a228172"
-    }
-  },
-  {
-    "room_id": "9912114",
-    "streamer": "BLV VOI",
-    "match": "Gold Coast Knights vs Brisbane Olympic United FC",
-    "category": "AUS NPLQ",
-    "best_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780584786-0-0-16e4b81e255804ed91c662f9659a65a0",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780584786-0-0-683184ae5f798f1d6437edf57f100ef6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780584786-0-0-3402aea1197872fc3a1fd058e007ed87",
-      "m3u8": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780584786-0-0-a1fb30f706e8999c3eef421be8f82ccd",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780584786-0-0-16e4b81e255804ed91c662f9659a65a0"
-    }
-  },
-  {
-    "room_id": "321443",
-    "streamer": "BLV GIÓ",
-    "match": "Gold Coast Knights vs Brisbane Olympic United FC",
-    "category": "AUS NPLQ",
-    "best_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780573991-0-0-e9b7fcbe501b5d2ab77a10eee56879f5",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1780573991-0-0-34567b64b37c83eac69d84136a0e7e2c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780573991-0-0-a11e8dda829fb90d19f2a0ab58bece1b",
-      "m3u8": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1780573991-0-0-ac61c35aa0e769a35501ff13afc83cd3",
-      "hd_m3u8": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780573991-0-0-e9b7fcbe501b5d2ab77a10eee56879f5"
-    }
-  },
-  {
-    "room_id": "372746",
-    "streamer": "BLV YONE",
-    "match": "Dandenong City SC vs Heidelberg United",
-    "category": "Aus VPL",
-    "best_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780628172-0-0-6ea9f2cd107b2be38d9509e99ddc1b8b",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780628172-0-0-200cf41fd76dd37c14c7173fe569311c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780628172-0-0-3f0f86b984267f3ca8316c6fcf040c41",
-      "m3u8": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780628172-0-0-06457abbfbdf7b9d1a5c0430b68846ae",
-      "hd_m3u8": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780628172-0-0-6ea9f2cd107b2be38d9509e99ddc1b8b"
-    }
-  },
-  {
-    "room_id": "557845",
-    "streamer": "BLV A TÚ",
-    "match": "Dandenong City SC vs Heidelberg United",
-    "category": "Aus VPL",
-    "best_url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780583220-0-0-f32f8026f80f3947fbaa819e1495753f",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780583220-0-0-4bcb27a9f3a9c986b9b42745ade12982",
-      "hd_flv": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780583220-0-0-44e4933a5645751b1b52d9f0aca2829c",
-      "m3u8": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780583220-0-0-091eb602f06ee12b2d3f669420cc8e58",
-      "hd_m3u8": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780583220-0-0-f32f8026f80f3947fbaa819e1495753f"
-    }
-  },
-  {
-    "room_id": "511367",
-    "streamer": "BLV WUKONG",
-    "match": "Cooks Hill United vs Belmont Swansea United SC",
-    "category": "AUS NNSW",
-    "best_url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780651195-0-0-552abba19f831711b9d0056dbffc60cd",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780651195-0-0-7f4cca5196ff098b6dfe0b24cacb1aec",
-      "hd_flv": "https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780651195-0-0-7bafa1fddaedfff6e68cd9115215a360",
-      "m3u8": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780651195-0-0-0753b02ab272ca9db17b7a96fcb8fd85",
-      "hd_m3u8": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780651195-0-0-552abba19f831711b9d0056dbffc60cd"
-    }
-  },
-  {
-    "room_id": "611178",
-    "streamer": "QUÂN JK",
-    "match": "Cooks Hill United vs Belmont Swansea United SC",
-    "category": "AUS NNSW",
-    "best_url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780523005-0-0-3df8669509b2cfd578339b8f0c6d015c",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1780523005-0-0-10cd473e3ddb8f68e3c9666ab2b66678",
-      "hd_flv": "https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1780523005-0-0-8ef611d3a1513182a9812adc3f2da376",
-      "m3u8": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780523005-0-0-537bcc1df0e7cba83566e4e9ef771068",
-      "hd_m3u8": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780523005-0-0-3df8669509b2cfd578339b8f0c6d015c"
-    }
-  },
-  {
-    "room_id": "527383",
-    "streamer": "BLV ROBBEN",
-    "match": "Kamatamare Sanuki vs AC Nagano Parceiro",
-    "category": "JPN D2",
-    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780599564-0-0-9b22756fa5c5176bbf4a5ec38216def1",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780599564-0-0-2c81deb4d40125c1b8bea8f20ac57dd0",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780599564-0-0-60b69c9ea04bb167821127efac8f9de9",
-      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780599564-0-0-1c41c97ed55b61f4414f91d2c7d57ca9",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780599564-0-0-9b22756fa5c5176bbf4a5ec38216def1"
-    }
-  },
-  {
-    "room_id": "9912008",
-    "streamer": "BLV TOMIA",
-    "match": "Kamatamare Sanuki vs AC Nagano Parceiro",
-    "category": "JPN D2",
-    "best_url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780544822-0-0-5cd277f8fe7b45b6d3aec94ff5563463",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780544822-0-0-7a2bdde9dc0b083de00d431a94e65ff6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780544822-0-0-0d6d40c2c14155924e5d94ff69700638",
-      "m3u8": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780544822-0-0-21b75bacaedd5c2bd32fc8b62667e87d",
-      "hd_m3u8": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780544822-0-0-5cd277f8fe7b45b6d3aec94ff5563463"
-    }
-  },
-  {
-    "room_id": "380460",
-    "streamer": "BLV ENZO",
-    "match": "Kamatamare Sanuki vs AC Nagano Parceiro",
-    "category": "JPN D2",
-    "best_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780603426-0-0-d64da0fb05e0ba416971b83c1fd00117",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780603426-0-0-4ef0c4492f09b484c80d1365adb0b4dc",
-      "hd_flv": "https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780603426-0-0-839bea674ec2bd6e5fefc55adcecb2ba",
-      "m3u8": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780603426-0-0-86296a81ebf2f8f1fa165e2ddcb4ba44",
-      "hd_m3u8": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780603426-0-0-d64da0fb05e0ba416971b83c1fd00117"
-    }
-  },
-  {
-    "room_id": "484845",
-    "streamer": "A BỆU",
-    "match": "Kamatamare Sanuki vs AC Nagano Parceiro",
-    "category": "JPN D2",
-    "best_url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780599928-0-0-c21772f2eda011994e9fe6f56ee2d22c",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780599928-0-0-1b4cbd965c7a741c51e3ae5ddfb4e3b3",
-      "hd_flv": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780599928-0-0-071bc97258ff3f1d9ee269b2ddb98f6c",
-      "m3u8": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780599928-0-0-cae224ea16d7d3e17ee71ff9ca3c9263",
-      "hd_m3u8": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780599928-0-0-c21772f2eda011994e9fe6f56ee2d22c"
-    }
-  },
-  {
-    "room_id": "612098",
-    "streamer": "BEN 10",
-    "match": "Adelaide City FC vs Sturt Lions",
-    "category": "FFSA SL",
-    "best_url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780584554-0-0-15af032cdfddc67603f31366df66266e",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1780584554-0-0-173a5fd056ea938d417a55263a93dda2",
-      "hd_flv": "https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780584554-0-0-2f3a5f53df573579140f63006e20f059",
-      "m3u8": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780584554-0-0-9d343adb4bcf548f2283c033f4a275d8",
-      "hd_m3u8": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780584554-0-0-15af032cdfddc67603f31366df66266e"
-    }
-  },
-  {
-    "room_id": "445260",
-    "streamer": "BLV GÔN",
-    "match": "Adelaide City FC vs Sturt Lions",
-    "category": "FFSA SL",
-    "best_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=863ab937be7072b2b2ae271c2140199e&txTime=6a21d75d",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=99997258fc19fa18efc75cee55d194a4&txTime=6a21d75d",
-      "hd_flv": "https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=863ab937be7072b2b2ae271c2140199e&txTime=6a21d75d",
-      "m3u8": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=99997258fc19fa18efc75cee55d194a4&txTime=6a21d75d",
-      "hd_m3u8": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=863ab937be7072b2b2ae271c2140199e&txTime=6a21d75d"
-    }
-  },
-  {
     "room_id": "598549",
     "streamer": "BLV PICK",
     "match": "Oakleigh Cannons vs St Albans Saints",
     "category": "Aus VPL",
-    "best_url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780581259-0-0-29490e9a2d3b63c8f593b7385876f733",
+    "best_url": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780665019-0-0-5204e9210beecab4915ef202a5083744",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780581259-0-0-bcdb664d33a4d39ac634543cffec68b9",
-      "hd_flv": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780581259-0-0-5f85d654398937dd6e30648554bfe65d",
-      "m3u8": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780581259-0-0-aaf49516825894e6cf190639ebe628b4",
-      "hd_m3u8": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780581259-0-0-29490e9a2d3b63c8f593b7385876f733"
+      "flv": "https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780665019-0-0-621163916fbc3d28d0b89a2b7d05b930",
+      "hd_flv": "https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780665019-0-0-6240426df8e75315066214553ac4a3bc",
+      "m3u8": "https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780665019-0-0-ddd7c49d77edd25e8b789cd77876a7e6",
+      "hd_m3u8": "https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780665019-0-0-5204e9210beecab4915ef202a5083744"
     }
   },
   {
@@ -407,12 +17,12 @@
     "streamer": "BLV CÁO",
     "match": "Oakleigh Cannons vs St Albans Saints",
     "category": "Aus VPL",
-    "best_url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780603904-0-0-c6b9fea6e216c179261f49a5f160871a",
+    "best_url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780665087-0-0-a7203c18854d118ab4c67594edfbe4f9",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780603904-0-0-ef49202cfcfb5f1ce29e43286f0aedad",
-      "hd_flv": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780603904-0-0-7399c4a39b3c13d9156fb1c4817b81c7",
-      "m3u8": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780603904-0-0-3573a3c11ace1feeb42ae6dabdcf1092",
-      "hd_m3u8": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780603904-0-0-c6b9fea6e216c179261f49a5f160871a"
+      "flv": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780665087-0-0-49ecf8e73816fe335082144c5a92b489",
+      "hd_flv": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780665087-0-0-b5518fd3dee85f74b3d5d9f6774fec6d",
+      "m3u8": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780665087-0-0-08a9e61c07c8e170f9afd1498a459fa6",
+      "hd_m3u8": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780665087-0-0-a7203c18854d118ab4c67594edfbe4f9"
     }
   },
   {
@@ -420,12 +30,12 @@
     "streamer": "BLV MESSI",
     "match": "Busan I Park vs Chungnam Asan",
     "category": "KOR D2",
-    "best_url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780611075-0-0-97fbff8085d5c837624da193fd5b56db",
+    "best_url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780665139-0-0-bbf0f33fd2c4d08fd04ec2567343cb31",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780611075-0-0-03f7b681f2e7033810611f1ab4bcfdbd",
-      "hd_flv": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780611075-0-0-49e7b2d0f92fdc9777f1b01ac51605e3",
-      "m3u8": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780611075-0-0-a0dc53bc97714a938015b9c62bac560e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780611075-0-0-97fbff8085d5c837624da193fd5b56db"
+      "flv": "https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780665139-0-0-75c98a20eeda315803da95e4f37d33f9",
+      "hd_flv": "https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780665139-0-0-913763bed33ef8894f31725a5e332c5e",
+      "m3u8": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780665139-0-0-8bc0be209a5302e1ef27b54421a51d6c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780665139-0-0-bbf0f33fd2c4d08fd04ec2567343cb31"
     }
   },
   {
@@ -433,12 +43,12 @@
     "streamer": "BLV LUCAS",
     "match": "Busan I Park vs Chungnam Asan",
     "category": "KOR D2",
-    "best_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780541977-0-0-22be7f5c6711e525bbbe55917a9e28b8",
+    "best_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780665139-0-0-2f9c1b2078c21827e36621fb3b87da1e",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780541977-0-0-cbe457199e828cd92c8663b9df42aa59",
-      "hd_flv": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780541977-0-0-2ba8e7f68ea2d91070a02029a9185e76",
-      "m3u8": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780541977-0-0-90db960a5f7c2d3022183871394aa2bd",
-      "hd_m3u8": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780541977-0-0-22be7f5c6711e525bbbe55917a9e28b8"
+      "flv": "https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780665139-0-0-d2a633c396cd3321ff0e0a442a0ccfb8",
+      "hd_flv": "https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780665139-0-0-2a3d821387e5e19d4a5787be21c88c2a",
+      "m3u8": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780665139-0-0-feca24c9493823bcfb229db590ec72d9",
+      "hd_m3u8": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780665139-0-0-2f9c1b2078c21827e36621fb3b87da1e"
     }
   },
   {
@@ -446,12 +56,12 @@
     "streamer": "BLV CUỘI",
     "match": "Daegu FC vs Paju Frontier FC",
     "category": "KOR D2",
-    "best_url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780629011-0-0-6db17c15a048e35d8d585826716115cc",
+    "best_url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780665139-0-0-f81578d03c963af2035c8c7a947820ea",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780629011-0-0-148a84bfd28e5b4f0b0d2e19bd4d563e",
-      "hd_flv": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780629011-0-0-673c1874ee97d3bbd6ccc214a7cdbaa5",
-      "m3u8": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780629011-0-0-6c2b705fa5190c4994b1e92d82c7a269",
-      "hd_m3u8": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780629011-0-0-6db17c15a048e35d8d585826716115cc"
+      "flv": "https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780665139-0-0-c826837809e6bd59d7883ccab336c9f1",
+      "hd_flv": "https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780665139-0-0-0fdaf419bc2d50afb020062a92da6dd8",
+      "m3u8": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780665139-0-0-48da7c51458ca388edaf962d9d1776bc",
+      "hd_m3u8": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780665139-0-0-f81578d03c963af2035c8c7a947820ea"
     }
   },
   {
@@ -459,12 +69,12 @@
     "streamer": "BLV AB",
     "match": "Daegu FC vs Paju Frontier FC",
     "category": "KOR D2",
-    "best_url": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780602573-0-0-a9b5277344fc8228a8bbedf069db7d6f",
+    "best_url": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780665140-0-0-8767deaa7c1d45ebb546a901f7fa1036",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780602573-0-0-1f6232ada9f8c31e67a48566f0e71c61",
-      "hd_flv": "https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780602573-0-0-e88c8a76e7b6c22a9da89979b040eaf0",
-      "m3u8": "https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780602573-0-0-1651371a7db62f1a57da394fda5e160b",
-      "hd_m3u8": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780602573-0-0-a9b5277344fc8228a8bbedf069db7d6f"
+      "flv": "https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780665140-0-0-db06efa32c837dba154504db884b12f7",
+      "hd_flv": "https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780665140-0-0-28c44df45313c393971989e4df93f2f1",
+      "m3u8": "https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780665140-0-0-885609850831f4ecad2c82b3325279fe",
+      "hd_m3u8": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780665140-0-0-8767deaa7c1d45ebb546a901f7fa1036"
     }
   },
   {
@@ -472,12 +82,12 @@
     "streamer": "BLV XO",
     "match": "Seongnam FC vs Gimhae City",
     "category": "KOR D2",
-    "best_url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780599495-0-0-a2b1476de3018d3aa36056e7e2e77b0e",
+    "best_url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780665139-0-0-6df9565599d62f14e0fe2c3c0afc3219",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780599495-0-0-46a863d7fce934fa95beaa2d320f88b0",
-      "hd_flv": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780599495-0-0-186b8a0b39b0e8025bec090c396046d7",
-      "m3u8": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780599495-0-0-a7597dabc310220fed6fdcf3aa2c0b58",
-      "hd_m3u8": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780599495-0-0-a2b1476de3018d3aa36056e7e2e77b0e"
+      "flv": "https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780665139-0-0-f5689cce0920362c8a45de942ba3bdbf",
+      "hd_flv": "https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780665139-0-0-cbf92c449db1a4771f7a3c5853acf797",
+      "m3u8": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780665139-0-0-f2deccfd068ae867bbea47c7bcd71fca",
+      "hd_m3u8": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780665139-0-0-6df9565599d62f14e0fe2c3c0afc3219"
     }
   },
   {
@@ -485,12 +95,12 @@
     "streamer": "BLV CÒ",
     "match": "Seongnam FC vs Gimhae City",
     "category": "KOR D2",
-    "best_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780599472-0-0-b66f20c1b724ff58f9647dd61ed9bd84",
+    "best_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780665139-0-0-cf961dc8892a090cab8f47e52cb69734",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780599472-0-0-aa4900d4cb63d9f554819aadf0bc2b14",
-      "hd_flv": "https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780599472-0-0-9bfbb311a4a241741564d956a92e8f67",
-      "m3u8": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780599472-0-0-3611081a6008ab87798d3455dc0743ea",
-      "hd_m3u8": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780599472-0-0-b66f20c1b724ff58f9647dd61ed9bd84"
+      "flv": "https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780665139-0-0-463262e64151e5307554522c56f01856",
+      "hd_flv": "https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780665139-0-0-456d860dd0938155054465a3f1fbfe88",
+      "m3u8": "https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780665139-0-0-d889b973025cae93ab5cfd954e6ea23b",
+      "hd_m3u8": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780665139-0-0-cf961dc8892a090cab8f47e52cb69734"
     }
   },
   {
@@ -498,12 +108,12 @@
     "streamer": "BLV RYO",
     "match": "Bentleigh greens vs Hume City",
     "category": "Aus VPL",
-    "best_url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780573940-0-0-1e95dbfcf686aa1173b19b979d9b5d4b",
+    "best_url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780665140-0-0-04e2a18742e4e6a2aa3241cb340f40e8",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780573940-0-0-5d03837e3c769047d6f6de920c8a4527",
-      "hd_flv": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780573940-0-0-4d26587c7e6289b189bebbba83246902",
-      "m3u8": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780573940-0-0-9dbdeeaa0b54255f71f6be80ff3bb50e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780573940-0-0-1e95dbfcf686aa1173b19b979d9b5d4b"
+      "flv": "https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780665140-0-0-f7471c2c70e31c612f7701602045cb7e",
+      "hd_flv": "https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780665140-0-0-668d8cab5bea2f7e5b6da5e27b951105",
+      "m3u8": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780665140-0-0-f45a795074e5f35c71537886c710df2a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780665140-0-0-04e2a18742e4e6a2aa3241cb340f40e8"
     }
   },
   {
@@ -511,38 +121,12 @@
     "streamer": "PINKMAN",
     "match": "Bentleigh greens vs Hume City",
     "category": "Aus VPL",
-    "best_url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=814a8f81dc8c5f46dd91061d040eaa4f&txTime=6a20e895",
+    "best_url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=b9f901ac8af8755bec92247bd568405c&txTime=6a231183",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=b3cb087cd855261ebdb858e80fb91438&txTime=6a20e895",
-      "hd_flv": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=814a8f81dc8c5f46dd91061d040eaa4f&txTime=6a20e895",
-      "m3u8": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=b3cb087cd855261ebdb858e80fb91438&txTime=6a20e895",
-      "hd_m3u8": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=814a8f81dc8c5f46dd91061d040eaa4f&txTime=6a20e895"
-    }
-  },
-  {
-    "room_id": "534055",
-    "streamer": "BLV RAMBO",
-    "match": "Preston Lions vs Melbourne City NPL",
-    "category": "Aus VPL",
-    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f5a4f135277ab6254d5879c34f670b3a&txTime=6a20dc22",
-    "urls": {
-      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=9ee52918dd563fb267725ddebba5a497&txTime=6a20dc22",
-      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=f5a4f135277ab6254d5879c34f670b3a&txTime=6a20dc22",
-      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=9ee52918dd563fb267725ddebba5a497&txTime=6a20dc22",
-      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f5a4f135277ab6254d5879c34f670b3a&txTime=6a20dc22"
-    }
-  },
-  {
-    "room_id": "611528",
-    "streamer": "CƠM CHÁY",
-    "match": "Preston Lions vs Melbourne City NPL",
-    "category": "Aus VPL",
-    "best_url": "https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780520390-0-0-4b196f7f3f2f35ab955b965cb34c1d21",
-    "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1780520390-0-0-58d4e8d2ad329bb1ac94fb53a93b9f09",
-      "hd_flv": "https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1780520390-0-0-c8ea5f0738efec6c0e11930f33e2ceef",
-      "m3u8": "https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780520390-0-0-5d32b0868366da719d3e3db3837efb3e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780520390-0-0-4b196f7f3f2f35ab955b965cb34c1d21"
+      "flv": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=b808ed0b5c6500d092753ffb43f962d9&txTime=6a231183",
+      "hd_flv": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=b9f901ac8af8755bec92247bd568405c&txTime=6a231183",
+      "m3u8": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=b808ed0b5c6500d092753ffb43f962d9&txTime=6a231183",
+      "hd_m3u8": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=b9f901ac8af8755bec92247bd568405c&txTime=6a231183"
     }
   },
   {
@@ -550,12 +134,12 @@
     "streamer": "XUÂN SON",
     "match": "West Torrens Birkalla vs Croydon Kings",
     "category": "FFSA SL",
-    "best_url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=662e3aaaed71bcc1b8bd1ff1ba6da26e&txTime=6a21caeb",
+    "best_url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=bb509cb9651527d5e677f92891638e67&txTime=6a231183",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=b4ebe13e410fd2bc01dd94b19d4ecbe4&txTime=6a21caeb",
-      "hd_flv": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=662e3aaaed71bcc1b8bd1ff1ba6da26e&txTime=6a21caeb",
-      "m3u8": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=b4ebe13e410fd2bc01dd94b19d4ecbe4&txTime=6a21caeb",
-      "hd_m3u8": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=662e3aaaed71bcc1b8bd1ff1ba6da26e&txTime=6a21caeb"
+      "flv": "https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=d46898f87d2b94403caff779b119073f&txTime=6a231183",
+      "hd_flv": "https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=bb509cb9651527d5e677f92891638e67&txTime=6a231183",
+      "m3u8": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=d46898f87d2b94403caff779b119073f&txTime=6a231183",
+      "hd_m3u8": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=bb509cb9651527d5e677f92891638e67&txTime=6a231183"
     }
   },
   {
@@ -563,12 +147,64 @@
     "streamer": "BLV A TINH",
     "match": "West Torrens Birkalla vs Croydon Kings",
     "category": "FFSA SL",
-    "best_url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=0e6f74daf5badc8608e904f619319ac1&txTime=6a20dbcd",
+    "best_url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=8967940e48b3811030c5053f44af2b5c&txTime=6a231183",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=97e18cc01950154ba31876e6ff26781f&txTime=6a20dbcd",
-      "hd_flv": "https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=0e6f74daf5badc8608e904f619319ac1&txTime=6a20dbcd",
-      "m3u8": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=97e18cc01950154ba31876e6ff26781f&txTime=6a20dbcd",
-      "hd_m3u8": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=0e6f74daf5badc8608e904f619319ac1&txTime=6a20dbcd"
+      "flv": "https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=bd6769b58e48e25af773493d62c5ff50&txTime=6a231183",
+      "hd_flv": "https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=8967940e48b3811030c5053f44af2b5c&txTime=6a231183",
+      "m3u8": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=bd6769b58e48e25af773493d62c5ff50&txTime=6a231183",
+      "hd_m3u8": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=8967940e48b3811030c5053f44af2b5c&txTime=6a231183"
+    }
+  },
+  {
+    "room_id": "527383",
+    "streamer": "BLV ROBBEN",
+    "match": "Kamatamare Sanuki vs AC Nagano Parceiro",
+    "category": "JPN D2",
+    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780665139-0-0-90ee5b05e4f6217ed9a7ed015f16c21b",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780665139-0-0-2419fb9e32320cdaf52b8aab307b6323",
+      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780665139-0-0-79e445d055ec39b9e547ce6b358ad9a2",
+      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780665139-0-0-576d7e985505c794d76711e7e53efea9",
+      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780665139-0-0-90ee5b05e4f6217ed9a7ed015f16c21b"
+    }
+  },
+  {
+    "room_id": "9912008",
+    "streamer": "BLV TOMIA",
+    "match": "Kamatamare Sanuki vs AC Nagano Parceiro",
+    "category": "JPN D2",
+    "best_url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780665139-0-0-8e6a2ac7d82869fa71adb30102ee4983",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780665139-0-0-b10db4d5622a6f6c209a35d944375fd2",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780665139-0-0-a5a25ee267df9490ce40f55793254b4f",
+      "m3u8": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780665139-0-0-0f86057da7acb2c06b8beaddd6386b52",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780665139-0-0-8e6a2ac7d82869fa71adb30102ee4983"
+    }
+  },
+  {
+    "room_id": "380460",
+    "streamer": "BLV ENZO",
+    "match": "Kamatamare Sanuki vs AC Nagano Parceiro",
+    "category": "JPN D2",
+    "best_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780665139-0-0-c93ab5a72dfdb428fbacc4cec32fe07a",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780665139-0-0-cc11fb773c9c80bd5062fd9e12969bff",
+      "hd_flv": "https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780665139-0-0-408937b43ffa3be0d9551cf9ab9c0fbc",
+      "m3u8": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780665139-0-0-5a00eb474b75be65b654af172b4bbcad",
+      "hd_m3u8": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780665139-0-0-c93ab5a72dfdb428fbacc4cec32fe07a"
+    }
+  },
+  {
+    "room_id": "484845",
+    "streamer": "A BỆU",
+    "match": "Kamatamare Sanuki vs AC Nagano Parceiro",
+    "category": "JPN D2",
+    "best_url": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780665139-0-0-afddb6c00d5c0dcfaa4fe4628ae7cf4f",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780665139-0-0-ea91ddd76df7d06607aa650b3ff41660",
+      "hd_flv": "https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780665139-0-0-c908c8095641973bc9e57cb0b8e0e21b",
+      "m3u8": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780665139-0-0-8a9cc663ad18e1da4b4447f87b2ce1ad",
+      "hd_m3u8": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780665139-0-0-afddb6c00d5c0dcfaa4fe4628ae7cf4f"
     }
   },
   {
@@ -576,12 +212,12 @@
     "streamer": "TRÀ ĐÁ",
     "match": "Bayswater City vs Dianella White Eagles",
     "category": "AUS FWP",
-    "best_url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780489510-0-0-1332bde77023ebe77d0df9fddf0bd1d4",
+    "best_url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780665140-0-0-760127ea52687488e60cd605732e3843",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780489510-0-0-fecaa0c1ced42396d0e23605e1c665b4",
-      "hd_flv": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780489510-0-0-2577b60f6b65ec1589d02d8f68037d52",
-      "m3u8": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780489510-0-0-b08165e6f357ed7b5980cb95b4b546d2",
-      "hd_m3u8": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780489510-0-0-1332bde77023ebe77d0df9fddf0bd1d4"
+      "flv": "https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780665140-0-0-ecdf8ef4602fd27e55c474f2ddf2a7d6",
+      "hd_flv": "https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780665140-0-0-2ec5ad2a1c2d4eb82e6493ba25c7f5b5",
+      "m3u8": "https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780665140-0-0-055bda2c5caf252a3928ab7ca839d1a8",
+      "hd_m3u8": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780665140-0-0-760127ea52687488e60cd605732e3843"
     }
   },
   {
@@ -589,12 +225,12 @@
     "streamer": "KÉP",
     "match": "Bayswater City vs Dianella White Eagles",
     "category": "AUS FWP",
-    "best_url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780516515-0-0-f1430a61c77c0d53a9a2386a892e1d0d",
+    "best_url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780665139-0-0-5d7488292a303ce212015087a566ffde",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780516515-0-0-6c4c6ac29cad656f662f59f88dd119a6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780516515-0-0-a433eacfae57c63d4efaf592fd6d87f5",
-      "m3u8": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780516515-0-0-650d48ccaca0a29e8d9a545cd32c4ee8",
-      "hd_m3u8": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780516515-0-0-f1430a61c77c0d53a9a2386a892e1d0d"
+      "flv": "https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780665139-0-0-6e1e05b89b21a16ce76515165353b464",
+      "hd_flv": "https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780665139-0-0-26dc4e0c811160695edee552befc2b6c",
+      "m3u8": "https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780665139-0-0-22a7ab1b2cc82f5ebba3cc718b175307",
+      "hd_m3u8": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780665139-0-0-5d7488292a303ce212015087a566ffde"
     }
   },
   {
@@ -602,12 +238,38 @@
     "streamer": "BLV CÁP",
     "match": "Perth SC vs Stirling Macedonia",
     "category": "AUS FWP",
-    "best_url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780583325-0-0-74c8e4f320b5318f4d73eedcceb901c7",
+    "best_url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780665140-0-0-6ef62de2a1022302d1bdc422fdd3761e",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780583325-0-0-be42c0442bbb1675cbd12ae8818f135a",
-      "hd_flv": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780583325-0-0-cb1efe8a9849d340966acf2f5d3efbdb",
-      "m3u8": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780583325-0-0-d3a100b72a5061bab0fb54f3ca2f6d2b",
-      "hd_m3u8": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780583325-0-0-74c8e4f320b5318f4d73eedcceb901c7"
+      "flv": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780665140-0-0-681e7a9a2ca6456f60cdfb14ba8d0c9e",
+      "hd_flv": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780665140-0-0-66904ad8fe35a67676c7ce7b6ad80464",
+      "m3u8": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780665140-0-0-d479afb8cb4a6eb24b95960e3ba34cef",
+      "hd_m3u8": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780665140-0-0-6ef62de2a1022302d1bdc422fdd3761e"
+    }
+  },
+  {
+    "room_id": "595335",
+    "streamer": "NGƯỜI CÁ",
+    "match": "Perth SC vs Stirling Macedonia",
+    "category": "AUS FWP",
+    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780665139-0-0-bb4abbb5f24a8ff4fa6ebd92d5dbc16b",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780665139-0-0-d25874f67690e1f09604b37efd4bb61b",
+      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780665139-0-0-516444684d82e4b2f173519f7f384d63",
+      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780665139-0-0-97463b8f8121ee48eaa5726705a49f7c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780665139-0-0-bb4abbb5f24a8ff4fa6ebd92d5dbc16b"
+    }
+  },
+  {
+    "room_id": "9912106",
+    "streamer": "BRIAN",
+    "match": "Taoyuan Pauian Pilots vs Fubon Braves",
+    "category": "TPL",
+    "best_url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780665139-0-0-de2b7d75c3af63b8e2a78e57395a9cdf",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780665139-0-0-f32b27d82f860e771ae3c9c7d1238c5c",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780665139-0-0-c69f08de12519d62c658b0325bc116b0",
+      "m3u8": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780665139-0-0-fecc5458a192a5e014a214d1d72ca4e7",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780665139-0-0-de2b7d75c3af63b8e2a78e57395a9cdf"
     }
   },
   {
@@ -615,12 +277,12 @@
     "streamer": "QUỐC KHÁNH",
     "match": "Lanzhou Longyuan Athletic vs Dalian Kewei",
     "category": "CHA D2",
-    "best_url": "https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780541957-0-0-10b8387851b7c62d4f6af37c26baafe6",
+    "best_url": "https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780665140-0-0-a58f228d28d91179a93344f68954b504",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1780541957-0-0-114edfa1295f6088f40294191cadf274",
-      "hd_flv": "https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1780541957-0-0-820e9eb0235b03052642bfc1073a7783",
-      "m3u8": "https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780541957-0-0-d086c4825b8f1fac9c0076ac274aac84",
-      "hd_m3u8": "https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780541957-0-0-10b8387851b7c62d4f6af37c26baafe6"
+      "flv": "https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1780665140-0-0-7188c395b0b6137de5b15e96ede8b342",
+      "hd_flv": "https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1780665140-0-0-5d6ff2d1fa1be079975e835305151a2a",
+      "m3u8": "https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780665140-0-0-498f215f2e3cb7253f27758391961afd",
+      "hd_m3u8": "https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780665140-0-0-a58f228d28d91179a93344f68954b504"
     }
   },
   {
@@ -628,12 +290,12 @@
     "streamer": "BLV VITAMIN",
     "match": "Lanzhou Longyuan Athletic vs Dalian Kewei",
     "category": "CHA D2",
-    "best_url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780516484-0-0-e99605a3e46cfb191af6213a515b6e4f",
+    "best_url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780665139-0-0-7f26300bc7a665b61e18f1b0c8a48c6c",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780516484-0-0-add0e3764fbb5d3b01d0890e896f05a3",
-      "hd_flv": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780516484-0-0-b18c055a4c1d383163d872348ac4ee39",
-      "m3u8": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780516484-0-0-122d924e3337de4e4d6bc2a8ed0f2abf",
-      "hd_m3u8": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780516484-0-0-e99605a3e46cfb191af6213a515b6e4f"
+      "flv": "https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780665139-0-0-512673480b5ee9ce4564e2e9d5ba3678",
+      "hd_flv": "https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780665139-0-0-937fce671629531ea15a346f92a785ea",
+      "m3u8": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780665139-0-0-b19ab8a8769b7441ecd5ce9fc1ae4ca6",
+      "hd_m3u8": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780665139-0-0-7f26300bc7a665b61e18f1b0c8a48c6c"
     }
   },
   {
@@ -641,12 +303,12 @@
     "streamer": "LOGAN",
     "match": "Singapore vs China",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780573975-0-0-084cb0624bbd97b898f4327373836b9e",
+    "best_url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780665139-0-0-9a375a0e28a256329626e4a0b54bace9",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780573975-0-0-c012e8b321c2da259e227f2f3cb797bd",
-      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780573975-0-0-e256be09c27e0fec64406644e6d31ecf",
-      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780573975-0-0-09dba0d67c05aa9be6fc55a4247ed08d",
-      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780573975-0-0-084cb0624bbd97b898f4327373836b9e"
+      "flv": "https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780665139-0-0-9fc04b7b4b9adafdd2d3e9ab29d2af90",
+      "hd_flv": "https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780665139-0-0-68f983089e2d9db7cbf36266016c4889",
+      "m3u8": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780665139-0-0-b6bf79e63a177a9092e8a8a30bd5ae0e",
+      "hd_m3u8": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780665139-0-0-9a375a0e28a256329626e4a0b54bace9"
     }
   },
   {
@@ -654,12 +316,12 @@
     "streamer": "LÃO LÂM",
     "match": "Singapore vs China",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780603294-0-0-7fde3846c5ad3bcfbac190c2029adce7",
+    "best_url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780665199-0-0-7b5dac921ea42e5789f809920cef0124",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780603294-0-0-ac2ead1352c97e7b0bace3be7e73bda3",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780603294-0-0-066d596bcf3d6bb20af2969ce7a631b6",
-      "m3u8": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780603294-0-0-c598a78bd900777689a0ab5ac1c374bf",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780603294-0-0-7fde3846c5ad3bcfbac190c2029adce7"
+      "flv": "https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780665199-0-0-2fb80ff9c3bdccab3b8adb8ab3a7fd0b",
+      "hd_flv": "https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780665199-0-0-88063527f305ea1b50e9f82ac7350f7e",
+      "m3u8": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780665199-0-0-6b35bf62ccacdfd8b05914282f663850",
+      "hd_m3u8": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780665199-0-0-7b5dac921ea42e5789f809920cef0124"
     }
   },
   {
@@ -667,25 +329,64 @@
     "streamer": "BLV BÉO",
     "match": "Singapore vs China",
     "category": "INTERF",
-    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=363eaa79ca88a3eb2cdb20b7923728f5&txTime=6a20da92",
+    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=982b35a824b5e3fb57f1bdb213e0cca7&txTime=6a2311bf",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=7868462eb2b75fdf8bf033034fb4e125&txTime=6a20da92",
-      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=363eaa79ca88a3eb2cdb20b7923728f5&txTime=6a20da92",
-      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=7868462eb2b75fdf8bf033034fb4e125&txTime=6a20da92",
-      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=363eaa79ca88a3eb2cdb20b7923728f5&txTime=6a20da92"
+      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=892b8343f9f49e679d9b297bdcf8fd82&txTime=6a2311bf",
+      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=982b35a824b5e3fb57f1bdb213e0cca7&txTime=6a2311bf",
+      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=892b8343f9f49e679d9b297bdcf8fd82&txTime=6a2311bf",
+      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=982b35a824b5e3fb57f1bdb213e0cca7&txTime=6a2311bf"
     }
   },
   {
-    "room_id": "991140",
-    "streamer": "BLV FIREMAN",
-    "match": "Hong Kong vs Mongolia",
+    "room_id": "9912108",
+    "streamer": "TẠ BIÊN GIỚI",
+    "match": "Singapore vs China",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780611214-0-0-97a24af5f1be73270dfa8dca7b782ba1",
+    "best_url": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780665199-0-0-0e19a27e0c39a26bac787644f2f4cc85",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780611214-0-0-fc99b6b61092aa8e20024e051035f1a7",
-      "hd_flv": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780611214-0-0-d3e10e9f461f10b67ba12b218e348ff4",
-      "m3u8": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780611214-0-0-1bbd36edbd1e0d9bd47db52a966eded9",
-      "hd_m3u8": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780611214-0-0-97a24af5f1be73270dfa8dca7b782ba1"
+      "flv": "https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780665199-0-0-d760edc4e4b99681830ef1149edd9b5d",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780665199-0-0-9a39afce3fffe065c9c32e91bc05a0ce",
+      "m3u8": "https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780665199-0-0-07d2f0003b333045a5b78679fd4c15b4",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780665199-0-0-0e19a27e0c39a26bac787644f2f4cc85"
+    }
+  },
+  {
+    "room_id": "414317",
+    "streamer": "BLV TOMMY",
+    "match": "Singapore vs China",
+    "category": "INTERF",
+    "best_url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=bbad45c1ced00b01eba815841ddc4168&txTime=6a2311bf",
+    "urls": {
+      "flv": "https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=ff18345dafc124085516b910c37b3bf8&txTime=6a2311bf",
+      "hd_flv": "https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=bbad45c1ced00b01eba815841ddc4168&txTime=6a2311bf",
+      "m3u8": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=ff18345dafc124085516b910c37b3bf8&txTime=6a2311bf",
+      "hd_m3u8": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=bbad45c1ced00b01eba815841ddc4168&txTime=6a2311bf"
+    }
+  },
+  {
+    "room_id": "9912112",
+    "streamer": "BLV HENRY",
+    "match": "Shanghai vs Zhejiang Guangsha",
+    "category": "CBA",
+    "best_url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780665199-0-0-6a1c52ad7f735c5ef3f533ead76d0ac0",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780665199-0-0-76f74a90e39fbf7063b19d05d0b12268",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780665199-0-0-5221127d80a6326243228d6a02972886",
+      "m3u8": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780665199-0-0-f4b8dbf712ad0ecc1699267fec15e5d4",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780665199-0-0-6a1c52ad7f735c5ef3f533ead76d0ac0"
+    }
+  },
+  {
+    "room_id": "9912115",
+    "streamer": "CHAN SENA",
+    "match": "Shanghai vs Zhejiang Guangsha",
+    "category": "CBA",
+    "best_url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780665199-0-0-8c3b8f6c346d353ccf2bc18b65a7a2ec",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780665199-0-0-dba0466cc2ba23c2f889641add20b9aa",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780665199-0-0-c59e7cb1ce9d6710ad71fa9b8a7db5cf",
+      "m3u8": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780665199-0-0-34c0ce8c2f5e4a34bf2c806ad2459e77",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780665199-0-0-8c3b8f6c346d353ccf2bc18b65a7a2ec"
     }
   },
   {
@@ -693,12 +394,12 @@
     "streamer": "HÀ DUY KIÊN",
     "match": "Hong Kong vs Mongolia",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780542029-0-0-8d95641b64a6db59299eed43ca3996c8",
+    "best_url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780665200-0-0-9121c2c5a7f96bc40d3eb2022dfeb2c5",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780542029-0-0-77cf4c81c9b5e3be1a16ae4d9ade648e",
-      "hd_flv": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780542029-0-0-430541175a5fbc6c43709208c5922a48",
-      "m3u8": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780542029-0-0-8eb257d4de31a8cf968b6ddd58d8c1d0",
-      "hd_m3u8": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780542029-0-0-8d95641b64a6db59299eed43ca3996c8"
+      "flv": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780665200-0-0-ceaa9dee8ed7d10d3174289a7d57b075",
+      "hd_flv": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780665200-0-0-9a3441b53b86a4994da892fa8367c6b2",
+      "m3u8": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780665200-0-0-320b7e2b05fcb9525db1d4aa82d6eda8",
+      "hd_m3u8": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780665200-0-0-9121c2c5a7f96bc40d3eb2022dfeb2c5"
     }
   },
   {
@@ -706,12 +407,12 @@
     "streamer": "BLV ANH TÀI",
     "match": "Hong Kong vs Mongolia",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780516502-0-0-f0fa9315c7b0adcb8c2fa383bb8377e2",
+    "best_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780665199-0-0-a442ffde4ae045b532f1b7987663dffa",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780516502-0-0-07321524993d1be28b5674054d9d4402",
-      "hd_flv": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780516502-0-0-e6ceba7e4b24bac74ed4ee1c34883955",
-      "m3u8": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780516502-0-0-e4db31f758b46ead9be6368a4fd92b71",
-      "hd_m3u8": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780516502-0-0-f0fa9315c7b0adcb8c2fa383bb8377e2"
+      "flv": "https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780665199-0-0-02dcec0428226460b7e775c2a39c3f2e",
+      "hd_flv": "https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780665199-0-0-4da259509987d85e926015c9b7f968f0",
+      "m3u8": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780665199-0-0-5071337be6351aba2f1f74389933423e",
+      "hd_m3u8": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780665199-0-0-a442ffde4ae045b532f1b7987663dffa"
     }
   },
   {
@@ -719,12 +420,38 @@
     "streamer": "BLV HÚP",
     "match": "Hong Kong vs Mongolia",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780584589-0-0-1018000147d94f88f31f32d3ab7c72ef",
+    "best_url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780665200-0-0-54fafa06e7635927aee248417efdd61c",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780584589-0-0-eb230b88a06450d086184100c3fec09c",
-      "hd_flv": "https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780584589-0-0-92232bc8c1617f46a6c135ef0900f98e",
-      "m3u8": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780584589-0-0-d7428e24add5d9b1781be6f77d68397e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780584589-0-0-1018000147d94f88f31f32d3ab7c72ef"
+      "flv": "https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780665200-0-0-ef362342b603a936b59b53380dabe09f",
+      "hd_flv": "https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780665200-0-0-8d8afbc0868cf8e5887f78846bb0a9a5",
+      "m3u8": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780665200-0-0-b87d938a2e3c9375b541c134d9dd0838",
+      "hd_m3u8": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780665200-0-0-54fafa06e7635927aee248417efdd61c"
+    }
+  },
+  {
+    "room_id": "9912099",
+    "streamer": "KING",
+    "match": "Bataan Risers vs Basilan Steel",
+    "category": "MPBL",
+    "best_url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780665199-0-0-bc501ae1249eada6d23d52e9a63c474d",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780665199-0-0-e08205b07c06d29df3eaf74c00d2bfd4",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780665199-0-0-72341fc641cfe7e56a52bfdae807952f",
+      "m3u8": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780665199-0-0-3d76b2e8450434b57472a518e7e4f0c7",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780665199-0-0-bc501ae1249eada6d23d52e9a63c474d"
+    }
+  },
+  {
+    "room_id": "558264",
+    "streamer": "HUNTER",
+    "match": "Bataan Risers vs Basilan Steel",
+    "category": "MPBL",
+    "best_url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780665199-0-0-2522c98d6d4be9133c05a1aeb19936c2",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780665199-0-0-a3294f579545bded11ac59b9fe85d9dc",
+      "hd_flv": "https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780665199-0-0-3d879b46ff2170e2f81716dcae717742",
+      "m3u8": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780665199-0-0-68142e72ce8ac83ebad4efd3c870c3a6",
+      "hd_m3u8": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780665199-0-0-2522c98d6d4be9133c05a1aeb19936c2"
     }
   },
   {
@@ -732,12 +459,12 @@
     "streamer": "CÔNG CHẤT",
     "match": "Thailand vs Kuwait",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780610553-0-0-811495fafc90be93700fc785f50f1f90",
+    "best_url": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780665199-0-0-887a260c996cdf2e43b55f52b27481d2",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780610553-0-0-09a1e5edd683d2a929c45eb12a68c2f7",
-      "hd_flv": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780610553-0-0-afa798dd254165671fd0480d86882a22",
-      "m3u8": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780610553-0-0-6a3c43050b4949b428bc705a924af00c",
-      "hd_m3u8": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780610553-0-0-811495fafc90be93700fc785f50f1f90"
+      "flv": "https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780665199-0-0-d5af2b7f721604962ebfca15a99489be",
+      "hd_flv": "https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780665199-0-0-28aa858dd0d9a98167be00cf6e6e1e6c",
+      "m3u8": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780665199-0-0-7323a1b55ffbec4d07ed2b6fe97e3f18",
+      "hd_m3u8": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780665199-0-0-887a260c996cdf2e43b55f52b27481d2"
     }
   },
   {
@@ -745,25 +472,77 @@
     "streamer": "BLV 7UP",
     "match": "Thailand vs Kuwait",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780628379-0-0-6a74df5dfac7ddda0efb5a06a48c9fbe",
+    "best_url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780665199-0-0-ff212415cc3f7e5138dbbaa209fd0cb8",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780628379-0-0-43e24d93ef40b1dc8acb70ac57dfce4b",
-      "hd_flv": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780628379-0-0-ced36ee3601e7df2dd88a715906d6fdf",
-      "m3u8": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780628379-0-0-48e558651d37e7fda2969db80f388159",
-      "hd_m3u8": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780628379-0-0-6a74df5dfac7ddda0efb5a06a48c9fbe"
+      "flv": "https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780665199-0-0-078ea1f30b155ba288acd361ae1a1fc6",
+      "hd_flv": "https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780665199-0-0-cd417e52047b70bf7798ac75af472d7f",
+      "m3u8": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780665199-0-0-ba00daca54f2de43f460c9b2475fd157",
+      "hd_m3u8": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780665199-0-0-ff212415cc3f7e5138dbbaa209fd0cb8"
     }
   },
   {
-    "room_id": "531989",
-    "streamer": "BLV COZY",
-    "match": "Indonesia vs Oman",
+    "room_id": "611178",
+    "streamer": "QUÂN JK",
+    "match": "Thailand vs Kuwait",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780610285-0-0-c8dff8dee62d1a4d4f999d376a78f7bc",
+    "best_url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780665200-0-0-01d3b5343b4e9ac16455320d35d1a9a6",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780610285-0-0-0ecdc74bb925b875b4dda4cc740cab3b",
-      "hd_flv": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780610285-0-0-be3da7a41c07fa9920131e44451da14c",
-      "m3u8": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780610285-0-0-56a853804a97187ec7f138016a2d405d",
-      "hd_m3u8": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780610285-0-0-c8dff8dee62d1a4d4f999d376a78f7bc"
+      "flv": "https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1780665200-0-0-2698a7b478d0d5d26a556f98fdc0ea33",
+      "hd_flv": "https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1780665200-0-0-0287f9f300e4f16a589bef82ed818c2b",
+      "m3u8": "https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780665200-0-0-dac36d0a5da418454f6097affd81892b",
+      "hd_m3u8": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780665200-0-0-01d3b5343b4e9ac16455320d35d1a9a6"
+    }
+  },
+  {
+    "room_id": "534055",
+    "streamer": "BLV RAMBO",
+    "match": "Thailand vs Kuwait",
+    "category": "INTERF",
+    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=467561d69c0d286f595ca4b5da1b096c&txTime=6a2311bf",
+    "urls": {
+      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=1db26192514f9034f1079cc1144c544f&txTime=6a2311bf",
+      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=467561d69c0d286f595ca4b5da1b096c&txTime=6a2311bf",
+      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=1db26192514f9034f1079cc1144c544f&txTime=6a2311bf",
+      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=467561d69c0d286f595ca4b5da1b096c&txTime=6a2311bf"
+    }
+  },
+  {
+    "room_id": "485739",
+    "streamer": "BLV CHIVAS",
+    "match": "FK Oleksandria vs FC Livyi Bereh",
+    "category": "UKR D1",
+    "best_url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=117d6e14cb0d563c4db854ea40361e3c&txTime=6a2311bf",
+    "urls": {
+      "flv": "https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=f07934e2efcf8fc5a7081878992e0db1&txTime=6a2311bf",
+      "hd_flv": "https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=117d6e14cb0d563c4db854ea40361e3c&txTime=6a2311bf",
+      "m3u8": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f07934e2efcf8fc5a7081878992e0db1&txTime=6a2311bf",
+      "hd_m3u8": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=117d6e14cb0d563c4db854ea40361e3c&txTime=6a2311bf"
+    }
+  },
+  {
+    "room_id": "321443",
+    "streamer": "BLV GIÓ",
+    "match": "FK Oleksandria vs FC Livyi Bereh",
+    "category": "UKR D1",
+    "best_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780665199-0-0-d924c229db17393c0ffd9b70df2885ad",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1780665199-0-0-44c16d91374ab829aca7a5e1a7f3d2ff",
+      "hd_flv": "https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780665199-0-0-cc730a855a493dacfc92851fd9105470",
+      "m3u8": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1780665199-0-0-c639fad6072a5d655d4ca6bc02c3f5df",
+      "hd_m3u8": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780665199-0-0-d924c229db17393c0ffd9b70df2885ad"
+    }
+  },
+  {
+    "room_id": "356042",
+    "streamer": "A CHÈ",
+    "match": "Da Nang Dragons vs Saigon Heat",
+    "category": "VBA",
+    "best_url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780665205-0-0-6c8f0a96d3809980fe6655e40f6d4ed8",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780665205-0-0-482352f9a5d6bdd17e73352491129426",
+      "hd_flv": "https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780665205-0-0-e898098b31722af19b5def33ee7e9d77",
+      "m3u8": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780665205-0-0-066ca455a06d41f55f8abb7f5dee844c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780665205-0-0-6c8f0a96d3809980fe6655e40f6d4ed8"
     }
   },
   {
@@ -780,6 +559,19 @@
     }
   },
   {
+    "room_id": "9912102",
+    "streamer": "BLV RÔSI",
+    "match": "Indonesia vs Oman",
+    "category": "INTERF",
+    "best_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ffa6d1b683a9976690b44e7527d178c2&txTime=6a23076f",
+    "urls": {
+      "flv": "https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=642a9d254b06a2a07da79989f9c02bc7&txTime=6a23076f",
+      "hd_flv": "https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=ffa6d1b683a9976690b44e7527d178c2&txTime=6a23076f",
+      "m3u8": "https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=642a9d254b06a2a07da79989f9c02bc7&txTime=6a23076f",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ffa6d1b683a9976690b44e7527d178c2&txTime=6a23076f"
+    }
+  },
+  {
     "room_id": "462413",
     "streamer": "SAO LA",
     "match": "Indonesia vs Oman",
@@ -793,29 +585,55 @@
     }
   },
   {
+    "room_id": "235232",
+    "streamer": "A PÁO",
+    "match": "Indonesia vs Oman",
+    "category": "INTERF",
+    "best_url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780662628-0-0-48394e68794d7dba437a04924249739d",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780662628-0-0-7cb6f5f964228754a1cf728b7bd7b7d5",
+      "hd_flv": "https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780662628-0-0-692c32a5066966f02529ff0581a28986",
+      "m3u8": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780662628-0-0-20e6f1736cb6b6d3d444e655682f842a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780662628-0-0-48394e68794d7dba437a04924249739d"
+    }
+  },
+  {
+    "room_id": "612098",
+    "streamer": "BEN 10",
+    "match": "Colombia U19 vs China U19",
+    "category": "TOUT",
+    "best_url": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780664236-0-0-9a7132d2a1ac515b6bece3d5f155afdb",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1780664236-0-0-ab52438e5139f59d152d1ba0e75c5264",
+      "hd_flv": "https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780664236-0-0-6c85ccac5d13dc0443a78967d3796da1",
+      "m3u8": "https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780664236-0-0-36ca4d85a3a59769ac27246fea5ccfe2",
+      "hd_m3u8": "https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780664236-0-0-9a7132d2a1ac515b6bece3d5f155afdb"
+    }
+  },
+  {
     "room_id": "387694",
     "streamer": "CR Bưởi",
     "match": "Colombia U19 vs China U19",
     "category": "TOUT",
-    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780603479-0-0-ae6e38ff80dcf647f09a184de8cd8325",
+    "best_url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780665169-0-0-a7b3705b6d7563132e45bd95b6b794c4",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780603479-0-0-fcc389e3e7c9c331d29b3295ee86aaf6",
-      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780603479-0-0-cae9dfcb59bddc7e334b6ec2d62149eb",
-      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780603479-0-0-f9f05ae049886b237587239d04d3d9d0",
-      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780603479-0-0-ae6e38ff80dcf647f09a184de8cd8325"
+      "flv": "https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780665169-0-0-518728783ae9de7b107732b63458f374",
+      "hd_flv": "https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780665169-0-0-edf55519fe9b482cdc53b76b8d09071f",
+      "m3u8": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780665169-0-0-8e78d2a8a184d9db7e9b422a52809950",
+      "hd_m3u8": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780665169-0-0-a7b3705b6d7563132e45bd95b6b794c4"
     }
   },
   {
-    "room_id": "603255",
-    "streamer": "BLV LION",
+    "room_id": "557845",
+    "streamer": "BLV A TÚ",
     "match": "Colombia U19 vs China U19",
     "category": "TOUT",
-    "best_url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780583181-0-0-09e47a7e2dac582d8ceba69f71da3acb",
+    "best_url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780663146-0-0-ded4b6b95ce1402a081a023c961370ce",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780583181-0-0-8015573c52f3afc13eb3db1ca0cf1003",
-      "hd_flv": "https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780583181-0-0-1d52913037776a6accf46ea6ac01c086",
-      "m3u8": "https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780583181-0-0-b55ebc6f101700530f5f42815824f932",
-      "hd_m3u8": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780583181-0-0-09e47a7e2dac582d8ceba69f71da3acb"
+      "flv": "https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780663146-0-0-0490da1547b5909a82209a69e4aad0be",
+      "hd_flv": "https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780663146-0-0-44cf5882190f689480077d2cf111769a",
+      "m3u8": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780663146-0-0-669217cd8d2f23a1c5a79281313848f7",
+      "hd_m3u8": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780663146-0-0-ded4b6b95ce1402a081a023c961370ce"
     }
   },
   {
@@ -832,6 +650,32 @@
     }
   },
   {
+    "room_id": "9912015",
+    "streamer": "BLV PEWPEW",
+    "match": "Singapore U19 vs Thailand U19",
+    "category": "AFF U19",
+    "best_url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780657783-0-0-c51a0806121d4470e68cb00bbcdb5216",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780657783-0-0-1e1def43277256adb632600903eb86b3",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780657783-0-0-a34fb42b0fa708ccc215141f56a9c0c2",
+      "m3u8": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780657783-0-0-687312820d2b2e708704784eb466f47c",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780657783-0-0-c51a0806121d4470e68cb00bbcdb5216"
+    }
+  },
+  {
+    "room_id": "9912114",
+    "streamer": "BLV VOI",
+    "match": "Georgia Women vs Faroe Islands Women",
+    "category": "WWCPE",
+    "best_url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780662412-0-0-b8cdfe09265bec7b9a76227439bb6895",
+    "urls": {
+      "flv": "https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780662412-0-0-3ade4beebfdaefc83d29f09cb3ffe069",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780662412-0-0-56e1a11faa275e23fb2000656ec9cff4",
+      "m3u8": "https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780662412-0-0-6f09e4868e97988f7eed2377443dc5cd",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780662412-0-0-b8cdfe09265bec7b9a76227439bb6895"
+    }
+  },
+  {
     "room_id": "612928",
     "streamer": "BLV 24H",
     "match": "Georgia Women vs Faroe Islands Women",
@@ -845,16 +689,16 @@
     }
   },
   {
-    "room_id": "595335",
-    "streamer": "NGƯỜI CÁ",
-    "match": "Armenia Women vs Kazakhstan Women",
-    "category": "WWCPE",
-    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780610267-0-0-78f60931a31448202660b0145b3e986d",
+    "room_id": "991140",
+    "streamer": "BLV FIREMAN",
+    "match": "Tajikistan vs India",
+    "category": "INTERF",
+    "best_url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780611214-0-0-97a24af5f1be73270dfa8dca7b782ba1",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780610267-0-0-4f2176711f9b733938b421198a870e50",
-      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780610267-0-0-b6295ee56de2b8bd6a4e6c201e8b5e55",
-      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780610267-0-0-24d860e0af619a798401e704fcaa60af",
-      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780610267-0-0-78f60931a31448202660b0145b3e986d"
+      "flv": "https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780611214-0-0-fc99b6b61092aa8e20024e051035f1a7",
+      "hd_flv": "https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780611214-0-0-d3e10e9f461f10b67ba12b218e348ff4",
+      "m3u8": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780611214-0-0-1bbd36edbd1e0d9bd47db52a966eded9",
+      "hd_m3u8": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780611214-0-0-97a24af5f1be73270dfa8dca7b782ba1"
     }
   },
   {
