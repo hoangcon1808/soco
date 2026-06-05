@@ -1,113 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Aus VPL", Oakleigh Cannons vs St Albans Saints (BLV PICK)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780665019-0-0-5204e9210beecab4915ef202a5083744
-#EXTINF:-1 group-title="Aus VPL", Oakleigh Cannons vs St Albans Saints (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780665087-0-0-a7203c18854d118ab4c67594edfbe4f9
-#EXTINF:-1 group-title="KOR D2", Busan I Park vs Chungnam Asan (BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780665139-0-0-bbf0f33fd2c4d08fd04ec2567343cb31
-#EXTINF:-1 group-title="KOR D2", Busan I Park vs Chungnam Asan (BLV LUCAS)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780665139-0-0-2f9c1b2078c21827e36621fb3b87da1e
-#EXTINF:-1 group-title="KOR D2", Daegu FC vs Paju Frontier FC (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780665139-0-0-f81578d03c963af2035c8c7a947820ea
-#EXTINF:-1 group-title="KOR D2", Daegu FC vs Paju Frontier FC (BLV AB)
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780665140-0-0-8767deaa7c1d45ebb546a901f7fa1036
-#EXTINF:-1 group-title="KOR D2", Seongnam FC vs Gimhae City (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780665139-0-0-6df9565599d62f14e0fe2c3c0afc3219
-#EXTINF:-1 group-title="KOR D2", Seongnam FC vs Gimhae City (BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780665139-0-0-cf961dc8892a090cab8f47e52cb69734
-#EXTINF:-1 group-title="Aus VPL", Bentleigh greens vs Hume City (BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780665140-0-0-04e2a18742e4e6a2aa3241cb340f40e8
-#EXTINF:-1 group-title="Aus VPL", Bentleigh greens vs Hume City (PINKMAN)
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=b9f901ac8af8755bec92247bd568405c&txTime=6a231183
-#EXTINF:-1 group-title="FFSA SL", West Torrens Birkalla vs Croydon Kings (XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=bb509cb9651527d5e677f92891638e67&txTime=6a231183
-#EXTINF:-1 group-title="FFSA SL", West Torrens Birkalla vs Croydon Kings (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=8967940e48b3811030c5053f44af2b5c&txTime=6a231183
-#EXTINF:-1 group-title="JPN D2", Kamatamare Sanuki vs AC Nagano Parceiro (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780665139-0-0-90ee5b05e4f6217ed9a7ed015f16c21b
-#EXTINF:-1 group-title="JPN D2", Kamatamare Sanuki vs AC Nagano Parceiro (BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780665139-0-0-8e6a2ac7d82869fa71adb30102ee4983
-#EXTINF:-1 group-title="JPN D2", Kamatamare Sanuki vs AC Nagano Parceiro (BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780665139-0-0-c93ab5a72dfdb428fbacc4cec32fe07a
-#EXTINF:-1 group-title="JPN D2", Kamatamare Sanuki vs AC Nagano Parceiro (A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780665139-0-0-afddb6c00d5c0dcfaa4fe4628ae7cf4f
-#EXTINF:-1 group-title="AUS FWP", Bayswater City vs Dianella White Eagles (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780665140-0-0-760127ea52687488e60cd605732e3843
-#EXTINF:-1 group-title="AUS FWP", Bayswater City vs Dianella White Eagles (KÉP)
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780665139-0-0-5d7488292a303ce212015087a566ffde
-#EXTINF:-1 group-title="AUS FWP", Perth SC vs Stirling Macedonia (BLV CÁP)
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780665140-0-0-6ef62de2a1022302d1bdc422fdd3761e
-#EXTINF:-1 group-title="AUS FWP", Perth SC vs Stirling Macedonia (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780665139-0-0-bb4abbb5f24a8ff4fa6ebd92d5dbc16b
-#EXTINF:-1 group-title="TPL", Taoyuan Pauian Pilots vs Fubon Braves (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780665139-0-0-de2b7d75c3af63b8e2a78e57395a9cdf
-#EXTINF:-1 group-title="CHA D2", Lanzhou Longyuan Athletic vs Dalian Kewei (QUỐC KHÁNH)
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780665140-0-0-a58f228d28d91179a93344f68954b504
-#EXTINF:-1 group-title="CHA D2", Lanzhou Longyuan Athletic vs Dalian Kewei (BLV VITAMIN)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780665139-0-0-7f26300bc7a665b61e18f1b0c8a48c6c
-#EXTINF:-1 group-title="INTERF", Singapore vs China (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780665139-0-0-9a375a0e28a256329626e4a0b54bace9
-#EXTINF:-1 group-title="INTERF", Singapore vs China (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780665199-0-0-7b5dac921ea42e5789f809920cef0124
-#EXTINF:-1 group-title="INTERF", Singapore vs China (BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=982b35a824b5e3fb57f1bdb213e0cca7&txTime=6a2311bf
-#EXTINF:-1 group-title="INTERF", Singapore vs China (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780665199-0-0-0e19a27e0c39a26bac787644f2f4cc85
-#EXTINF:-1 group-title="INTERF", Singapore vs China (BLV TOMMY)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=bbad45c1ced00b01eba815841ddc4168&txTime=6a2311bf
-#EXTINF:-1 group-title="CBA", Shanghai vs Zhejiang Guangsha (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780665199-0-0-6a1c52ad7f735c5ef3f533ead76d0ac0
-#EXTINF:-1 group-title="CBA", Shanghai vs Zhejiang Guangsha (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780665199-0-0-8c3b8f6c346d353ccf2bc18b65a7a2ec
-#EXTINF:-1 group-title="INTERF", Hong Kong vs Mongolia (HÀ DUY KIÊN)
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780665200-0-0-9121c2c5a7f96bc40d3eb2022dfeb2c5
-#EXTINF:-1 group-title="INTERF", Hong Kong vs Mongolia (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780665199-0-0-a442ffde4ae045b532f1b7987663dffa
-#EXTINF:-1 group-title="INTERF", Hong Kong vs Mongolia (BLV HÚP)
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780665200-0-0-54fafa06e7635927aee248417efdd61c
-#EXTINF:-1 group-title="MPBL", Bataan Risers vs Basilan Steel (KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780665199-0-0-bc501ae1249eada6d23d52e9a63c474d
-#EXTINF:-1 group-title="MPBL", Bataan Risers vs Basilan Steel (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780665199-0-0-2522c98d6d4be9133c05a1aeb19936c2
-#EXTINF:-1 group-title="INTERF", Thailand vs Kuwait (CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780665199-0-0-887a260c996cdf2e43b55f52b27481d2
-#EXTINF:-1 group-title="INTERF", Thailand vs Kuwait (BLV 7UP)
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780665199-0-0-ff212415cc3f7e5138dbbaa209fd0cb8
-#EXTINF:-1 group-title="INTERF", Thailand vs Kuwait (QUÂN JK)
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780665200-0-0-01d3b5343b4e9ac16455320d35d1a9a6
-#EXTINF:-1 group-title="INTERF", Thailand vs Kuwait (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=467561d69c0d286f595ca4b5da1b096c&txTime=6a2311bf
-#EXTINF:-1 group-title="UKR D1", FK Oleksandria vs FC Livyi Bereh (BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=117d6e14cb0d563c4db854ea40361e3c&txTime=6a2311bf
-#EXTINF:-1 group-title="UKR D1", FK Oleksandria vs FC Livyi Bereh (BLV GIÓ)
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780665199-0-0-d924c229db17393c0ffd9b70df2885ad
-#EXTINF:-1 group-title="VBA", Da Nang Dragons vs Saigon Heat (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780665205-0-0-6c8f0a96d3809980fe6655e40f6d4ed8
-#EXTINF:-1 group-title="INTERF", Indonesia vs Oman (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780611519-0-0-db0ce88a8d936b64828f7e370c9a55bf
-#EXTINF:-1 group-title="INTERF", Indonesia vs Oman (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ffa6d1b683a9976690b44e7527d178c2&txTime=6a23076f
-#EXTINF:-1 group-title="INTERF", Indonesia vs Oman (SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=75a939fec2f6ce5f4a3c00d68619c778&txTime=6a229d72
-#EXTINF:-1 group-title="INTERF", Indonesia vs Oman (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780662628-0-0-48394e68794d7dba437a04924249739d
-#EXTINF:-1 group-title="TOUT", Colombia U19 vs China U19 (BEN 10)
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780664236-0-0-9a7132d2a1ac515b6bece3d5f155afdb
-#EXTINF:-1 group-title="TOUT", Colombia U19 vs China U19 (CR Bưởi)
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780665169-0-0-a7b3705b6d7563132e45bd95b6b794c4
-#EXTINF:-1 group-title="TOUT", Colombia U19 vs China U19 (BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780663146-0-0-ded4b6b95ce1402a081a023c961370ce
-#EXTINF:-1 group-title="AFF U19", Singapore U19 vs Thailand U19 (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=b906d21c69e67b061929dc6a431a91a0&txTime=6a223ac9
-#EXTINF:-1 group-title="AFF U19", Singapore U19 vs Thailand U19 (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780657783-0-0-c51a0806121d4470e68cb00bbcdb5216
-#EXTINF:-1 group-title="WWCPE", Georgia Women vs Faroe Islands Women (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780662412-0-0-b8cdfe09265bec7b9a76227439bb6895
-#EXTINF:-1 group-title="WWCPE", Georgia Women vs Faroe Islands Women (BLV 24H)
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780584578-0-0-af2f04ceab1c20d8761777ec0ad64979
+#EXTINF:-1 group-title="WWCPE", Slovakia Women vs Finland Women (BLV RYO)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780677319-0-0-c4402695a07771aeddf0021d4ab875c1
+#EXTINF:-1 group-title="WWCPE", Slovakia Women vs Finland Women (PINKMAN)
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=57264a3e67e23d3c92f8c4a94462548a&txTime=6a234117
+#EXTINF:-1 group-title="WWCPE", Armenia Women vs Kazakhstan Women (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780677319-0-0-29ca1dbd0a41135bbf6cdaa111948fac
+#EXTINF:-1 group-title="WWCPE", Armenia Women vs Kazakhstan Women (NGƯỜI CÁ)
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780677319-0-0-54744067cdcf77f914b54f9b01238460
+#EXTINF:-1 group-title="WWCPE", Azerbaijan Women vs Hungary Women (BLV PICK)
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780677319-0-0-f58919b40bba8f15052f3a83587622e0
+#EXTINF:-1 group-title="WWCPE", Azerbaijan Women vs Hungary Women (BLV BÉO)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=da825e6b70b1398912d1d2978a706595&txTime=6a234117
 #EXTINF:-1 group-title="INTERF", Tajikistan vs India (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780611214-0-0-97a24af5f1be73270dfa8dca7b782ba1
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780677319-0-0-2e6eca372db987812c24e38d2de68623
+#EXTINF:-1 group-title="INTERF", Tajikistan vs India (HÀ DUY KIÊN)
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780677319-0-0-c230655e0db201bfc846d2baa15bcf46
+#EXTINF:-1 group-title="INTERF", Tajikistan vs India (BLV ANH TÀI)
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780677319-0-0-4b3a8b85f4ae2e66fd09a25a71e4fbd2
 #EXTINF:-1 group-title="INTERF", Tajikistan vs India (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780611159-0-0-5e69996fc5c637055a4ad4f084424c09
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780677319-0-0-f4db112ef45d97713f26a52e9f9ef927
+#EXTINF:-1 group-title="FIN D2", FC Haka vs JaPS (XUÂN SON)
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c1eed817eb1dc6c29c4a843790f1368a&txTime=6a234117
 #EXTINF:-1 group-title="FIN D2", FC Haka vs JaPS (BLV LONG)
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=a4e85322cef78f94763d79e5610c2cb9&txTime=6a222240
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=f94ca14006ccdfc42714a865161b7707&txTime=6a234117
