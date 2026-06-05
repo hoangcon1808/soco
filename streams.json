@@ -17,12 +17,12 @@
     "streamer": "PINKMAN",
     "match": "Slovakia Women vs Finland Women",
     "category": "WWCPE",
-    "best_url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=e336264be8416c060be0cd51cf3153c5&txTime=6a234500",
+    "best_url": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=443176c9154df4a69954eb7be0f78237&txTime=6a239bcb",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=2a6adffeb2b9e452228a2a3ab63abc0b&txTime=6a234500",
-      "hd_flv": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=e336264be8416c060be0cd51cf3153c5&txTime=6a234500",
-      "m3u8": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=2a6adffeb2b9e452228a2a3ab63abc0b&txTime=6a234500",
-      "hd_m3u8": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=e336264be8416c060be0cd51cf3153c5&txTime=6a234500"
+      "flv": "https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=fb3d8b30216c537b771d7a3266b5bc8f&txTime=6a239bcb",
+      "hd_flv": "https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=443176c9154df4a69954eb7be0f78237&txTime=6a239bcb",
+      "m3u8": "https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=fb3d8b30216c537b771d7a3266b5bc8f&txTime=6a239bcb",
+      "hd_m3u8": "https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=443176c9154df4a69954eb7be0f78237&txTime=6a239bcb"
     }
   },
   {
@@ -69,12 +69,12 @@
     "streamer": "BLV BÉO",
     "match": "Azerbaijan Women vs Hungary Women",
     "category": "WWCPE",
-    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7526f84dd749c4af829788fe9429aa75&txTime=6a238587",
+    "best_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=60a3949b75b79ae804e85144224a9df0&txTime=6a238b99",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=55c91a0250d91626d28edbbf40ebbbf7&txTime=6a238587",
-      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=7526f84dd749c4af829788fe9429aa75&txTime=6a238587",
-      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=55c91a0250d91626d28edbbf40ebbbf7&txTime=6a238587",
-      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7526f84dd749c4af829788fe9429aa75&txTime=6a238587"
+      "flv": "https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=70ab0e5ef7e2f4692714d4e0aa53202e&txTime=6a238b99",
+      "hd_flv": "https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=60a3949b75b79ae804e85144224a9df0&txTime=6a238b99",
+      "m3u8": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=70ab0e5ef7e2f4692714d4e0aa53202e&txTime=6a238b99",
+      "hd_m3u8": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=60a3949b75b79ae804e85144224a9df0&txTime=6a238b99"
     }
   },
   {
@@ -95,12 +95,12 @@
     "streamer": "HÀ DUY KIÊN",
     "match": "Tajikistan vs India",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780681976-0-0-bb5ff97735996558e1d32c36e12f4a1b",
+    "best_url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780700539-0-0-baf07940cbb65dac97fc002ff323b15a",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780681976-0-0-6cbdd60e90178f2f5092aab09e20fbcf",
-      "hd_flv": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780681976-0-0-d1d24d07a7024ce59a4cb73194a44df6",
-      "m3u8": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780681976-0-0-311e3c5f1233e896d5b080e1f1a58318",
-      "hd_m3u8": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780681976-0-0-bb5ff97735996558e1d32c36e12f4a1b"
+      "flv": "https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780700539-0-0-2522f77d898eee4d1ead3ccfec5cf338",
+      "hd_flv": "https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780700539-0-0-403241c97d797f0ac9fec374dc38a5f1",
+      "m3u8": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780700539-0-0-a03302d4fc0973f7f1a568465a219c1e",
+      "hd_m3u8": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780700539-0-0-baf07940cbb65dac97fc002ff323b15a"
     }
   },
   {
@@ -147,12 +147,12 @@
     "streamer": "BLV LONG",
     "match": "FC Haka vs JaPS",
     "category": "FIN D2",
-    "best_url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=832b17bfe8e9c7ad2a6814fe27b6170d&txTime=6a238587",
+    "best_url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=7bf9440a75f61ccaadf3c44ba5246d66&txTime=6a238644",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=336066e9ceb52063a69966105bd5ff40&txTime=6a238587",
-      "hd_flv": "https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=832b17bfe8e9c7ad2a6814fe27b6170d&txTime=6a238587",
-      "m3u8": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=336066e9ceb52063a69966105bd5ff40&txTime=6a238587",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=832b17bfe8e9c7ad2a6814fe27b6170d&txTime=6a238587"
+      "flv": "https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=dcc70d39eb5c0a4251c153d8db2a69c5&txTime=6a238644",
+      "hd_flv": "https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=7bf9440a75f61ccaadf3c44ba5246d66&txTime=6a238644",
+      "m3u8": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=dcc70d39eb5c0a4251c153d8db2a69c5&txTime=6a238644",
+      "hd_m3u8": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=7bf9440a75f61ccaadf3c44ba5246d66&txTime=6a238644"
     }
   }
 ]
