@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="BRA D2", Criciuma vs Londrina PR (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780773080-0-0-ba3017598a754fd8d61e1a1312fe2f06
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780779260-0-0-250cbb07e80a06efd2fef18ad94c1b72
 #EXTINF:-1 group-title="BRA D2", Criciuma vs Londrina PR (BLV PICK)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780765161-0-0-4eca20c4b783e77525b0186d6fa9a255
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780779260-0-0-2266d2bdd576dbdbbe21e4163c3a2de7
 #EXTINF:-1 group-title="BRA D2", Criciuma vs Londrina PR (BLV GÔN)
 https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=0b3b465799fd99035fab6c7cdb570105&txTime=6a249936
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780773080-0-0-71e923151aeb7447d55ca3e234ea3bcd
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780779260-0-0-8931d5d094a7a9bc74bc9e3df47b7025
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780764930-0-0-c8231cf3c214b497fd5e3f03c4f206c3
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780779260-0-0-befde59c70bbf358ef150cc567a6af68
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=369bb02d4a8d17aadfeaf08536b779b1&txTime=6a24b728
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=697828bf94ea6083c745ceab7509a2d4&txTime=6a24cf4c
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780765183-0-0-612a9e77f4d7cf74c2dfd1e6592b7252
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780779260-0-0-9556bed2d5e1df2df49b626bc236c189
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780765091-0-0-806920df56244089036593bd98489151
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780779260-0-0-7cbe2e5f73c9445f43790b65d77a79c9
 #EXTINF:-1 group-title="UEFA U19", Portugal U19 vs Greece U19 (BLV RAMBO)
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=95d98c142df8a804f9e83231ac60d7ef&txTime=6a24a65d
 #EXTINF:-1 group-title="UEFA U19", Portugal U19 vs Greece U19 (BLV AB)
@@ -24,14 +24,14 @@ https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780768617-0-0-0503
 #EXTINF:-1 group-title="UEFA U19", Portugal U19 vs Greece U19 (BLV HÚP)
 https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780765831-0-0-76cc056d989c5c0ffab5a7b3dc710559
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780773080-0-0-498d5debb96cb15da5c1e7afcf51e23b
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780779260-0-0-588b90e99d13c62759e6a2e763553792
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV COZY)
 https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780768551-0-0-ea875800af8f11da8e016a60e87a8679
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780773080-0-0-b42d81f0d23b4c822b28911160f45944
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780779260-0-0-fec7e5d6ea9f21911c840a6e7ee52f49
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV LONG)
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780773080-0-0-2f540e736f0d8dac8f818bfb538b99ac
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780778548-0-0-c7f1f325d10cfe97d49c999a92342983
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (NGƯỜI CÁ)
 https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780768570-0-0-62f6199a7c922c76a3ea37701e0303c2
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV CÁP)
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780773080-0-0-4d43490187dafbd16b16fe84075c2f5e
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780779260-0-0-454a397ebd77c919c3f745a11ad90884
