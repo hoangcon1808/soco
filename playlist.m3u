@@ -1,53 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="BCUP", Lithuania vs Latvia (ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780762193-0-0-c5da82fea442ceb38b1e6c99197aff42
-#EXTINF:-1 group-title="BCUP", Lithuania vs Latvia (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780762253-0-0-a6551b3994fd63c7176399a8dc1a92a9
-#EXTINF:-1 group-title="BCUP", Lithuania vs Latvia (KÉP)
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780762347-0-0-14cd3175df8e474444d9e120ca4d4e83
-#EXTINF:-1 group-title="BCUP", Lithuania vs Latvia (BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f11ef16c65e7950ae764f607955c72e3&txTime=6a248d27
-#EXTINF:-1 group-title="BCUP", Lithuania vs Latvia (BLV 24H)
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780762820-0-0-5c87e000d384af9592e39f9aaae37ed1
 #EXTINF:-1 group-title="BRA D2", Criciuma vs Londrina PR (BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780762820-0-0-0fd5f46b19991521f59368a81eb59268
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780767680-0-0-12828d8205930223663ae32c1afa3f13
 #EXTINF:-1 group-title="BRA D2", Criciuma vs Londrina PR (BLV PICK)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780762820-0-0-76f25642d2df153ba1204627af4e1979
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780765161-0-0-4eca20c4b783e77525b0186d6fa9a255
 #EXTINF:-1 group-title="BRA D2", Criciuma vs Londrina PR (BLV GÔN)
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=bbfa037198b2773e46f8d8cf60d0b14e&txTime=6a248f14
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=0b3b465799fd99035fab6c7cdb570105&txTime=6a249936
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780762820-0-0-1782f32a0385cc1f9ebd77bf8b753d50
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780764824-0-0-d621a41346b9b5b133ebaae2389f06ea
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780762820-0-0-f0b91e85bf68aa481fe9b8f9fa84f852
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780764930-0-0-c8231cf3c214b497fd5e3f03c4f206c3
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=29297ded1640853f63019143831d7260&txTime=6a248f14
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f0e21f229e0a9468bd55919ea1983284&txTime=6a2496e9
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780762820-0-0-c75fc245bef13af6194ab92fd64e302a
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780765183-0-0-612a9e77f4d7cf74c2dfd1e6592b7252
 #EXTINF:-1 group-title="INTERF", Armenia vs Kazakhstan (LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780762820-0-0-e37491d42d859546dc193faa5dbc7a7c
-#EXTINF:-1 group-title="UEFA U17", Ukraine U17 vs Latvia U17 (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780762820-0-0-8d7fc46a41777c97a92080ba1b2033f4
-#EXTINF:-1 group-title="UEFA U17", Ukraine U17 vs Latvia U17 (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2e8aca9d10f8a49f0408aaecb1fa9d4b&txTime=6a248f14
-#EXTINF:-1 group-title="UEFA U17", Ukraine U17 vs Latvia U17 (QUỐC KHÁNH)
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780762820-0-0-d12cb9e0a57dbb6425dc428cc30a5ea2
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780765091-0-0-806920df56244089036593bd98489151
 #EXTINF:-1 group-title="UEFA U19", Portugal U19 vs Greece U19 (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b6f639abd70fc6fca6055665f006c635&txTime=6a248f14
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=06b4cf017f7a300e61f7ef0cb7ba4db6&txTime=6a24a210
 #EXTINF:-1 group-title="UEFA U19", Portugal U19 vs Greece U19 (BLV AB)
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780762820-0-0-ddf5005d07670d47ccc49eabb956b2fc
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780767680-0-0-ca9dbc6f3fbf893f09ebe3ce4fa3f9c7
 #EXTINF:-1 group-title="UEFA U19", Portugal U19 vs Greece U19 (BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780762820-0-0-c5ac92d563c18a8b275eb5af45c1da23
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780767680-0-0-9d6f53e92188003b1e1bc8b454bf59d6
 #EXTINF:-1 group-title="UEFA U19", Portugal U19 vs Greece U19 (BLV HÚP)
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780762820-0-0-ea17c1544b699d76b1a5a25d2b924cbe
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780765831-0-0-76cc056d989c5c0ffab5a7b3dc710559
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780762820-0-0-cb404d3dd99f94a3bd961edc5c0c1c58
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780767679-0-0-2a0e6d4c99d41c8f400d45da9bf3fb53
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780762820-0-0-cada3f0b4defd5fd6850bbbaafa1a95f
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780767679-0-0-120ebc9fc44543ced0a3e8a03b2a3b87
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780762820-0-0-479dfb00eb45b7623ce8eb7d2ef6a802
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780767679-0-0-d96408d8e00a89d49b3fba02cea6082c
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV LONG)
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=297fd720f1cfc0cf652a1bf046c307da&txTime=6a248f14
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=d0958b461cd2cc07bdd19cfa835168a7&txTime=6a24a20f
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780762820-0-0-e05b8d50c0493889dcd798b36efcfe50
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780767680-0-0-c831a072e055c1a7cf508dffc439801a
 #EXTINF:-1 group-title="BCUP", Estonia vs Faroe Islands (BLV CÁP)
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780762820-0-0-c77cbd4666980c25188e1bee60bed705
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780767680-0-0-fa117b4bc9f26ccab3c4f3851aa7b927
