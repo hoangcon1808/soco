@@ -4,12 +4,12 @@
     "streamer": "BLV CÁO",
     "match": "Criciuma vs Londrina PR",
     "category": "BRA D2",
-    "best_url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780767680-0-0-12828d8205930223663ae32c1afa3f13",
+    "best_url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780773080-0-0-ba3017598a754fd8d61e1a1312fe2f06",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780767680-0-0-5f895c9d4e915dc1ee4feb36df172f05",
-      "hd_flv": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780767680-0-0-3725aa387e4bfa3bc025a411d38615b1",
-      "m3u8": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780767680-0-0-0e07de72b6f23b61a009ca15a595191d",
-      "hd_m3u8": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780767680-0-0-12828d8205930223663ae32c1afa3f13"
+      "flv": "https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780773080-0-0-ab76e7912a31a69d83f78383e729efde",
+      "hd_flv": "https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780773080-0-0-512137133f30480ba51d51ba19af54ae",
+      "m3u8": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780773080-0-0-98f424bf959202ee6127a46102e13f72",
+      "hd_m3u8": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780773080-0-0-ba3017598a754fd8d61e1a1312fe2f06"
     }
   },
   {
@@ -43,12 +43,12 @@
     "streamer": "BLV ALEX",
     "match": "Armenia vs Kazakhstan",
     "category": "INTERF",
-    "best_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780764824-0-0-d621a41346b9b5b133ebaae2389f06ea",
+    "best_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780773080-0-0-71e923151aeb7447d55ca3e234ea3bcd",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780764824-0-0-f85a954de1c1376ae48ed5b4d1fb7eee",
-      "hd_flv": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780764824-0-0-ab06b0981cb22f0710f605468b6557f9",
-      "m3u8": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780764824-0-0-c4b73443cb153b3186e14f54fe27ca44",
-      "hd_m3u8": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780764824-0-0-d621a41346b9b5b133ebaae2389f06ea"
+      "flv": "https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780773080-0-0-660198289530e32a0e94cfac1cea27ee",
+      "hd_flv": "https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780773080-0-0-efca347d0ed19113fa86c86ddf440eea",
+      "m3u8": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780773080-0-0-8cc4374b710af7575627376acecfb09d",
+      "hd_m3u8": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780773080-0-0-71e923151aeb7447d55ca3e234ea3bcd"
     }
   },
   {
@@ -69,12 +69,12 @@
     "streamer": "VƯƠNG ANH",
     "match": "Armenia vs Kazakhstan",
     "category": "INTERF",
-    "best_url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f0e21f229e0a9468bd55919ea1983284&txTime=6a2496e9",
+    "best_url": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=369bb02d4a8d17aadfeaf08536b779b1&txTime=6a24b728",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=6082b6c1ec7e62cd0b6d484b81bc0649&txTime=6a2496e9",
-      "hd_flv": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=f0e21f229e0a9468bd55919ea1983284&txTime=6a2496e9",
-      "m3u8": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=6082b6c1ec7e62cd0b6d484b81bc0649&txTime=6a2496e9",
-      "hd_m3u8": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f0e21f229e0a9468bd55919ea1983284&txTime=6a2496e9"
+      "flv": "https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=00a99030dfda8b3d3545780453d1e8d4&txTime=6a24b728",
+      "hd_flv": "https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=369bb02d4a8d17aadfeaf08536b779b1&txTime=6a24b728",
+      "m3u8": "https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=00a99030dfda8b3d3545780453d1e8d4&txTime=6a24b728",
+      "hd_m3u8": "https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=369bb02d4a8d17aadfeaf08536b779b1&txTime=6a24b728"
     }
   },
   {
@@ -108,12 +108,12 @@
     "streamer": "BLV RAMBO",
     "match": "Portugal U19 vs Greece U19",
     "category": "UEFA U19",
-    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=06b4cf017f7a300e61f7ef0cb7ba4db6&txTime=6a24a210",
+    "best_url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=95d98c142df8a804f9e83231ac60d7ef&txTime=6a24a65d",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=4c1c0e560fa27b2989083416efd81521&txTime=6a24a210",
-      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=06b4cf017f7a300e61f7ef0cb7ba4db6&txTime=6a24a210",
-      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=4c1c0e560fa27b2989083416efd81521&txTime=6a24a210",
-      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=06b4cf017f7a300e61f7ef0cb7ba4db6&txTime=6a24a210"
+      "flv": "https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=c1dfa62d3dfef44f3c3dc7fc3abb2dfc&txTime=6a24a65d",
+      "hd_flv": "https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=95d98c142df8a804f9e83231ac60d7ef&txTime=6a24a65d",
+      "m3u8": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c1dfa62d3dfef44f3c3dc7fc3abb2dfc&txTime=6a24a65d",
+      "hd_m3u8": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=95d98c142df8a804f9e83231ac60d7ef&txTime=6a24a65d"
     }
   },
   {
@@ -121,12 +121,12 @@
     "streamer": "BLV AB",
     "match": "Portugal U19 vs Greece U19",
     "category": "UEFA U19",
-    "best_url": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780767680-0-0-ca9dbc6f3fbf893f09ebe3ce4fa3f9c7",
+    "best_url": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780768545-0-0-caff8fcee39ad8c3b5c8a34280652002",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780767680-0-0-998ea98714dab3cd4ca005ee7215b8ae",
-      "hd_flv": "https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780767680-0-0-22477073d2a8834c9d206bbff5cfa1e7",
-      "m3u8": "https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780767680-0-0-2515b7abab45474e6f8dc5dd7b480007",
-      "hd_m3u8": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780767680-0-0-ca9dbc6f3fbf893f09ebe3ce4fa3f9c7"
+      "flv": "https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780768545-0-0-3cea852b955db06f32c7f92c23c426be",
+      "hd_flv": "https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780768545-0-0-a483d1977a8727843d5fdb7efa954ab6",
+      "m3u8": "https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780768545-0-0-58836bbe25b6941e140e9ed356183954",
+      "hd_m3u8": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780768545-0-0-caff8fcee39ad8c3b5c8a34280652002"
     }
   },
   {
@@ -134,12 +134,12 @@
     "streamer": "BLV A WIN",
     "match": "Portugal U19 vs Greece U19",
     "category": "UEFA U19",
-    "best_url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780767680-0-0-9d6f53e92188003b1e1bc8b454bf59d6",
+    "best_url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780768617-0-0-050386c36d1dd667d64a2b3d86fff8b1",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780767680-0-0-9383431ae963d6a06bc6eca4518988ab",
-      "hd_flv": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780767680-0-0-e39a256be4a68dce0915dc8089d79998",
-      "m3u8": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780767680-0-0-d6dc6304ba67d498729a1f5bf2faaf45",
-      "hd_m3u8": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780767680-0-0-9d6f53e92188003b1e1bc8b454bf59d6"
+      "flv": "https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780768617-0-0-e0f1ee7f60db6ce2b73fae6f7a5bb58a",
+      "hd_flv": "https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780768617-0-0-757ffb7543af33aa909e2008f131e0a0",
+      "m3u8": "https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780768617-0-0-7f694f97dfd427c3d9551a952de990cb",
+      "hd_m3u8": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780768617-0-0-050386c36d1dd667d64a2b3d86fff8b1"
     }
   },
   {
@@ -160,12 +160,12 @@
     "streamer": "BLV ROBBEN",
     "match": "Estonia vs Faroe Islands",
     "category": "BCUP",
-    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780767679-0-0-2a0e6d4c99d41c8f400d45da9bf3fb53",
+    "best_url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780773080-0-0-498d5debb96cb15da5c1e7afcf51e23b",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780767679-0-0-fb65722a7cc793e0a447b8b2c3a8f889",
-      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780767679-0-0-e0cf9786329b39055231bd0d24a18f7d",
-      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780767679-0-0-648ce77cdda203739dfc5b9c8ea5c9af",
-      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780767679-0-0-2a0e6d4c99d41c8f400d45da9bf3fb53"
+      "flv": "https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780773080-0-0-8417afac9b7822e530e91d9e59606b19",
+      "hd_flv": "https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780773080-0-0-379b783d7764e296975fe96d2740ae15",
+      "m3u8": "https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780773080-0-0-88d194b6eb7cceec03894bbb3edb5eac",
+      "hd_m3u8": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780773080-0-0-498d5debb96cb15da5c1e7afcf51e23b"
     }
   },
   {
@@ -173,12 +173,12 @@
     "streamer": "BLV COZY",
     "match": "Estonia vs Faroe Islands",
     "category": "BCUP",
-    "best_url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780767679-0-0-120ebc9fc44543ced0a3e8a03b2a3b87",
+    "best_url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780768551-0-0-ea875800af8f11da8e016a60e87a8679",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780767679-0-0-23cdfc90b7763b87ab674a0b64ab330d",
-      "hd_flv": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780767679-0-0-ee25792b162c614bf2034be0b7b23784",
-      "m3u8": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780767679-0-0-d92512719f2ee6817461eda87b412c11",
-      "hd_m3u8": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780767679-0-0-120ebc9fc44543ced0a3e8a03b2a3b87"
+      "flv": "https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780768551-0-0-094d2cca4aa26c9db93c83b7b1b3f160",
+      "hd_flv": "https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780768551-0-0-04aca7b0a8c5666dc74f4c343a5df46e",
+      "m3u8": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780768551-0-0-d6feec31d3518966aeee568897afdf3a",
+      "hd_m3u8": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780768551-0-0-ea875800af8f11da8e016a60e87a8679"
     }
   },
   {
@@ -186,12 +186,12 @@
     "streamer": "BLV KEM",
     "match": "Estonia vs Faroe Islands",
     "category": "BCUP",
-    "best_url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780767679-0-0-d96408d8e00a89d49b3fba02cea6082c",
+    "best_url": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780773080-0-0-b42d81f0d23b4c822b28911160f45944",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780767679-0-0-a6c726f430c6680d3040eccc097d4b22",
-      "hd_flv": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780767679-0-0-7afb8dd3c28797a314728a897e3e31cf",
-      "m3u8": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780767679-0-0-9af047ab6d415c906e86268aada769aa",
-      "hd_m3u8": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780767679-0-0-d96408d8e00a89d49b3fba02cea6082c"
+      "flv": "https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780773080-0-0-341fe8b6e67d88745c7f5fcf01bc83c6",
+      "hd_flv": "https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780773080-0-0-f66254d09b9e01e4d0d2f96431e829f3",
+      "m3u8": "https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780773080-0-0-17d1c93532b814e318bf14eaa1cb0a5d",
+      "hd_m3u8": "https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780773080-0-0-b42d81f0d23b4c822b28911160f45944"
     }
   },
   {
@@ -199,12 +199,12 @@
     "streamer": "BLV LONG",
     "match": "Estonia vs Faroe Islands",
     "category": "BCUP",
-    "best_url": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=d0958b461cd2cc07bdd19cfa835168a7&txTime=6a24a20f",
+    "best_url": "https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780773080-0-0-2f540e736f0d8dac8f818bfb538b99ac",
     "urls": {
-      "flv": "https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=2e7e1cf08dad39362c977f9902102a1e&txTime=6a24a20f",
-      "hd_flv": "https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=d0958b461cd2cc07bdd19cfa835168a7&txTime=6a24a20f",
-      "m3u8": "https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=2e7e1cf08dad39362c977f9902102a1e&txTime=6a24a20f",
-      "hd_m3u8": "https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=d0958b461cd2cc07bdd19cfa835168a7&txTime=6a24a20f"
+      "flv": "https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1780773080-0-0-b29afa27644178183ad321ac7e0ca545",
+      "hd_flv": "https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1780773080-0-0-c600edb245e413ef445f59d65f90c7d6",
+      "m3u8": "https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780773080-0-0-89b26fc47962e0440f7ea17dceb2628d",
+      "hd_m3u8": "https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780773080-0-0-2f540e736f0d8dac8f818bfb538b99ac"
     }
   },
   {
@@ -212,12 +212,12 @@
     "streamer": "NGƯỜI CÁ",
     "match": "Estonia vs Faroe Islands",
     "category": "BCUP",
-    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780767680-0-0-c831a072e055c1a7cf508dffc439801a",
+    "best_url": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780768570-0-0-62f6199a7c922c76a3ea37701e0303c2",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780767680-0-0-b3648e67baa6f84aa18984b1b62df3e7",
-      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780767680-0-0-f4fe2f34a0b9ba3615e583e83a29efbd",
-      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780767680-0-0-36797f8f78772960269378992b0cd02e",
-      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780767680-0-0-c831a072e055c1a7cf508dffc439801a"
+      "flv": "https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780768570-0-0-798fecd8f2981d0cd3115b862a1811b6",
+      "hd_flv": "https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780768570-0-0-c60ecd8ea6eb97bff9bea295ade1dff0",
+      "m3u8": "https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780768570-0-0-12e712db35d851d6a6164b69613cd206",
+      "hd_m3u8": "https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780768570-0-0-62f6199a7c922c76a3ea37701e0303c2"
     }
   },
   {
@@ -225,12 +225,12 @@
     "streamer": "BLV CÁP",
     "match": "Estonia vs Faroe Islands",
     "category": "BCUP",
-    "best_url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780767680-0-0-fa117b4bc9f26ccab3c4f3851aa7b927",
+    "best_url": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780773080-0-0-4d43490187dafbd16b16fe84075c2f5e",
     "urls": {
-      "flv": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780767680-0-0-32df5dc05effacad0913406e403f44e0",
-      "hd_flv": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780767680-0-0-ca17197b0234483b69caa927ca439bb5",
-      "m3u8": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780767680-0-0-2ed122c94b4d18fcb68cf42a8fd8f170",
-      "hd_m3u8": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780767680-0-0-fa117b4bc9f26ccab3c4f3851aa7b927"
+      "flv": "https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780773080-0-0-8e1df4888d0f4e08bccd3c490a89561e",
+      "hd_flv": "https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780773080-0-0-39b05ef1963ca7867d10b7b8a06d547f",
+      "m3u8": "https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780773080-0-0-a09367cf44a2dae9785a30fc51a83937",
+      "hd_m3u8": "https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780773080-0-0-4d43490187dafbd16b16fe84075c2f5e"
     }
   }
 ]
